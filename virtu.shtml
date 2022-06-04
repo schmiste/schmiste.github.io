@@ -1,0 +1,542 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN">
+
+<html lang="en">
+<head>
+  <meta http-equiv="content-type" content=
+  "text/html; charset=us-ascii">
+
+  <title>Virtu</title>
+  <link rel="stylesheet" type="text/css" href="stefans-virtu.css">
+</head>
+
+<body>
+  <table summary="CloudNets" class="titlematter">
+    <tr>
+      <td style="padding-right: 4em">
+        <h2>Connecting Wide-Area Cloud Resources with Virtual Networking</h2>
+
+        <h1>CloudNets</h1>
+
+        <address>
+          Internet Network Architectures (INET)<br>
+          TU Berlin and Deutsche Telekom Lab<br>
+          Contact: <a href=
+          "index.html">Stefan
+          Schmid</a><br>
+        </address>
+      </td>
+
+      <td valign="middle" align="left"><img height="260" width=
+      "450" alt="VNet Embeddings" src=
+      "cloudnet.jpg"></td>
+    </tr>
+  </table>
+
+  <ul class="navi" title="in-site navigation">
+      <li>
+      <p><a href="virtu.shtml#news">News</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#overview">Overview</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#people">People</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#press">Magazines</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#pubs">Publications</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#demo">Demo</a></p>
+    </li>
+    <li>
+      <p><a href="virtu.shtml#talks">Talks/Posters</a></p>
+    </li>
+  </ul>
+
+<div id="content">
+  <h2><a name="news" id="news">News</a></h2>
+
+    <ul>
+      <li>
+      <p><a href=
+      "cloudnet13.pdf">Our paper</a> on virtual network embeddings with collocation wins IEEE CLOUDNET 2013 <em>best paper award</em>.</p>
+    </li>
+
+    <li>
+  <p><a href=
+      "icdcn12.pdf">Our paper</a> on online virtual network embeddings wins ICDCN 2012 <em>best paper award</em>.</p>
+    </li>
+    <li>
+          <p><em>Out now!</em> Open source
+      <em>CloudNet</em> prototype. Start contributing <a href=
+      "https://projects.net.t-labs.tu-berlin.de/projects/cloudnets-framework/wiki">here</a>.</p>
+    </li>
+   <li>
+      <p>Watch on YouTube: migration demonstrator <a href="http://www.youtube.com/watch?v=llJce0F1zHQ">video</a>!</p>
+    </li>
+
+      <li>
+      <p>We are looking for students and interns with good algorithmic background to contribute to the CloudNet project.
+      <a href= "index.html">Contact us</a> for more details or have a look at some <a href=
+      "http://www.inet.tu-berlin.de/menue/teaching0/theses/topics/#356854">
+      open topics</a>.</p>
+    </li>
+  </ul>
+
+  <h2><a name="overview" id="overview">Project Overview</a></h2>
+
+  <p><a href= "ercim12.pdf">CloudNets</a> are (wide-area) virtual networks (VNets) connecting geographically distributed
+  cloud resources (e.g., large or small datacenters). The
+  <a href="http://ercim-news.ercim.eu/en77/special/network-virtualization-an-enabler-for-overcoming-ossification">network
+      virtualization</a> paradigm allows to run multiple CloudNets on top of a shared physical infrastructure. These CloudNets can have different properties (provide different security or QoS guarantees, run  different protocols, etc.) and can be managed independently of each other. Moreover, (parts of) a CloudNet can be migrated dynamically to locations where the service is most useful or most
+  cost efficient (e.g., in terms of energy conservation). Depending on the circumstances and the technology, these migrations can be done live and without interrupting ongoing sessions. The
+  flexibility of the paradigm and the decoupling of the services from the underlying resource networks has many advantages; for example, it facilitates a more efficient use of the given
+  resources, it promises faster innovations by overcoming the ossification of today's Internet architecture, it simplifies the
+  network management, and it can improve service performance.</p>
+
+  <p>We are currently developing a <a href="virtu-kickoff.pdf">prototype system</a>
+  for this paradigm (currently based on VLANs), which raises many scientific
+  challenges. For example, we address the problem of where
+  to embed CloudNet requests (e.g., see [<a href="icdcn12.pdf">1</a>] for online CloudNet embeddings
+  and [<a href="ucc12mip.pdf">2</a>] for a general mathematical embedding program), or devise algorithms to migrate CloudNets to
+  new locations (e.g., due to user mobility) taking into account
+  the corresponding migration cost (see [<a href="visa10.pdf">3</a>] for single server migration,
+  [<a href="hotice11.pdf">4</a>] for multi-server allocation, and [<a href="iptcomm11.pdf">5</a>]
+  for migration in a multi-provider network). Since the arrival of CloudNet requests or the demand for a certain service
+  may be hard to predict, we often employ the tools of competitive analysis to devise online algorithms that do
+  not rely on any predictions about the future but still guarantee a
+  provable worst-case performance.</p>
+
+  <p>The project also has
+  interesting economic dimensions (e.g., regarding pricing
+  mechanisms).</p>
+
+
+  <h2><a name="people" id="people">People</a></h2>
+
+  <p><em>This project is a joint work with NTT DoCoMo Eurolabs Munich (group headed by Wolfgang Kellerer).</em></p>
+
+
+  <h3>Current project lead at INET:</h3>
+
+
+<p>Anja Feldmann, Carlo F&uuml;rst, Johannes Grassler, Arne Ludwig, Matthias Rost, Stefan Schmid</p>
+
+
+<!-- <table class="people">
+
+    <tr>
+
+      <td>  <a href="http://www.net.t-labs.tu-berlin.de/people/anja.shtml"><img src="anja.jpg" alt="Anja Feldmann" title=
+
+      "Anja Feldmann" height="150"></a><br></td>
+
+      <td><a href="http://www.net.t-labs.tu-berlin.de/people/grsch.shtml"><img src="gregor-2.jpg" alt="Gregor Schaffrath" title=
+
+      "Gregor Schaffrath" height="150"></a><br></td>
+
+      <td><a href="index.html"><img src="stefan.jpg" alt="Stefan Schmid" title=
+
+      "Stefan Schmid" height="150"></a><br> </td>
+
+    </tr>
+
+  </table>
+
+-->
+
+
+  <h2><a name="press" id="press">Magazine Articles</a></h2>
+
+  <ul>
+      <li>
+     <p><a href="ercim12.pdf">CloudNets: Combining
+Clouds with Networking</a><br>
+      Anja Feldmann, Gregor Schaffrath, and Stefan Schmid.<br>
+      ERCIM News, (88):56&ndash;57, January 2012.<br>
+</p>
+    </li>
+
+    <li>
+      <p><a href=
+      "http://ercim-news.ercim.eu/en77/special/network-virtualization-an-enabler-for-overcoming-ossification">Network
+      Virtualization - An Enabler for Overcoming
+      Ossification</a><br>
+      Anja Feldmann, Mario Kind, Olaf Maennel, Gregor Schaffrath,
+      and Christoph Werle.<br>
+      ERCIM News, (77):21&ndash;22, April 2009.<br>
+      Documents: link&nbsp;<a href=
+      "http://ercim-news.ercim.eu/en77/special/network-virtualization-an-enabler-for-overcoming-ossification">link</a></p>
+    </li>
+  </ul>
+
+
+  <h2><a name="pubs" id="pubs">Publications</a></h2>
+
+
+<h3>Embeddings:</h3>
+
+  <ul>
+           <li>
+      <p><a href="http://link.springer.com/article/10.1007/s00446-014-0217-4">Adversarial Topology Discovery in Network Virtualization
+Environments: A Threat for ISPs?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, 2014.<br>
+      Documents: paper&nbsp;<a href="dist14-CR.pdf">pdf</a></p>
+    </li>
+
+        <li>
+      <p><a href="ipdps14.pdf">It's About Time: On Optimal Virtual Network Embeddings under
+Temporal Flexibilities</a><br>
+      Matthias Rost, Stefan Schmid, and Anja Feldmann.<br>
+       28th IEEE International Parallel and
+Distributed Processing Symposium (<b>IPDPS</b>), Phoenix, Arizona, USA, May 2014.<br>
+      Documents: paper&nbsp;<a href="ipdps14.pdf">pdf</a>, slides&nbsp;<a href="ipdps14slides.pdf">pdf</a></p>
+    </li>
+
+
+    <li>
+      <p><a href="opodis13cvsap.pdf">VirtuCast: Multicast and Aggregation with In-Network Processing (An Exact Single-Commodity Algorithm)</a><br>
+      Matthias Rost and Stefan Schmid.<br>
+       17th International Conference on Principles of Distributed Systems (<b>OPODIS</b>), Nice, France, Springer LNCS, December 2013.<br>
+      Documents: paper&nbsp;<a href="opodis13cvsap.pdf">pdf</a>,
+      slides&nbsp;<a href="VirtuCast_OPODIS_2013.pdf">pdf</a>, project website&nbsp;<a href="cvsap.html">html</a></p>
+    </li>
+
+  <li>
+      <p><a href="cloudnets13.pdf">Virtual Network Embedding with Collocation: Benefits and Limitations of Pre-Clustering</a> (Best Paper Award)<br>
+      Carlo Fuerst, Stefan Schmid, and Anja Feldmann.<br>
+       2nd IEEE International Conference on Cloud Networking (<b>CLOUDNET</b>), San Francisco, California, USA, November 2013.<br>
+      Documents: paper&nbsp;<a href="cloudnets13.pdf">pdf</a>,
+      slides&nbsp;<a href="cloudnet13slides.pdf">pdf</a></p>
+    </li>
+
+          <li>
+      <p><a href="itc13.pdf">Specificity vs. Flexibility: On the Embedding Cost of a Virtual Network</a><br>
+      Arne Ludwig, Stefan Schmid, and Anja Feldmann.<br>
+       25th International Teletraffic Congress (<b>ITC</b>), Shanghai, China, September 2013.<br>
+      Documents: paper&nbsp;<a href="itc13.pdf">pdf</a>,
+      slides&nbsp;<a href="itc13slides.pdf">pdf</a></p>
+    </li>
+
+     <li>
+      <p><a href="netys13.pdf">Request Complexity of VNet Topology Extraction:
+Dictionary-Based Attacks</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      International Conference on Networked Systems (<b>NETYS</b>), Marrakech, Morocco, Springer LNCS 7853, May 2013<br>
+      Documents: paper&nbsp;<a href="netys13.pdf">pdf</a>,
+      slides&nbsp;<a href="netys13slides.pdf">pdf</a>
+</p>
+    </li>
+
+                <li>
+<p><a href="minicom13.pdf">Adversarial VNet Embeddings: A Threat for ISPs?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      <b>INFOCOM Mini-Conference</b>, Turin, Italy, April 2013.<br>
+      Documents: paper&nbsp;<a href="minicom13.pdf">pdf</a>,
+      slides&nbsp;<a href="infocom13emb.pdf">pdf</a>
+        </li>
+
+      <li>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0304397512009577?v=s5">Competitive and Deterministic Embeddings of Virtual Networks</a><br>
+      Guy Even, Moti Medina, Gregor Schaffrath, and Stefan Schmid.<br>
+       Journal Theoretical Computer Science (<b>TCS</b>), Elsevier, to appear.<br>
+      Documents: paper&nbsp;<a href="tcs12vnet.pdf">pdf</a> <a href="http://www.sciencedirect.com/science/article/pii/S0304397512009577?v=s5">link</a></p>
+    </li>
+
+       <li>
+      <p><a href="cloudnet12.pdf">On the Benefit of Collocation
+in Virtual Network Embeddings</a> (Short Paper)<br>
+      Carlo Fuerst, Stefan Schmid, and Anja Feldmann.<br>
+      1st IEEE International Conference on Cloud Networking
+  (<b>CLOUDNET</b>), Paris, France, November 2012.<br>
+   Documents: paper&nbsp;<a href="cloudnet12.pdf">pdf</a>,
+      poster&nbsp;<a href="cloudnet12poster.pdf">pdf</a></p>
+    </li>
+
+       <li>
+      <p><a href="ucc12mip.pdf">Optimizing Long-Lived CloudNets with Migrations</a><br>
+      Gregor Schaffrath, Stefan Schmid, and Anja Feldmann.<br>
+     5th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Chicago, Illinois, USA, November 2012.<br>
+   Documents: paper&nbsp;<a href="ucc12mip.pdf">pdf</a>,
+      slides&nbsp;<a href="ucc12slides1.pdf">pdf</a></p>
+    </li>
+
+       <li>
+      <p><a href="ucc12pos.pdf">The Price of Specificity in the Age of Network Virtualization </a> (Short Paper)<br>
+      Arne Ludwig, Stefan Schmid, and Anja Feldmann.<br>
+     5th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Chicago, Illinois, USA, November 2012.<br>
+     Documents: paper&nbsp;<a href="ucc12pos.pdf">pdf</a>,
+      slides&nbsp;<a href="ucc12slides2.pdf">pdf</a></p>
+    </li>
+
+   <li>
+      <p><a href="disc12vnetBA.pdf">Brief Announcement: Do VNet Embeddings Reveal ISP Topology?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      26th International Symposium on Distributed Computing (<b>DISC</b>), Salvador, Brazil, Springer LNCS 7611, October 2012.<br>
+      Documents: paper&nbsp;<a href="disc12vnetBA.pdf">pdf</a>,
+      slides&nbsp;<a href="disc12slides.pdf">pdf</a></p>
+    </li>
+
+
+    <li>
+      <p><a href="icdcn12.pdf">Competitive and
+      Deterministic Embeddings of Virtual Networks</a> (Best Paper Award)<br>
+      Guy Even, Moti Medina, Gregor Schaffrath, and Stefan
+      Schmid.<br>
+      13th International Conference on Distributed Computing and
+      Networking (<b>ICDCN</b>), The Hong Kong Polytechnic University, Hong Kong, China,&nbsp;January 2012.<br>
+      Documents: paper&nbsp;<a href=
+      "icdcn12.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcn12slides.pdf">pdf</a></p>
+    </li>
+  </ul>
+
+
+  <h3>Migration:</h3>
+
+  <ul>
+        <li>
+      <p><a href="ucc13.pdf">Strategies for Traffic-Aware VM Migration</a> (Poster Paper)<br>
+      Chen Avin, Omer Dunay, and Stefan Schmid.<br>
+       6th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Dresden, Germany, December 2013.<br>
+      Documents: paper&nbsp;<a href="ucc13.pdf">pdf</a>, poster&nbsp;<a href="poster_UCC13.pdf">pdf</a></p>
+    </li>
+
+          <li>
+      <p><a href="ucc13.pdf">Strategies for Traffic-Aware VM Migration</a> (Poster Paper)<br>
+      Chen Avin, Omer Dunay, and Stefan Schmid.<br>
+       6th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Dresden, Germany, December 2013.<br>
+      Documents: paper&nbsp;<a href="ucc13.pdf">pdf</a></p>
+    </li>
+
+<li>
+      <p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6471794&queryText=The+Wide-Area+Virtual+Service+Migration+Problem:+A+Competitive+Analysis+Approach">The Wide-Area Virtual Service Migration Problem: A Competitive Analysis Approach</a><br>
+      Marcin Bienkowski, Anja Feldmann, Johannes Grassler, Gregor Schaffrath, and Stefan Schmid.<br>
+       IEEE/ACM Transactions on Networking (<b>ToN</b>), to appear.<br>
+      Documents: paper&nbsp;<a href="ton13mig.pdf">pdf</a></p>
+    </li>
+
+           <li>
+<p><a href="infocom13.pdf">Optimal Bounds for Online Page Migration with Generalized Migration Costs</a><br>
+      Johannes Schneider and Stefan Schmid.<br>
+      32nd IEEE Conference on Computer Communications (<b>INFOCOM</b>), Turin, Italy, April 2013.<br>
+      Documents: paper&nbsp;<a href="infocom13.pdf">pdf</a>,
+      slides&nbsp;<a href="infocom13mig.pdf">pdf</a>
+        </li>
+
+        <li>
+<p><a href="infocom13demo.pdf">Move-with-the-Sun or Move-with-the-Moon? Wide-Area CloudNet Migrations Under Latency and Resource Constraints</a><br>
+      Johannes Grassler, Stefan Schmid, and Anja Feldmann.<br>
+      Demo at 32nd IEEE Conference on Computer Communications (<b>INFOCOM Demo</b>), Turin, Italy, April 2013.<br>
+      Documents: paper&nbsp;<a href="infocom13demo.pdf">pdf</a>,
+      poster&nbsp;<a href="info13poster.pdf">pdf</a>
+        </li>
+
+     <li>
+      <p><a href="iptcomm11.pdf">Online Strategies for Intra and Inter Provider
+Service Migration in Virtual Networks</a><br>
+      Dushyant Arora, Marcin Bienkowski, Anja Feldmann, Gregor Schaffrath, and Stefan Schmid.<br>
+      Principles, Systems and Applications of IP Telecommunications (<b>IPTComm</b>), Chicago, Illinois, USA, August 2011.<br>
+      Documents: paper&nbsp;<a href="iptcomm11.pdf">pdf</a>,
+      slides&nbsp;<a href="iptcomm11slides.pdf">pdf</a></p>
+    </li>
+
+   <li>
+      <p><a href="hotice11.pdf">On the Benefit of Virtualization:
+      Strategies for Flexible Server Allocation</a><br>
+      Dushyant Arora, Anja Feldmann, Gregor Schaffrath, and Stefan
+      Schmid.<br>
+      USENIX Workshop on Hot Topics in Management of Internet,
+      Cloud, and Enterprise Networks and Services (<b>Hot-ICE</b>),
+      Boston, Massachusetts, USA, March 2011.<br>
+      Documents: paper&nbsp;<a href="hotice11.pdf">pdf</a>,
+      slides&nbsp;<a href="hotice11slides.pdf">pdf</a>, tech
+      report&nbsp;<a href="virtuben10arxiv.pdf">pdf</a></p>
+    </li>
+
+    <li>
+     <p><a href="visa10.pdf">Competitive Analysis for Service
+      Migration in VNets</a><br>
+      Marcin Bienkowski, Anja Feldmann, Dan Jurca, Wolfgang
+      Kellerer, Gregor Schaffrath, Stefan Schmid, and Joerg
+      Widmer.<br>
+      2nd ACM SIGCOMM Workshop on Virtualized Infrastructure
+      Systems and Architectures (<b>VISA</b>), New Delhi, India, September
+      2010.<br>
+      Documents: paper&nbsp;<a href="visa10.pdf">pdf</a>,
+      slides&nbsp;<a href="visa10slides.pdf">pdf</a></p>
+    </li>
+  </ul>
+
+  <h3>Prototype architecture and economics:</h3>
+
+  <ul>
+            <li>
+      <p><a href="pimrc13.pdf">An Architecture for Creating and Managing Virtual Networks</a><br>
+      Ishan Vaishnavi, David Perez-Caparros, Stefan Schmid, and Ashiq Khan.<br>
+       24th  IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (<b>PIMRC</b>), London, United Kingdom, September 2013.<br>
+      Documents: paper&nbsp;<a href="pimrc13.pdf">pdf</a>,
+      slides&nbsp;<a href="pimrc13slides.pdf">pdf</a></p>
+    </li>
+
+      <li>
+      <p><a href="itheft13.pdf">A Federated CloudNet Architecture: The PIP and the VNP Role</a> (Invited Paper)<br>
+      Johannes Grassler, Gregor Schaffrath, and Stefan Schmid.<br>
+       Information Technology (<b>IT</b>), Special Issue &quot;Internet Challenges&quot;, Issue 4, Oldenbourg Verlag, 2013.<br>
+      Documents: paper&nbsp;<a href="itheft13.pdf">pdf</a>, link&nbsp;<a href="http://it-information-technology.de">publisher</a>, slides&nbsp;<a href="jgr-vino.pdf">pdf</a></p>
+    </li>
+
+      <li>
+      <p><a href="icdcn13.pdf">Optimal Migration Contracts in Virtual Networks: Pay-as-You-Come vs Pay-as-You-Go Pricing</a><br>
+     Xinhui Hu, Stefan Schmid, Andrea Richa, and Anja Feldmann.<br>
+      14th International Conference on Distributed Computing and
+      Networking (<b>ICDCN</b>), Tata Institute of Fundamental Research, Mumbai, India, January 2013.<br>
+      Documents: paper&nbsp;<a href="icdcn13.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcn13slides.pdf">pdf</a> </p>
+    </li>
+
+        <li>
+      <p><a href="icccn12.pdf">A Resource Description Language with Vagueness Support for Multi-Provider Cloud
+Networks</a><br>
+      Gregor Schaffrath, Stefan Schmid, Ishan Vaishnavi, Ashiq Khan, and Anja Feldmann.<br>
+      International Conference on Computer Communication Networks (<b>ICCCN</b>), Munich, Germany, July 2012.<br>
+      Documents: paper&nbsp;<a href="icccn12.pdf">pdf</a>, slides&nbsp;<a href="icccn12slides.pdf">pdf</a>,
+      example&nbsp;<a href="flerd.zip">zip</a></p>
+    </li>
+
+    <li>
+      <p><a href="virtu-kickoff.pdf">Network Virtualization
+      Architecture: Proposal and Initial Prototype</a><br>
+      Gregor Schaffrath, Christoph Werle, Panagiotis Papadimitriou,
+      Anja Feldmann, Roland Bless, Adam Greenhalgh, Andreas
+      Wundsam, Mario Kind, Olaf Maennel, and Laurent Mathy.<br>
+      1st ACM SIGCOMM Workshop on Virtualized Infrastructure
+      Systems and Architectures (<b>VISA</b>), New York, New York, USA,
+      August 2009.<br>
+      Documents: paper&nbsp;<a href="virtu-kickoff.pdf">pdf</a></p>
+   </li>
+  </ul>
+
+  <h3>Software-Defined Networking (SDN):</h3>
+
+  <ul>
+        <li>
+      <p><a href="opodis13shoot.pdf">How (Not) to Shoot in Your Foot with SDN Local Fast Failover: A Load-Connectivity Tradeoff</a><br>
+      Michael Borokhovich and Stefan Schmid.<br>
+       17th International Conference on Principles of Distributed Systems (<b>OPODIS</b>), Nice, France, Springer LNCS, December 2013.<br>
+      Documents: paper&nbsp;<a href="opodis13shoot.pdf">pdf</a>,
+      slides&nbsp;<a href="presentation_opodis2013.pdf">pdf</a></p>
+    </li>
+
+         <li>
+      <p><a href="disc13cpc.pdf">Brief Announcement: Towards Distributed and Reliable
+Software Defined Networking</a><br>
+      Marco Canini, Petr Kuznetsov, Dan Levin, and Stefan Schmid.<br>
+       27th International Symposium on Distributed Computing (<b>DISC</b>), Jerusalem, Israel, October 2013.<br>
+      Documents: paper&nbsp;<a href="disc13cpc.pdf">pdf</a>,
+      slides&nbsp;<a href="disc13sdn-slides.pdf">pdf</a></p>
+    </li>
+
+             <li>
+      <p><a href="disc13fib.pdf">Brief Announcement: Dynamic Forwarding Table Aggregation without Update Churn: The Case of Dependent Prefixes</a><br>
+     Marcin Bienkowski, Nadi Sarrar, Stefan Schmid, and Steve Uhlig.<br>
+       27th International Symposium on Distributed Computing (<b>DISC</b>), Jerusalem, Israel, October 2013.<br>
+      Documents: paper&nbsp;<a href="disc13fib.pdf">pdf</a>,
+      slides&nbsp;<a href="disc13fib-slides.pdf">pdf</a></p>
+    </li>
+
+
+          <li>
+      <p><a href="hotsdn13loc.pdf">Exploiting Locality in Distributed SDN Control</a><br>
+      Stefan Schmid and Jukka Suomela.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Hong Kong, China, August 2013.<br>
+      Documents: paper&nbsp;<a href="hotsdn13loc.pdf">pdf</a>,
+      slides&nbsp;<a href="hotsdn13slides-loc.pdf">pdf</a></p>
+    </li>
+
+         <li>
+      <p><a href="hotsdn13ccc.pdf">Software Transactional Networking:
+Concurrent and Consistent Policy Composition</a><br>
+      Marco Canini, Petr Kuznetsov, Dan Levin, and Stefan Schmid.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Hong Kong, China, August 2013.<br>
+      Documents: paper&nbsp;<a href="hotsdn13ccc.pdf">pdf</a>,
+      slides&nbsp;<a href="hotsdn13slides-cpc.pdf">pdf</a></p>
+    </li>
+
+          <li>
+<p><a href="sirocco13.pdf">Competitive FIB Aggregation: Online Ski Rental on the Trie</a><br>
+      Marcin Bienkowski and Stefan Schmid.<br>
+     20th International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>), Ischia, Italy, July 2013.<br>
+      Documents: paper&nbsp;<a href="sirocco13.pdf">pdf</a>,
+      slides&nbsp;<a href="sirocco13slides.pdf">pdf</a>
+        </li>
+
+      <li>
+      <p><a href="ons13.pdf">Toward Transitional SDN Deployment in Enterprise Networks</a><br>
+      Dan Levin, Marco Canini, Stefan Schmid, and Anja Feldmann.<br>
+       Open Networking Summit (<b>ONS</b>), Conference Research Track, Santa Clara, California, USA, April 2013.<br>
+      Documents: paper&nbsp;<a href="ons13.pdf">pdf</a>,
+      slides&nbsp;<a href="ons13slides.pdf">pdf</a>,
+      tech report&nbsp;<a href="panopticon-TR.pdf">pdf</a></p>
+    </li>
+
+
+  <h2><a name="demo" id="demo">Demo</a></h2>
+
+  <ul>
+    <li>
+      <p><a href="http://www.youtube.com/watch?v=llJce0F1zHQ">Migration in Network Virtualization Prototype Architecture</a><br>
+      Anja Feldmann, Johannes Grassler, Gregor Schaffrath, and Stefan Schmid.<br>
+      Editing: Katharina K&ouml;ster.<br>
+      Demos: NTT DoCoMo, T-Labs, Lange Nacht der Wissenschaften 2012 (TU Berlin).<br>
+      Berlin, Germany, September 2011.&nbsp;<br></p>
+    </li>
+</ul>
+
+  <h2><a name="talks" id="talks">Talks and Posters</a></h2>
+
+  <p><em>Conferences slides can be downloaded above (see
+  publications).</em></p>
+
+  <ul>
+    <li>
+      <p><a href="cloudnet-talk.pdf">CloudNets: Combining Clouds with Virtual Networking</a><br>
+      Stefan Schmid, 2012.<br>
+    </p>
+    </li>
+
+      <li>
+      <p><a href="sciboard12poster.pdf">CloudNets: Virtual Networking Cloud Resources (Prototype, Algorithms, Economics) </a><br>
+      Anja Feldmann, Carlo F&uuml;rst, Johannes Grassler, Arne Ludwig, Matthias Rost, Gregor Schaffrath, and Stefan Schmid.<br>
+      Scientific Advisory Board Poster (T-Labs), April 2012.<br>
+      Documents: poster&nbsp;<a href=
+      "sciboard12poster.pdf">pdf</a>, slides&nbsp;<a href=
+      "scibo-cloudnets.pdf">pdf</a></p>
+    </li>
+     <li>
+      <p><a href="netvirt-docomo.pdf">Online Management of
+      Virtual Networks</a><br>
+      Stefan Schmid, 2011.<br>
+        </p>
+    </li>
+   <li>
+      <p><a href="migration-poster.pdf">Poster: Online Virtual
+      Network Management</a><br>
+      Gregor Schaffrath, Stefan Schmid, and Anja Feldmann.<br>
+      T-Labs, October 2010.<br>
+      Documents: poster&nbsp;<a href=
+      "migration-poster.pdf">pdf</a></p>
+   </li>
+  </ul>
+
+
+  <p style="text-align:right ; font-size:small">Last Change:
+  Friday, 23-May-2014 23:43:21 CEST</p>
+</div>
+</body>
+</html>

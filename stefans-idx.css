@@ -1,0 +1,99 @@
+body {
+  color: #5b4b4b;
+  background-color: white;
+  font-size: 99%;
+  font-family: sans-serif;
+  padding: 2ex 18ex;
+}
+
+address {
+  font-style: normal;
+  margin-top: 1em;
+}
+
+a:link {
+  color: rgb(160,0,0);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(160,0,0);
+  text-decoration: none;
+}
+
+a[href]:hover {
+  text-decoration: underline;
+}
+
+h2 {
+  margin-top: 2em;
+  font-size: 110%;
+  color: #7d6666;
+  border-bottom: dotted 1px rgb(160, 0, 0);
+}
+
+.titlematter {
+  margin-left: -14ex;
+}
+
+.titlematter h2 {
+  font-size: 120%;
+  margin-top: 1em;
+  color: #333;
+  border-bottom-width: 0px;
+}
+
+p {
+  text-align: justify;
+}
+
+body > p {
+  padding-left: 2em;
+}
+
+body > ul {
+  margin-left: 2em;
+}
+
+h3 {
+  font-weight: normal;
+  font-style: italic;
+  font-size: 100%;
+  color: #333;
+}
+
+ul li {
+  color: rgb(160, 0, 0);
+}
+
+ul li p {
+  color: #5b4b4b;
+  margin-top: .5em;
+  margin-bottom: 0em;
+}
+
+ul.navi {
+  list-style-type: none;
+  position: absolute;
+  left: 2.5ex;
+  padding: 1em 1ex 1ex;
+  margin: 1.5ex;
+  width: 10ex;
+  padding-top: .5em;
+  padding-bottom: .5em;
+}
+
+.navi p {
+  text-align: left;
+}
+
+#content {
+  border-left: solid 1px silver;
+  padding-left: 4ex;
+}
+
+dt {
+ font-weight: bold;
+ float: left;
+ margin-right: 2m;
+}

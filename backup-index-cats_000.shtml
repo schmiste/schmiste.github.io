@@ -1,0 +1,2187 @@
+<!-- saved from url=(0022)http://internet.e-mail -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41938973-1', 'tu-berlin.de');
+  ga('send', 'pageview');
+
+</script>
+
+<html lang="en">
+<head>
+  <meta name="generator" content=
+  "HTML Tidy for Linux (vers 6 November 2007), see www.w3.org">
+  <meta http-equiv="content-type" content=
+  "text/html; charset=us-ascii">
+
+  <title>Stefan Schmid</title>
+  <link rel="stylesheet" type="text/css" href="stefans-idx.css">
+</head>
+
+<body>
+
+  <h2>Journals</h2>
+
+  <ul>
+                     <li>
+      <p><a href="ccr18san.pdf">Toward Demand-Aware Networking:
+A Theory for Self-Adjusting Networks</a> (Editorial)<br>
+      Chen Avin and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), October 2018.<br>
+      Documents: paper&nbsp;<a href="ccr18san.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                             <li>
+      <p><a href="survey-network-update-sdn.pdf">Survey of Consistent Software-Defined Network Updates</a><br>
+      Klaus-Tycho Foerster, Stefan Schmid, and Stefano Vissicchio.<br>
+       IEEE Communications Surveys and Tutorials (<b>COMST</b>), to appear.<br>
+              Documents: paper&nbsp;<a href="survey-network-update-sdn.pdf">pdf</a></p>
+    </li>
+
+                         <li>
+      <p><a href="jsac18scalability.pdf">Scalability Issues and Solutions for Software Defined Networks</a> (Editorial)<br>
+        Oliver Hohlfeld, James Kempf, Martin Reisslein, Stefan Schmid, and Nadir Shah.<br>
+      IEEE JSAC Special Issue on Scalability Issues and Solutions for Software Defined Networks (<b>JSAC</b>), 
+    to appear.<br>
+      Documents: paper&nbsp;<a href="jsac18scalability.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                                          <li>
+      <p><a href="jpdc18.pdf">Approximate and Incremental Network Function Placement</a><br>
+      Tamas Lukovszki, Matthias Rost, and Stefan Schmid.<br>
+       Journal of Parallel and Distributed Computing (<b>JPDC</b>), Elsevier, 
+        to appear.<br>
+              Documents: paper&nbsp;<a href="jpdc18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+             <li>
+      <p><a href="computing18.pdf">Competitive Clustering of Stochastic Communication Patterns on a Ring</a><br>
+      Chen Avin, Louis Cohen, Mahmoud Parham, and Stefan Schmid.<br>
+      Journal of <b>Computing</b>, Springer, to appear.<br>
+      Documents: paper&nbsp;<a href="computing18.pdf">pdf</a>,  bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                        <li>
+      <p><a href="ton18policy.pdf">Transiently Policy-Compliant Network Updates</a><br>
+     Arne Ludwig, Szymon  Dudycz, Matthias Rost, and Stefan Schmid.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18policy.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+
+                      <li>
+      <p><a href="ton18failover.pdf">Load-Optimal Local Fast Rerouting for Dense Networks</a><br>
+     Michael Borokhovich, Yvonne-Anne Pignolet, Gilles Tredan, and Stefan Schmid.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18failover.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+          <li>
+      <p><a href="ton18touch.pdf">Efficient Loop-Free Rerouting of Multiple SDN Flows</a><br>
+     Arsany Basta, Andreas Blenk, Szymon Dudycz, Arne Ludwig, and Stefan Schmid.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18touch.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                <li>
+      <p><a href="http://ieeexplore.ieee.org/document/8252748/">Online Aggregation of the Forwarding Information Base: Accounting 
+        for Locality and Churn</a><br>
+     Marcin Bienkowski, Nadi Sarrar, Stefan Schmid, and Steve Uhlig.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18fib.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
+      <p><a href="http://ieeexplore.ieee.org/document/8234676/">Kraken: Online and Elastic Resource Reservations for Cloud Datacenters</a><br>
+      Carlo Fuerst, Stefan Schmid, Lalith Suresh, and Paolo Costa.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18kraken.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+           <li>
+      <p><a href="http://ieeexplore.ieee.org/document/8214220/">Loop-Free Route Updates for Software-Defined Networks</a><br>
+     Klaus-Tycho Foerster, Arne Ludwig, Jan Marcinkowski, and Stefan Schmid.<br>
+       IEEE/ACM Transactions on Networking (<b>TON</b>),  2018.<br>
+      Documents: paper&nbsp;<a href="ton18up.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                   <li>
+      <p><a href="ccr18waypoint.pdf">Charting the Algorithmic Complexity of Waypoint Routing</a><br>
+      Saeed Akhoondian Amiri, Klaus-Tycho Foerster, Riko Jacob, and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), 2018.<br>
+      Documents: paper&nbsp;<a href="ccr18waypoint.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+               <li>
+      <p><a href="ccr18failover.pdf">Local Fast Failover Routing With Low Stretch</a><br>
+      Klaus-Tycho Foerster, Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), 2018.<br>
+      Documents: paper&nbsp;<a href="ccr18failover.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+           <li>
+      <p><a href="ipl18.pdf">rDAN: Toward Robust Demand-Aware Network Designs</a><br>
+     Chen Avin, Alexandr Hercules, Andreas Loukas, and Stefan Schmid.<br>
+       Information Processing Letters (<b>IPL</b>), Elsevier, 2018.<br>
+      Documents: paper&nbsp;<a href="ipl18.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+          <li>
+      <p><a href="comcom18.pdf">The Show Must Go On: Fundamental Data Plane 
+        Connectivity Services for Dependable SDNs</a><br>
+      Michael Borokhovich, Clement Rault, Liron Schiff, and Stefan Schmid.<br>
+        Computer Communications (<b>COMCOM</b>), Elsevier, 2018.<br>
+      Documents: paper&nbsp;<a href="comcom18.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                              <li>
+      <p><a href="sigmetrics18tomography.pdf">Tomographic Node Placement Strategies and the Impact of the
+              Routing Model</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+        Proc. ACM Meas. Anal. Comput. Syst. (<b>POMACS</b>), Vol. 1, No. 2, Article 42, December 2017.<br>
+              Documents: paper&nbsp;<a href="sigmetrics18tomography.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                     <li>
+      <p><a href="jsac17.pdf">Scheduling Congestion- and Loop-free Network Update in Timed SDNs</a><br>
+        Jiaqi Zheng, Guihai Chen, Stefan Schmid, Haipeng Dai, and Jie Wu.<br>
+      IEEE JSAC Special Issue on Emerging Technologies in Software-Driven Communication (<b>JSAC</b>), 
+    Volume 35, Issue 11, 2017.<br>
+      Documents: paper&nbsp;<a href="jsac17.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+
+                        <li>
+      <p><a href="ejc17.pdf">Large Cuts with Local Algorithms on Triangle-Free Graphs</a><br>
+        Juho Hirvonen, Joel Rybicki, Stefan Schmid, and Jukka Suomela.<br>
+      The Electronic Journal of Combinatorics (<b>E-JC</b>), 2017.<br>
+      Documents: paper&nbsp;<a href="ejc17.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+
+            <li>
+      <p><a href="tnsm17.pdf">Unified Programmability of Virtualized Network Functions and Software-Defined Wireless Networks</a><br>
+     Julius Schulz-Zander, Carlos Mayer, Bogdan Ciobotaru, Raphael Lisicki, Stefan Schmid, and Anja Feldmann.<br>
+      IEEE Transactions on Network and Service Management (<b>TNSM</b>), 2017.<br>
+      Documents: paper&nbsp;<a href="tnsm17.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                <li>
+      <p><a href="dist17sinr.pdf">Sade: Competitive MAC under Adversarial SINR</a><br>
+     Adrian Ogierman, Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin Zhang.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, 2017.<br>
+      Documents: paper&nbsp;<a href="dist17sinr.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+        <li>
+      <p><a href="tcs17rep.pdf">Data Locality and Replica Aware Virtual Cluster Embeddings</a><br>
+     Carlo Fuerst, Maciej Pacut, and Stefan Schmid.<br>
+      Journal Theoretical Computer Science (<b>TCS</b>), Elsevier, 2017.<br>
+      Documents: paper&nbsp;<a href="tcs17rep.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                 <li>
+      <p><a href="jstat17.pdf">The Many Faces of Graph Dynamics</a><br>
+      Yvonne Anne Pignolet, Matthieu Roy, Stefan Schmid, and Gilles Tredan.<br>
+      Journal of Statistical Mechanics: Theory and Experiment (<b>JSTAT</b>), 2017.<br>
+      Documents: paper&nbsp;<a href="jstat17.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                <li>
+      <p><a href="ccr17taxo.pdf">Toward a Taxonomy and Attacker Model for Secure Routing Protocols</a> (Editorial)<br>
+      Matthias Hollick, Cristina Nita-Rotaru, Panagiotis Papadimitratos, Adrian Perrig, and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), January 2017.<br>
+      Documents: paper&nbsp;<a href="ccr17taxo.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+               <li>
+      <p><a href="dist16.pdf">Upper and Lower Bounds for Deterministic Broadcast in Powerline Communication Networks</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, 29(4), 239-250, 2016.<br>
+      Documents: paper&nbsp;<a href="dist16.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                <li>
+<p><a href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&arnumber=7066977&url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D7066977">SplayNet: Towards Locally Self-Adjusting Networks</a><br>
+      Stefan Schmid, Chen Avin, Christian Scheideler, Michael Borokhovich, Bernhard Haeupler, and Zvi Lotker.<br>
+IEEE/ACM Transactions on Networking (<b>TON</b>),  Volume 24, Issue 3, 2016.<br>
+      Documents: paper&nbsp;<a href="ton15splay.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+        </li>
+
+            <li>
+      <p><a href="ccr16match.pdf">It's a Match! Near-Optimal and Incremental Middlebox Deployment</a><br>
+      Tamas Lukovszki, Matthias Rost, and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), January 2016.<br>
+      Documents: paper&nbsp;<a href="ccr16match.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="ccr16sync.pdf">In-Band Synchronization for Distributed SDN Control Planes</a><br>
+      Liron Schiff, Petr Kuznetsov, and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), January 2016.<br>
+      Documents: paper&nbsp;<a href="ccr16sync.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                <li>
+      <p><a href="comnet15sc.pdf">Network Service Chaining with Optimized 
+Network Function Embedding Supporting Service Decompositions</a><br>
+     Sahel Sahhaf, Wouter Tavernier, Matthias Rost, Stefan Schmid, Didier
+Colle, Mario Pickavet, and Piet Demeester.<br>
+       Journal Computer Networks (<b>COMNET</b>), Elsevier,  Volume 93, 2015.<br>
+      Documents: paper&nbsp;<a href="comnet15sc.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+            <li>
+      <p><a href="ton14alarm.pdf">Distributed Alarming in the On-Duty and Off-Duty Models</a><br>
+      Marcin Bienkowski, Leszek Gasieniec, Marek Klonowski,
+Miroslaw Korzeniowski, Bernard Mans, Stefan Schmid, and Roger Wattenhofer.<br>
+      IEEE/ACM Transactions on Networking (<b>TON</b>), to appear.<br>
+      Documents: paper&nbsp;<a href="ton14alarm.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="ccr15emb.pdf">Beyond the Stars: Revisiting Virtual Cluster Embeddings</a><br>
+     Matthias Rost, Carlo Fuerst, and Stefan Schmid.<br>
+        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), July 2015.<br>
+      Documents: paper&nbsp;<a href="ccr15emb.pdf">pdf</a>, slides&nbsp;<a href="rostBeyondTheStars2017AAU.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+      <li>
+      <p><a href="http://www.sigcomm.org/ccr/papers/2015/April/0000000.0000004">Distributed Cloud Computing: Applications, Status Quo, and Challenges</a> (Editorial)<br>
+      Yvonne Coady, Oliver Hohlfeld, James Kempf, Rick McGeer, and Stefan Schmid.<br>
+      ACM SIGCOMM Computer Communication Review (<b>CCR</b>), April 2015.<br>
+      Documents: paper&nbsp;<a href="dcc-ccr-15.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+           <li>
+      <p><a href="http://link.springer.com/article/10.1007/s00446-014-0217-4 ">Adversarial Topology Discovery in Network Virtualization
+Environments: A Threat for ISPs?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, Volume 28, Issue 2, pp 91-109, 2015.<br>
+      Documents: paper&nbsp;<a href="dist14-CR.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="http://portal.acm.org/citation.cfm?id=2700084&picked=prox">SKIP&#43;: A Self-Stabilizing Skip Graph</a><br>
+      Riko Jacob, Andrea Richa, Christian Scheideler, Stefan
+      Schmid, and Hanjo T&auml;ubig.<br>
+      Journal of the ACM
+      (<b>JACM</b>), Volume 61, Number 6, Article 36, November 2014.<br>
+      Documents: paper&nbsp;<a href="jacm14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="http://ieeexplore.ieee.org/xpl/freeabs_all.jsp?arnumber=6965294">Panopticon: Incremental Deployment of Software-Defined Networking</a> (Invited Paper)<br>
+     Marco Canini, Anja Feldmann, Dan Levin, Fabian Schaffert, and Stefan Schmid.<br>
+       <b>IEEE Computer</b>, Volume 47, Issue 11, November Issue 2014.<br>
+      Documents: paper&nbsp;<a href="comsi14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+      <li>
+      <p><a href="http://dx.doi.org/10.1016/j.bjp.2013.12.004">On the Windfall and Price of Friendship:
+Inoculation Strategies on Social Networks</a><br>
+      Dominic Meier, Yvonne Anne Oswald, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+       Journal Computer Networks (<b>COMNET</b>), Elsevier, 2014.<br>
+      Documents: paper&nbsp;<a href="comnet14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="http://link.springer.com/article/10.1007%2Fs00224-013-9504-x">A Note on the Parallel Runtime of Self-Stabilizing Graph Linearization</a><br>
+       Dominik Gall, Riko Jacob, Andrea Richa, Christian Scheideler, Stefan Schmid, and Hanjo T&auml;ubig.<br>
+      Journal Theory of Computing Systems (<b>TOCS</b>), Springer, Volume 55, Issue 1, pp 110-135, 2014.<br>
+      Documents: paper&nbsp;<a href="tocs14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+             <li>
+      <p><a href="http://dl.acm.org/citation.cfm?id=2635818">Principles of Robust Medium Access and an Application to Leader Election</a><br>
+      Baruch Awerbuch, Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin Zhang.<br>
+       ACM Transactions on Algorithms (<b>TALG</b>), Volume 10, Issue 4, 2014.<br>
+      Documents: paper&nbsp;<a href="talg13.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=&arnumber=6471794&queryText%3DThe+Wide-Area+Virtual+Service+Migration+Problem%3A+A+Competitive+Analysis+Approach">The Wide-Area Virtual Service Migration Problem: A Competitive Analysis Approach</a><br>
+      Marcin Bienkowski, Anja Feldmann, Johannes Grassler, Gregor Schaffrath, and Stefan Schmid.<br>
+       IEEE/ACM Transactions on Networking (<b>TON</b>), Volume 22, Issue 1, February 2014. <br>
+      Documents: paper&nbsp;<a href="ton13mig.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+     <li>
+      <p><a href="http://www.springerlink.com/openurl.asp?genre=article&id=doi:10.1007/s00446-013-0183-2">Misleading Stars: What Cannot Be Measured in the Internet?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, Volume 26, Issue 4, pp 209-222, August 2013.<br>
+      Documents: paper&nbsp;<a href="dist13.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+<p><a href="http://www.sciencedirect.com/science/article/pii/S0304397512009577?v=s5">Competitive and Deterministic Embeddings of Virtual Networks</a><br>
+      Guy Even, Moti Medina, Gregor Schaffrath, and Stefan Schmid.<br>
+       Journal Theoretical Computer Science (<b>TCS</b>), Elsevier, 2013.<br>
+      Documents: paper&nbsp;<a href="tcs12vnet.pdf">pdf</a> <a href="http://www.sciencedirect.com/science/article/pii/S0304397512009577?v=s5">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="ton12.pdf">An Efficient and Fair MAC Protocol
+Robust to Reactive Interference</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+       IEEE/ACM Transactions on Networking (<b>TON</b>), Volume 21,  Issue 3, 2013.<br>
+      Documents: paper&nbsp;<a href="ton12.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="dist12.pdf">Competitive Throughput in Multi-Hop Wireless Networks
+Despite Adaptive Jamming</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin Zhang.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, Volume 26, Issue 3, pp 159-171, 2013.<br>
+      Documents: paper&nbsp;<a href=
+      "dist12.pdf">pdf</a> <a href=
+      "http://www.springerlink.com/content/a825067158n57q48/?MUD=MP">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="tcs12.pdf">Towards Higher-Dimensional Topological Self-Stabilization: A Distributed Algorithm for Delaunay Graphs</a><br>
+      Riko Jacob, Stephan Ritscher, Christian Scheideler, and Stefan Schmid.<br>
+       Journal Theoretical Computer Science (<b>TCS</b>), Elsevier, Volume 457, pp 137-148, 2012.<br>
+      Documents: paper&nbsp;<a href="tcs12.pdf">pdf</a> <a href="http://dx.doi.org/10.1016/j.tcs.2012.07.029">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href=
+      "igtr11.pdf">Cost and Complexity of Harnessing Games with Payments</a><br>
+      Raphael Eidenbenz, Yvonne Anne Pignolet, Stefan Schmid, and
+      Roger Wattenhofer.<br>
+      International Game Theory Review (<b>IGTR</b>), World Scientific, Volume 13, Number 1, 2011.<br>
+          Documents: paper&nbsp;<a href=
+      "igtr11.pdf">pdf</a>
+    </p>
+    </li>
+
+    <li>
+      <p><a href=
+      "algo11.pdf">Topological
+      Implications of Selfish Neighbor Selection in Unstructured
+      Peer-to-Peer Networks</a><br>
+      Thomas Moscibroda, Stefan Schmid, and Roger Wattenhofer.<br>
+      Journal Algorithmica (<b>ALGO</b>), Springer, Volume 61, Number 2, 2011.<br>
+    Documents: paper&nbsp;<a href="algo11.pdf">pdf</a> <a href=
+      "http://dx.doi.org/10.1007/s00453-010-9398-9">link</a>
+    </p></li>
+
+    <li>
+      <p><a href="fi11.pdf">eDonkey &amp; eMule's Kad: Measurements &amp; Attacks</a><br>
+      Thomas Locher, Stefan Schmid, and
+      Roger Wattenhofer.<br>
+      Journal Fundamenta Informaticae (<b>FI</b>), IOS Press, Volume 109, Number 4, 2011. <br>
+      Documents: paper&nbsp;<a href="fi11.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+      </li>
+
+    <li>
+      <p><a href="distcomp10.pdf">Towards Worst-Case Churn
+      Resistant Peer-to-Peer Systems</a><br>
+      Fabian Kuhn, Stefan Schmid, and Roger Wattenhofer.<br>
+      Journal Distributed Computing (<b>DIST</b>), Springer, Volume 22, Number 4,
+      May 2010.<br>
+      Documents: paper&nbsp;<a href="distcomp10.pdf">pdf</a> <a href=
+      "http://www.springerlink.com/content/d701m67m22hq1880/">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="dmtcs10.pdf">Tight Bounds for Delay-Sensitive
+      Aggregation</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      Journal Discrete Mathematics and Theoretical Computer Science
+      (<b>DMTCS</b>), Volume 12, Number 1, 2010.<br>
+      Documents: paper&nbsp;<a href="dmtcs10.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href=
+      "im10.pdf">
+      The Price of Malice: A Game-Theoretic Framework for Malicious
+      Behavior in Distributed Systems</a><br>
+      Thomas Moscibroda, Stefan Schmid, and Roger Wattenhofer.<br>
+      Journal Internet Mathematics (<b>IM</b>),  A K
+      Peters, Ltd., Volume 6, Number 2, 2009.<br>
+      Documents: paper&nbsp;<a href="im10.pdf">pdf</a> <a href=
+      "http://akpeters.metapress.com/content/232760m416nt7671/?p=8229b77b9fbb407e9f7f53517961a965&amp;pi=0">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+  </ul>
+
+
+
+
+
+  <h2>Conferences</h2>
+
+
+  <ul>   
+                                            <li>
+      <p><a href="opodis18.pdf">Local Fast Segment Rerouting on Hypercubes</a><br>
+      Klaus-Tycho Foerster, Mahmoud Parham, Stefan Schmid, and Tao Wen.<br>
+       22nd International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Hong Kong, December 2018.<br>
+              Documents: paper&nbsp;<a href="opodis18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                      <li>
+      <p><a href="conext18.pdf">P-Rex: Fast Verification of MPLS Networks with Multiple Link Failures</a><br>
+      Jesper Stenbjerg Jensen, Troels Beck Krogh, Jonas Sand Madsen, Stefan Schmid, Jiri Srba, and Marc Tom Thorgersen.<br>
+       14th ACM International Conference on emerging Networking EXperiments and Technologies (<b>CoNEXT</b>), 
+       Heraklion/Crete, Greece, December 2018.<br>
+              Documents: paper&nbsp;<a href="conext18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                                             <li>
+      <p><a href="ancs18.pdf">Characterizing the Algorithmic Complexity of
+Reconfigurable Data Center Architectures</a><br>
+              Klaus-Tycho Foerster, Monia Ghobadi, and Stefan Schmid.<br>
+       ACM/IEEE Symposium on Architectures for Networking and Communications Systems (<b>ANCS</b>), 
+         Ithaca, New York, USA, July 2018.<br>
+              Documents: paper&nbsp;<a href="ancs18.pdf">pdf</a>, 
+                            slides&nbsp;<a href="ancs18slides.pdf">pdf</a>,              
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                    <li>
+      <p><a href="icalp18.pdf">Congestion-Free Rerouting of Flows on DAGs</a><br>
+      Saeed Akhoondian Amiri, Szymon Dudycz, Stefan Schmid, and Sebastian Wiederrecht.<br>
+        45th International Colloquium on Automata, Languages, and Programming (<b>ICALP</b>), 
+        Prague, Czech Republic, July 2018.<br>
+              Documents: paper&nbsp;<a href="icalp18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                      <li>
+      <p><a href="icdcs18selfstab.pdf">Renaissance: A Self-Stabilizing Distributed SDN Control Plane</a><br>
+      Marco Canini, Iosif Salem, Liron Schiff, Elad Michael Schiller, and Stefan Schmid.<br>
+        38th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Vienna, Austria, July 2018.<br>
+              Documents: paper&nbsp;<a href="icdcs18selfstab.pdf">pdf</a>, 
+                            slides&nbsp;<a href="icdcs18slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                                  <li>
+      <p><a href="icdcs18netup.pdf">Scheduling Congestion-Free Updates of Multiple Flows with Chronicle in Timed SDNs</a><br>
+      Jiaqi Zheng, Bo Li, Chen Tian, Klaus-Tycho Foerster, Stefan Schmid, Guihai Chen, and Jie Wu.<br>
+        38th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Vienna, Austria, July 2018.<br>
+              Documents: paper&nbsp;<a href="icdcs18netup.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+      
+                                <li>
+      <p><a href="sigmetrics18tomography.pdf">Tomographic Node Placement Strategies and the Impact of the
+              Routing Model</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+        ACM <b>SIGMETRICS</b>, 
+        Irvine, California, USA, June 2018.<br>
+              Documents: paper&nbsp;<a href="sigmetrics18tomography.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="ifip18round.pdf">Virtual Network Embedding Approximations: Leveraging Randomized Rounding</a><br>
+        Matthias Rost and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+      Zurich, Switzerland, May 2018.<br>
+      Also presented by Matthias Rost at
+  23rd International Symposium on Mathematical Programming (<b>ISMP</b>),
+  Bordeaux, France, July 2018.<br>
+      Documents: paper&nbsp;<a href="ifip18round.pdf">pdf</a>, 
+      slides&nbsp;<a href="ifip18slides-round.pdf">pdf</a>, 
+      slides for ISMP&nbsp;<a href="ismp18.pdf">pdf</a>, 
+            bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+
+       <li>
+      <p><a href="ifip18waypoints.pdf">Waypoint Routing in Special Networks</a><br>
+        Saeed Akhoondian Amiri, Klaus-Tycho Foerster, Riko Jacob, Mahmoud Parham, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+      Zurich, Switzerland, May 2018.<br>
+      Documents: paper&nbsp;<a href="ifip18waypoints.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="ifip18landscape.pdf">Charting the Complexity Landscape of Virtual Network Embeddings</a> (Best Paper Award)<br>
+        Matthias Rost and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+      Zurich, Switzerland, May 2018.<br>
+      Documents: paper&nbsp;<a href="ifip18landscape.pdf">pdf</a>, 
+      slides&nbsp;<a href="ifip18slides-hard.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+           <li>
+      <p><a href="ifip18covert.pdf">I DPID It My Way! A Covert Timing Channel in Software-Defined Networks</a><br>
+        Robert Kr&ouml;sche, Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+      Zurich, Switzerland, May 2018.<br>
+      Documents: paper&nbsp;<a href="ifip18covert.pdf">pdf</a>, 
+      slides&nbsp;<a href="ifip18covert-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+           <li>
+      <p><a href="ifip18ahab.pdf">Ahab: Data-Driven Virtual Cluster Hunting</a><br>
+        Johannes Zerwas, Patrick Kalmbach, Carlo Fuerst, Arne Ludwig, Andreas Blenk, Wolfgang Kellerer, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+      Zurich, Switzerland, May 2018.<br>
+      Documents: paper&nbsp;<a href="ifip18ahab.pdf">pdf</a>, 
+      slides&nbsp;<a href="ifip18ahab-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="infocom18prefixnet.pdf">Polynomial-Time What-If Analysis for Prefix-Manipulating MPLS Networks</a><br>
+        Stefan Schmid and Jiri Srba.<br>
+      37th IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
+      Honolulu, Hawaii, USA, April 2018.<br>
+      Documents: paper&nbsp;<a href="infocom18prefixnet.pdf">pdf</a>, 
+              slides&nbsp;<a href="infocom18prefix-slides.pdf">pdf</a>,
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+       <li>
+      <p><a href="infocom18neuro.pdf">NeuroViNE: A Neural Preprocessor for Your Virtual Network Embedding Algorithm</a><br>
+        Andreas Blenk, Patrick Kalmbach, Johannes Zerwas, Michael Jarschel, Stefan Schmid, 
+        and Wolfgang Kellerer.<br>
+      37th IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
+      Honolulu, Hawaii, USA, April 2018.<br>
+      Documents: paper&nbsp;<a href="infocom18neuro.pdf">pdf</a>, 
+                    slides&nbsp;<a href="infocom18neuro-slides.pdf">pdf</a>,
+bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="gi18.pdf">TI-MFA: Keep Calm and Reroute Segments Fast</a><br>
+        Klaus-Tycho Foerster, Mahmoud Parham, Marco Chiesa, and Stefan Schmid.<br>
+      IEEE Global Internet Symposium (<b>GI</b>), 
+      Honolulu, Hawaii, USA, April 2018.<br>
+      Documents: paper&nbsp;<a href="gi18.pdf">pdf</a>, 
+      slides&nbsp;<a href="infocom18gi-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+              <p><a href="latin18.pdf">Walking Through Waypoints</a><br>
+        Saeed Akhoondian Amiri, Klaus-Tycho Foerster, and Stefan Schmid.<br>
+      13th Latin American Theoretical Informatics Symposium (<b>LATIN</b>), 
+      Buenos Aires, Argentina, April 2018.<br>
+      Documents: paper&nbsp;<a href="latin18.pdf.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+       <li>
+      <p><a href="sosr18.pdf">Taking Control of SDN-based Cloud Systems via the Data Plane</a> (Best Paper Award)<br>
+        Kashyap Thimmaraju, Bhargava Shastry, Tobias Fiebig, Felicitas Hetzelt, Jean-Pierre Seifert, Anja Feldmann, and Stefan Schmid.<br>
+      ACM Symposium on SDN Research (<b>SOSR</b>), 
+      Los Angeles, California, USA, March 2018.<br>
+      Documents: paper&nbsp;<a href="sosr18.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+                                    <li>
+              <p><a href="disc17.pdf">Demand-Aware Network Designs of Bounded Degree</a><br>
+      Chen Avin, Kaushik Mondal, and Stefan Schmid.<br>
+       31st International Symposium on Distributed Computing (<b>DISC</b>), Vienna, Austria, October 2017.<br>
+              Documents: paper&nbsp;<a href="disc17.pdf">pdf</a>,
+       slides&nbsp;<a href="disc17slides.pdf">pdf</a>,
+       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                     <li>
+      <p><a href="raid17.pdf">Static Program Analysis as a Fuzzing Aid</a><br>
+      Bhargava Shastry, Markus Leutner, Tobias Fiebig, Kashyap Thimmaraju, Fabian Yamaguchi, Konrad Rieck, Stefan Schmid,
+Jean-Pierre Seifert, and Anja Feldmann.<br>
+    20th International Symposium on Research in Attacks, Intrusions and Defenses (<b>RAID</b>), 
+    Atlanta, Georgia, USA, September 2017.<br>
+      Documents: paper&nbsp;<a href="raid17.pdf">pdf</a>, 
+       slides&nbsp;<a href="raid17_slidedeck.pdf">pdf</a>,
+       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+    
+       <li>
+      <p><a href="spaa17caching.pdf">Online Tree Caching</a><br>
+      Marcin Bienkowski, Jan Marcinkowski, Maciej Pacut, Stefan Schmid, and Aleksandra Spyra.<br>
+      29th ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), Washington D.C., USA, July 2017.<br>
+      Documents: paper&nbsp;<a href="spaa17caching.pdf">pdf</a>, 
+      slides&nbsp;<a href="tree-caching-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+    
+             <li>
+      <p><a href="dsn17failover.pdf">Load-Optimal Local Fast Rerouting for Dependable Networks</a><br>
+      Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      47th IEEE/IFIP International Conference on Dependable Systems and Networks (<b>DSN</b>), Denver, Colorado, USA, June 2017.<br>
+      Documents: paper&nbsp;<a href="dsn17failover.pdf">pdf</a>, slides&nbsp;<a href="dsn17-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                 <li>
+      <p><a href="icdcs17updates.pdf">Chronus: Consistent Data Plane Updates in Timed SDNs</a><br>
+        Jiaqi Zheng, Guihai Chen, Stefan Schmid, Haipeng Dai, and Jie Wu.<br>
+      37th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), Atlanta, Georgia, USA, June 2017.<br>
+      Documents: paper&nbsp;<a href="icdcs17updates.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+         <li>
+      <p><a href="netys17learn.pdf">Competitive Clustering of Stochastic Communication Patterns on the Ring</a><br>
+      Chen Avin, Louis Cohen, and Stefan Schmid.<br>
+      5th International Conference on Networked Systems (<b>NETYS</b>), Marrakech, Morocco, May 2017.<br>
+      Documents: paper&nbsp;<a href="netys17learn.pdf">pdf</a>,  slides&nbsp;<a href="netys17learn-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+         <li>
+      <p><a href="netys17robots.pdf">Convergence of Even Simpler Robots without Location Information</a><br>
+      Debasish Pattanayak, Kaushik Mondal, Partha Sarathi Mandal, and Stefan Schmid.<br>
+      5th International Conference on Networked Systems (<b>NETYS</b>), Marrakech, Morocco, May 2017.<br>
+      Documents: paper&nbsp;<a href="netys17robots.pdf">pdf</a>,   slides&nbsp;<a href="netys17robots-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                                    <li>
+      <p><a href="eurosp17.pdf">Outsmarting Network Security with SDN Teleportation</a><br>
+     Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.<br>
+      2nd IEEE European Symposium on Security and Privacy (<b>EuroS&amp;P</b>), 
+      Paris, France, April 2017.<br>
+      <em> See also <a href="https://wiki.onosproject.org/display/ONOS/Security+advisories">CVE-2015-7516</a></em>.<br>
+      Documents: paper&nbsp;<a href="eurosp17.pdf">pdf</a>, 
+      slides&nbsp;<a href="eurosp17slides.pdf">pdf</a>, 
+      demo&nbsp;<a href="teleportationDemo.ogv">video</a>,
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                      <li>
+      <p><a href="opodis16.pdf">WNetKAT: A Weighted SDN Programming and Verification Language</a><br>
+      Kim G. Larsen, Stefan Schmid, and Bingtian Xue.<br>
+        20th International Conference on Principles of Distributed Systems (<b>OPODIS</b>), Madrid, Spain, December 2016.<br>
+              Documents: paper&nbsp;<a href="opodis16.pdf">pdf</a>, slides&nbsp;<a href="opodis16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                 <li>
+      <p><a href="disc16repartition.pdf">Online Balanced Repartitioning</a><br>
+     Chen Avin, Andreas Loukas, Maciej Pacut, and Stefan Schmid.<br>
+       30th International Symposium on Distributed Computing (<b>DISC</b>), Paris, France, September 2016.<br>
+      Documents: paper&nbsp;<a href="disc16repartition.pdf">pdf</a>, slides&nbsp;<a href="disc16repartition-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                            <li>
+      <p><a href="concur16.pdf">Topological Self-Stabilization with Name-Passing Process Calculi</a><br>
+      Christina Rickmann, Christoph Wagner, Uwe Nestmann, and Stefan Schmid.<br>
+       27th International Conference on Concurrency Theory (<b>CONCUR</b>), 
+       Qu&eacute;bec City, Canada, August 2016.<br>
+      Documents: paper&nbsp;<a href="concur16.pdf">pdf</a>, slides&nbsp;<a href="concur16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+
+                      <li>
+      <p><a href="podc16.pdf">A Local Constant Factor MDS Approximation for Bounded Genus Graphs</a><br>
+      Saeed Akhoondian Amiri, Stefan Schmid, and Sebastian Siebertz.<br>
+       ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), 
+       Chicago, Illinois, July 2016.<br>
+      Documents: paper&nbsp;<a href="podc16.pdf">pdf</a>, slides&nbsp;<a href="podc16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                          <li>
+      <p><a href="sirocco16sdn.pdf">Transiently Consistent SDN Updates: Being Greedy is Hard</a><br>
+      Saeed Akhoondian Amiri, Arne Ludwig, Jan Marcinkowski, and Stefan Schmid.<br>
+        23rd International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>), 
+        Helsinki, Finland, July 2016.<br>
+              Documents: paper&nbsp;<a href="sirocco16sdn.pdf">pdf</a>, slides&nbsp;<a href="sirocco16sdn-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                          <li>
+      <p><a href="sirocco16chains.pdf">An Approximation Algorithm for Path
+Computation and Function Placement in SDNs</a><br>
+      Guy Even, Matthias Rost, and Stefan Schmid.<br>
+        23rd International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>), 
+        Helsinki, Finland, July 2016.<br>
+              Documents: paper&nbsp;<a href="sirocco16chains.pdf">pdf</a>, slides&nbsp;<a href="sirocco16chains-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                        <li>
+      <p><a href="dsn16.pdf">Can&#039;t Touch This: Consistent Network Updates for Multiple
+              Policies</a><br>
+      Szymon Dudycz, Arne Ludwig, and Stefan Schmid.<br>
+       46th IEEE/IFIP International Conference on Dependable Systems and Networks (<b>DSN</b>), 
+       Toulouse, France, June 2016.<br>
+      Documents: paper&nbsp;<a href="dsn16.pdf">pdf</a>, slides&nbsp;<a href="dsn16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+
+                      <li>
+      <p><a href="swste16.pdf">Study the past if you would define the future: Implementing Secure Multi-Party SDN Updates</a><br>
+      Liron Schiff and Stefan Schmid.<br>
+        IEEE International Conference on Software Science, Technology and Engineering (<b>SwSTE</b>), Beer-Sheva, Israel, June 2016.<br>
+      Documents: paper&nbsp;<a href="swste16.pdf">pdf</a>, , slides&nbsp;<a href="swste16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                <li>
+      <p><a href="sigmetrics16.pdf">Transiently Secure Network Updates</a><br>
+      Arne Ludwig, Szymon Dudycz, Matthias Rost, and Stefan Schmid.<br>
+       42nd ACM <b>SIGMETRICS</b>, Antibes Juan-les-Pins, France, June 2016.<br>
+      Documents: paper&nbsp;<a href="sigmetrics16.pdf">pdf</a>, 
+      slides&nbsp;<a href="sigmetrics16slides.pdf">pdf</a>, demo&nbsp;<a href="http://tinyurl.com/hshggm9">mov</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
+      <p><a href="infocom16.pdf">Kraken: Online and Elastic Resource Reservations for Multi-tenant Datacenters</a><br>
+      Carlo Fuerst, Stefan Schmid, Lalith Suresh, and Paolo Costa.<br>
+        35th IEEE Conference on Computer Communications (<b>INFOCOM</b>), San Francisco, California, USA, April 2016.<br>
+      Documents: paper&nbsp;<a href="infocom16.pdf">pdf</a>, slides&nbsp;<a href="infocom16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
+      <p><a href="sosr16.pdf">Stitching Inter-Domain Paths over IXPs</a><br>
+      Vasileios Kotronis, Rowan Kl&ouml;ti, Matthias Rost, Panagiotis Georgopoulos, 
+      Bernhard Ager, Stefan Schmid, and Xenofontas Dimitropoulos.<br>
+        ACM Symposium on SDN Research (<b>SOSR</b>), Santa Clara, California, USA, March 2016.<br>
+      Documents: paper&nbsp;<a href="sosr16.pdf">pdf</a>, slides&nbsp;<a href="sosr16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+          <li>
+      <p><a href="icnp15shear.pdf">SHEAR: A Highly Available and Flexible Network Architecture: Marrying Distributed and Logically Centralized Control Planes</a><br>
+     Michael Markovitch and Stefan Schmid.<br>
+      23rd IEEE International Conference on Network Protocols (<b>ICNP</b>), San Francisco, California, USA, November 2015.<br>
+      Documents: paper&nbsp;<a href="icnp15shear.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="icnp15loc.pdf">How Hard Can It Be? Understanding the Complexity of Replica Aware Virtual Cluster Embeddings</a><br>
+     Carlo Fuerst, Maciej Pacut, Paolo Costa, and Stefan Schmid.<br>
+      23rd IEEE International Conference on Network Protocols (<b>ICNP</b>), San Francisco, California, USA, November 2015.<br>
+      Documents: paper&nbsp;<a href="icnp15loc.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="podc15.pdf">Scheduling Loop-free Network Updates: It's Good to Relax!</a><br>
+     Arne Ludwig, Jan Marcinkowski, and Stefan Schmid.<br>
+       ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Donostia-San Sebastian, Spain, July 2015.<br>
+      Documents: paper&nbsp;<a href="podc15.pdf">pdf</a>,
+      slides&nbsp;<a href="podc15slides.pdf">pdf</a>, podc cast&nbsp;<a href="PODC2015_Arne.mp3">mp3</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="sirocco15.pdf">Online Admission Control and Embedding of Service Chains</a><br>
+     Tamas Lukovszki and Stefan Schmid.<br>
+       22nd International Colloquium on Structural Information
+and Communication Complexity (<b>SIROCCO</b>), Montserrat, Spain, July 2015.<br>
+      Documents: paper&nbsp;<a href="sirocco15.pdf">pdf</a>, slides&nbsp;<a href="sirocco15slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="icdcs15.pdf">Competitive Strategies for Online Cloud Resource Allocation with Discounts: The 2-Dimensional Parking Permit Problem</a><br>
+     Xinhui Hu, Arne Ludwig, Andrea Richa, and Stefan Schmid.<br>
+       35th IEEE International Conference on Distributed
+    Computing Systems (<b>ICDCS</b>), Columbus, Ohio, USA, June 2015.<br>
+      Documents: paper&nbsp;<a href="icdcs15.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcs15slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="sosr15.pdf">OpenSDWN: Programmatic Control over Home and Enterprise WiFi</a><br>
+        Julius Schulz-Zander, Carlos Mayer, Bogdan Ciobotaru, Stefan Schmid, and Anja Feldmann.<br>
+      ACM Sigcomm Symposium on SDN Research (<b>SOSR</b>), Santa Clara, California, USA,
+       June 2015.<br>
+      Documents: paper&nbsp;<a href="sosr15.pdf">pdf</a>,
+      slides&nbsp;<a href="sosr15slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="c3-nsdi15.pdf">C3: Cutting Tail Latency in Cloud Data Stores via Adaptive
+              Replica Selection</a><br>
+      Lalith Suresh, Marco Canini, Stefan Schmid, and Anja Feldmann.<br>
+      12th USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), Oakland, California, USA, May 2015.<br>
+ Documents: paper&nbsp;<a href="c3-nsdi15.pdf">pdf</a>,
+      slides&nbsp;<a href="nsdi15_slides_suresh.pdf">pdf</a>, video&nbsp;<a href="https://www.usenix.org/conference/nsdi15/technical-sessions/presentation/suresh">link</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+  </li>
+
+          <li>
+      <p><a href="infocom15.pdf">A Distributed and Robust SDN Control Plane
+for Transactional Network Updates</a><br>
+      Marco Canini, Petr Kuznetsov, Dan Levin, and Stefan Schmid.<br>
+      34th IEEE Conference on Computer Communications (<b>INFOCOM</b>), Hong Kong, April 2015.<br>
+      Documents: paper&nbsp;<a href="infocom15.pdf">pdf</a>,
+      slides&nbsp;<a href="mcanini-INFOCOM-STN-public.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+   <li>
+      <p><a href="globecom14.pdf">Leveraging Locality for FIB Aggregation</a><br>
+     Nadi Sarrar, Robert Wuttke, Stefan Schmid, Marcin Bienkowski, and Steve Uhlig.<br>
+       IEEE <b>GLOBECOM</b>, Austin, Texas, USA, December 2014.<br>
+      Documents: paper&nbsp;<a href="globecom14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+         <li>
+      <p><a href="smartgridcomm14.pdf">ColorCast: Deterministic Broadcast in Powerline Networks with Uncertainties</a><br>
+    Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+       5th IEEE International Conference on Smart Grid Communications (<b>SmartGridComm</b>), Venice, Italy, November 2014.<br>
+      Documents: paper&nbsp;<a href="smartgridcomm14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
+      <p><a href="icdcs14.pdf">Competitive FIB Aggregation without Update Churn</a><br>
+      Marcin Bienkowski, Nadi Sarrar, Stefan Schmid, and Steve Uhlig.<br>
+       34th International Conference on Distributed
+    Computing Systems (<b>ICDCS</b>), Madrid, Spain, June 2014.<br>
+      Documents: paper&nbsp;<a href="icdcs14.pdf">pdf</a>, slides&nbsp;<a href="icdcs14fib.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                <li>
+      <p><a href="atc14.pdf">Panopticon: Reaping the Benefits of Incremental SDN Deployment in Enterprise Networks</a><br>
+      Dan Levin, Marco Canini, Stefan Schmid, Fabian Schaffert, and Anja Feldmann.<br>
+       USENIX Annual Technical Conference (<b>ATC</b>), Philadelphia, Pennsylvania, USA, June 2014.<br>
+      Documents: paper&nbsp;<a href="atc14.pdf">pdf</a>, slides&nbsp;<a href="dan-atc-2014.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="ipdps14.pdf">It's About Time: On Optimal Virtual Network Embeddings under
+Temporal Flexibilities</a><br>
+      Matthias Rost, Stefan Schmid, and Anja Feldmann.<br>
+       28th IEEE International Parallel and
+Distributed Processing Symposium (<b>IPDPS</b>), Phoenix, Arizona, USA, May 2014.<br>
+      Documents: paper&nbsp;<a href="ipdps14.pdf">pdf</a>, slides&nbsp;<a href="ipdps14slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+            <li>
+<p><a href="sinr-TR.pdf">Competitive MAC under Adversarial SINR</a><br>
+      Adrian Ogierman, Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin Zhang.<br>
+      33rd IEEE Conference on Computer Communications (<b>INFOCOM</b>), Toronto, Ontario, Canada, April 2014.<br>
+      Documents: paper&nbsp;<a href="sinr-TR.pdf">pdf</a>, slides&nbsp;<a href="infocom14slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+        </li>
+
+      <li>
+      <p><a href="ons14wireless.pdf">AeroFlux: A Near-Sighted Controller Architecture
+for Software-Defined Wireless Networks</a><br>
+      Julius Schulz-Zander, Nadi Sarrar, and Stefan Schmid.<br>
+       Open Networking Summit (<b>ONS</b>), Conference Research Track, USENIX, Santa Clara, California, USA, March 2014.<br>
+      Documents: paper&nbsp;<a href="ons14wireless.pdf">pdf</a>, slides&nbsp;<a href="aeroflux-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="ons14cxp.pdf">Control Exchange Points: Providing QoS-enabled End-to-End Services
+via SDN-based Inter-domain Routing Orchestration</a><br>
+      Vasileios Kotronis, Xenofontas Dimitropoulos, Rowan Kl&ouml;ti, Bernhard Ager, Panagiotis Georgopoulos, and Stefan Schmid.<br>
+       Open Networking Summit (<b>ONS</b>), Conference Research Track, USENIX, Santa Clara, California, USA, March 2014.<br>
+      Documents: paper&nbsp;<a href="ons14cxp.pdf">pdf</a>, slides&nbsp;<a href="cxp-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="opodis13cvsap.pdf">VirtuCast: Multicast and Aggregation with In-Network Processing (An Exact Single-Commodity Algorithm)</a><br>
+      Matthias Rost and Stefan Schmid.<br>
+       17th International Conference on Principles of Distributed Systems (<b>OPODIS</b>), Nice, France, Springer LNCS, December 2013.<br>
+       Also presented by Matthias Rost at
+ 	22nd International Symposium on Mathematical Programming (<b>ISMP</b>),
+ 	Combinatorial Optimization / Routing and Facility Location, Pittsburgh, Pennsylvania, USA, July 2015.<br>
+      Documents: paper&nbsp;<a href="opodis13cvsap.pdf">pdf</a>,
+      slides&nbsp;<a href="VirtuCast_OPODIS_2013.pdf">pdf</a>, project website&nbsp;<a href="http://www.net.t-labs.tu-berlin.de/~stefan/cvsap.html">html</a>,
+      ISMP slides&nbsp;<a href="rostISMP2015.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+        <li>
+      <p><a href="opodis13shoot.pdf">How (Not) to Shoot in Your Foot with SDN Local Fast Failover: A Load-Connectivity Tradeoff</a><br>
+      Michael Borokhovich and Stefan Schmid.<br>
+       17th International Conference on Principles of Distributed Systems (<b>OPODIS</b>), Nice, France, Springer LNCS, December 2013.<br>
+      Documents: paper&nbsp;<a href="opodis13shoot.pdf">pdf</a>,
+      slides&nbsp;<a href="presentation_opodis2013.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+  <li>
+      <p><a href="cloudnets13.pdf">Virtual Network Embedding with Collocation: Benefits and Limitations of Pre-Clustering</a> (Best Paper Award)<br>
+      Carlo Fuerst, Stefan Schmid, and Anja Feldmann.<br>
+       2nd IEEE International Conference on Cloud Networking (<b>CLOUDNET</b>), San Francisco, California, USA, November 2013.<br>
+      Documents: paper&nbsp;<a href="cloudnets13.pdf">pdf</a>,
+      slides&nbsp;<a href="cloudnet13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="itc13.pdf">Specificity vs. Flexibility: On the Embedding Cost of a Virtual Network</a><br>
+      Arne Ludwig, Stefan Schmid, and Anja Feldmann.<br>
+       25th International Teletraffic Congress (<b>ITC</b>), Shanghai, China, September 2013.<br>
+      Documents: paper&nbsp;<a href="itc13.pdf">pdf</a>,
+      slides&nbsp;<a href="itc13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
+      <p><a href="pimrc13.pdf">An Architecture for Creating and Managing Virtual Networks</a><br>
+      Ishan Vaishnavi, David Perez-Caparros, Stefan Schmid, and Ashiq Khan.<br>
+       24th  IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (<b>PIMRC</b>), London, United Kingdom, September 2013.<br>
+      Documents: paper&nbsp;<a href="pimrc13.pdf">pdf</a>,
+      slides&nbsp;<a href="pimrc13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+          <li>
+<p><a href="sirocco13.pdf">Competitive FIB Aggregation: Online Ski Rental on the Trie</a><br>
+      Marcin Bienkowski and Stefan Schmid.<br>
+     20th International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>), Ischia, Italy, July 2013.<br>
+      Documents: paper&nbsp;<a href="sirocco13.pdf">pdf</a>,
+      slides&nbsp;<a href="sirocco13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+        </li>
+
+          <li>
+<p><a href="ipdps13.pdf">Locally Self-Adjusting Tree Networks</a><br>
+      Chen Avin, Bernhard Haeupler, Zvi Lotker, Christian Scheideler, and Stefan Schmid.<br>
+     27th IEEE International Parallel and
+Distributed Processing Symposium (<b>IPDPS</b>), Boston, Massachusetts, USA, May 2013.<br>
+      Documents: paper&nbsp;<a href="ipdps13.pdf">pdf</a>,
+      slides&nbsp;<a href="ipdps13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+        </li>
+
+     <li>
+      <p><a href="netys13.pdf">Request Complexity of VNet Topology Extraction:
+Dictionary-Based Attacks</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      International Conference on Networked Systems (<b>NETYS</b>), Marrakech, Morocco, Springer LNCS 7853, May 2013<br>
+      Documents: paper&nbsp;<a href="netys13.pdf">pdf</a>,
+      slides&nbsp;<a href="netys13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+
+      <li>
+      <p><a href="ons13.pdf">Toward Transitional SDN Deployment in Enterprise Networks</a><br>
+      Dan Levin, Marco Canini, Stefan Schmid, and Anja Feldmann.<br>
+       Open Networking Summit (<b>ONS</b>), Conference Research Track, Santa Clara, California, USA, April 2013.<br>
+      Documents: paper&nbsp;<a href="ons13.pdf">pdf</a>,
+      slides&nbsp;<a href="ons13slides.pdf">pdf</a>,
+      tech report&nbsp;<a href="panopticon-TR.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+<p><a href="infocom13.pdf">Optimal Bounds for Online Page Migration with Generalized Migration Costs</a><br>
+      Johannes Schneider and Stefan Schmid.<br>
+      32nd IEEE Conference on Computer Communications (<b>INFOCOM</b>), Turin, Italy, April 2013.<br>
+      Documents: paper&nbsp;<a href="infocom13.pdf">pdf</a>,
+      slides&nbsp;<a href="infocom13mig.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+        </li>
+
+
+      <li>
+      <p><a href="icdcn13.pdf">Optimal Migration Contracts in Virtual Networks: Pay-as-You-Come vs Pay-as-You-Go Pricing</a><br>
+     Xinhui Hu, Stefan Schmid, Andrea Richa, and Anja Feldmann.<br>
+      14th International Conference on Distributed Computing and
+      Networking (<b>ICDCN</b>), Tata Institute of Fundamental Research, Mumbai, India, January 2013.<br>
+      Documents: paper&nbsp;<a href="icdcn13.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcn13slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a> </p>
+    </li>
+
+       <li>
+      <p><a href="ucc12mip.pdf">Optimizing Long-Lived CloudNets with Migrations</a><br>
+      Gregor Schaffrath, Stefan Schmid, and Anja Feldmann.<br>
+     5th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Chicago, Illinois, USA, November 2012.<br>
+   Documents: paper&nbsp;<a href="ucc12mip.pdf">pdf</a>,
+      slides&nbsp;<a href="ucc12slides1.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="p2p12.pdf">Boosting Market Liquidity of Peer-to-Peer Systems
+Through Cyclic Trading</a><br>
+       Raphael Eidenbenz, Thomas Locher, Stefan Schmid, and Roger Wattenhofer.<br>
+      12th  IEEE International Conference on Peer-to-Peer Computing (<b>P2P</b>), Tarragona, Spain, September 2012.<br>
+      Documents: paper&nbsp;<a href="p2p12.pdf">pdf</a>,
+      public reviews&nbsp;<a href="public-review-cyclic.pdf">pdf</a>,
+      slides&nbsp;<a href="p2p12slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="icccn12.pdf">A Resource Description Language with Vagueness Support for Multi-Provider Cloud
+Networks</a><br>
+      Gregor Schaffrath, Stefan Schmid, Ishan Vaishnavi, Ashiq Khan, and Anja Feldmann.<br>
+      International Conference on Computer Communication Networks (<b>ICCCN</b>), Bundeswehr Universit&auml;t, Munich, Germany, July 2012.<br>
+      Documents: paper&nbsp;<a href="icccn12.pdf">pdf</a>,
+      slides&nbsp;<a href="icccn12slides.pdf">pdf</a>,
+      example&nbsp;<a href="flerd.zip">zip</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc12.pdf">Competitive and Fair Throughput for Co-Existing Networks
+Under Adversarial Interference</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      31st Annual ACM Symposium on Principles of Distributed
+      Computing (<b>PODC</b>), Madeira, Portugal, July 2012.<br>
+      Documents: paper&nbsp;<a href="podc12.pdf">pdf</a>,
+      slides&nbsp;<a href="podc12slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="websci12.pdf">Tracing the Birth of an OSN: Social Graph and
+Profile Analysis in Google&#43;</a> <br>
+        Doris Schi&ouml;berg, Fabian Schneider, Harald Schi&ouml;berg, Stefan Schmid, Steve Uhlig, and Anja Feldmann.<br>
+     ACM Web Science (<b>WebSci</b>), Evanston, Illinois, June 2012.<br>
+      Documents: paper&nbsp;<a href="websci12.pdf">pdf</a>
+      </p>
+    </li>
+
+    <li>
+      <p><a href="icdcn12.pdf">Competitive and Deterministic Embeddings of Virtual Networks</a> (Best Paper Award)<br>
+      Guy Even, Moti Medina, Gregor Schaffrath, and Stefan Schmid.<br>
+      13th International Conference on Distributed Computing and
+      Networking (<b>ICDCN</b>), The Hong Kong Polytechnic University, Hong Kong, China, Springer LNCS 7129, January 2012.<br>
+      Documents: paper&nbsp;<a href="icdcn12.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcn12slides.pdf">pdf</a>
+      </p>
+    </li>
+
+   <li>
+      <p><a href="disc11.pdf">Misleading Stars: What Cannot Be Measured in the Internet?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      25th International Symposium on Distributed Computing (<b>DISC</b>), Rome, Italy, September 2011.<br>
+      Documents: paper&nbsp;<a href="disc11.pdf">pdf</a>,
+      slides&nbsp;<a href="disc11slides.pdf">pdf</a>,
+      podc cast&nbsp;<a href="podccast.mp3">mp3</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+   <li>
+      <p><a href="iptcomm11.pdf">Online Strategies for Intra and Inter Provider
+Service Migration in Virtual Networks</a><br>
+      Dushyant Arora, Marcin Bienkowski, Anja Feldmann, Gregor Schaffrath, and Stefan Schmid.<br>
+      Principles, Systems and Applications of IP Telecommunications (<b>IPTComm</b>), Illinois Institute of Technology (IIT), Chicago, Illinois, USA, August 2011.<br>
+      Documents: paper&nbsp;<a href="iptcomm11.pdf">pdf</a>,
+      slides&nbsp;<a href="iptcomm11slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="icdcs11cam.pdf">Competitive and Fair Medium
+      Access despite Reactive Jamming</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      31st IEEE International Conference on Distributed Computing
+      Systems (<b>ICDCS</b>), Minneapolis, Minnesota, USA, June 2011.<br>
+      Documents: paper&nbsp;<a href="icdcs11cam.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcs11-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="mobihoc11.pdf">Self-Stabilizing Leader Election
+      for Single-Hop Wireless Networks despite Jamming</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      12th ACM International Symposium on Mobile Ad Hoc Networking
+      and Computing (<b>MobiHoc</b>), Paris, France, May 2011.<br>
+      Documents: paper&nbsp;<a href="mobihoc11.pdf">pdf</a>,
+      slides&nbsp;<a href="mobihoc11slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="disc10.pdf">A Jamming-Resistant MAC Protocol for
+      Multi-Hop Wireless Networks</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      24th International Symposium on Distributed Computing (<b>DISC</b>),
+      Cambridge, Massachusetts, USA, Springer LNCS 6343, September
+      2010.<br>
+      Documents: paper&nbsp;<a href="disc10.pdf">pdf</a>,
+      slides&nbsp;<a href="disc10slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="sirocco10a.pdf">Towards Network Games with Social
+      Preferences</a><br>
+      Petr Kuznetsov and Stefan Schmid.<br>
+      17th International Colloquium on Structural Information and
+      Communication Complexity (<b>SIROCCO</b>), Nesin Mathematics
+      Village, Sirince, Turkey, Springer LNCS 6058, June 2010.<br>
+      Documents: paper&nbsp;<a href="sirocco10a.pdf">pdf</a>,
+      slides&nbsp;<a href="sirocco10slidesa.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="sirocco10b.pdf">Event Extent Estimation</a><br>
+      Marcin Bienkowski, Leszek Gasieniec, Marek Klonowski,
+      Miroslaw Korzeniowski, and Stefan Schmid.<br>
+      17th International Colloquium on Structural Information and
+      Communication Complexity (<b>SIROCCO</b>), Nesin Mathematics
+      Village, Sirince, Turkey, Springer LNCS 6058, June 2010.<br>
+      Documents: paper&nbsp;<a href="sirocco10b.pdf">pdf</a>,
+      slides&nbsp;<a href="sirocco10slidesb.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="latin10.pdf">Time Complexity of Distributed
+      Topological Self-Stabilization: The Case of Graph
+      Linearization</a><br>
+      Dominik Gall, Riko Jacob, Andrea Richa, Christian Scheideler,
+      Stefan Schmid, and Hanjo T&auml;ubig.<br>
+      9th Latin American Theoretical Informatics Symposium (<b>LATIN</b>),
+      Oaxaca, Mexico, Springer LNCS 6034, April 2010.<br>
+      Documents: paper&nbsp;<a href="latin10.pdf">pdf</a>,
+      slides&nbsp;<a href="latin10slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="icdcn10.pdf">Poisoning the Kad Network</a><br>
+      Thomas Locher, David Mysicka, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      11th International Conference on Distributed Computing and
+      Networking (<b>ICDCN</b>), Kolkata, India, Springer LNCS
+      5935,&nbsp;January 2010.<br>
+      Documents: paper&nbsp;<a href="icdcn10.pdf">pdf</a>,
+      slides&nbsp;<a href="icdcn10slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="isaac09.pdf">A Self-Stabilizing and Local
+      Delaunay Graph Construction</a><br>
+      Riko Jacob, Stephan Ritscher, Christian Scheideler, and
+      Stefan Schmid.<br>
+      20th International Symposium on Algorithms and Computation
+      (<b>ISAAC</b>), Hawaii, USA, Springer LNCS 5878, December 2009.<br>
+      Documents: paper&nbsp;<a href="isaac09.pdf">pdf</a>,
+      slides&nbsp;<a href="isaac09slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="spaa09.pdf">A DoS-Resilient Information System
+      for Dynamic Data Management</a><br>
+      Matthias Baumgart, Christian Scheideler, and Stefan
+      Schmid.<br>
+      21st ACM Symposium on Parallelism in Algorithms and
+      Architectures (<b>SPAA</b>), Calgary, Alberta, Canada, August
+      2009.<br>
+      Documents: paper&nbsp;<a href="spaa09.pdf">pdf</a>,
+      slides&nbsp;<a href="DoS-DHT.pptx">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc09.pdf">A Polylogarithmic Time Algorithm for
+      Distributed Self-Stabilizing Skip Graphs</a><br>
+      Riko Jacob, Andrea Richa, Christian Scheideler, Stefan
+      Schmid, and Hanjo T&auml;ubig.<br>
+      28th ACM Symposium on Principles of Distributed Computing
+      (<b>PODC</b>), Calgary, Alberta, Canada, August 2009.<br>
+      Documents: paper&nbsp;<a href="podc09.pdf">pdf</a>,
+      slides&nbsp;<a href="skip-graph.pptx">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="icalp09.pdf">A Distributed and Oblivious
+      Heap</a><br>
+      Christian Scheideler and Stefan Schmid.<br>
+      36th International Colloquium on Automata, Languages and
+      Programming (<b>ICALP</b>), Rhodes, Greece, Springer LNCS 5556, July
+      2009.<br>
+      Documents: paper&nbsp;<a href="icalp09.pdf">pdf</a>,
+      slides&nbsp;<a href="shell-heap.pptx">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="dcoss09.pdf">Speed Dating Despite Jammers</a><br>
+      Dominic Meier, Yvonne Anne Pignolet, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      5th IEEE International Conference on Distributed Computing in
+      Sensor Systems (<b>DCOSS</b>), Marina Del Rey, California, USA,
+      Springer LNCS 5516, June 2009.<br>
+      Documents: paper&nbsp;<a href="dcoss09.pdf">pdf</a>,
+      slides&nbsp;<a href="dcoss.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="gamenets09.pdf">Combinatorial Agency with
+      Audits</a><br>
+      Raphael Eidenbenz and Stefan Schmid.<br>
+      IEEE International Conference on Game Theory for Networks
+      (<b>GameNets</b>), Istanbul, Turkey, May 2009.<br>
+      Documents: paper&nbsp;<a href="gamenets09.pdf">pdf</a>,
+      slides&nbsp;<a href="gamenets09-slides.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="infocom09.pdf">On Mechanism Design Without
+      Payments for Throughput Maximization</a><br>
+      Thomas Moscibroda and Stefan Schmid.<br>
+      28th IEEE Conference on Computer Communications (<b>INFOCOM</b>),
+      Rio de Janeiro, Brazil, April 2009.<br>
+      Documents: paper&nbsp;<a href="infocom09.pdf">pdf</a>,
+      slides&nbsp;<a href="infocom09slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc08.pdf">Distributed Computation of the
+      Mode</a><br>
+      Thomas Locher, Fabian Kuhn, and Stefan Schmid.<br>
+      27th Annual ACM Symposium on Principles of Distributed
+      Computing (<b>PODC</b>), Toronto, Canada, August 2008.<br>
+      Documents: paper&nbsp;<a href="podc08.pdf" style="">pdf</a>,
+      slides&nbsp;<a href="podc2008.pptx">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc08OSW.pdf">Tight Bounds for Delay-Sensitive
+      Aggregation</a><br>
+      Yvonne Anne Oswald, Stefan Schmid, and Roger Wattenhofer.<br>
+      27th Annual ACM Symposium on Principles of Distributed
+      Computing (<b>PODC</b>), Toronto, Canada, August 2008.<br>
+      Documents: paper&nbsp;<a href="podc08OSW.pdf">pdf</a>,
+      slides&nbsp;<a href="podc2008.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="ec08cam.pdf">On the Windfall of Friendship:
+      Inoculation Strategies on Social Networks</a><br>
+      Dominic Meier, Yvonne Anne Oswald, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      9th ACM Conference on Electronic Commerce (<b>EC</b>), Chicago,
+      Illinois, USA, July 2008.<br>
+      Documents: paper&nbsp;<a href="ec08cam.pdf">pdf</a>,
+      slides&nbsp;<a href="EC2008.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="ipdps08cam.pdf">Distributed Asymmetric
+      Verification in Computational Grids</a><br>
+      Michael Kuhn, Stefan Schmid, and Roger Wattenhofer.<br>
+      22nd IEEE International Parallel and Distributed Processing
+      Symposium (<b>IPDPS</b>), Miami, Florida, USA, April 2008.<br>
+      Documents: paper&nbsp;<a href="ipdps08cam.pdf">pdf</a>,
+      slides&nbsp;<a href="ipdps08.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="hipc07.pdf">Structuring Unstructured Peer-to-Peer
+      Networks</a><br>
+      Stefan Schmid and Roger Wattenhofer.<br>
+      14th Annual IEEE International Conference on High Performance
+      Computing (<b>HiPC</b>), Goa, India, Springer LNCS 4873, December
+      2007.<br>
+      Documents: paper&nbsp;<a href="hipc07.pdf" style="">pdf</a>,
+      slides&nbsp;<a href="hipc07.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="isaac07lncs.pdf">Manipulation in Games</a><br>
+      Raphael Eidenbenz, Yvonne Anne Oswald, Stefan Schmid, and
+      Roger Wattenhofer.<br>
+      18th International Symposium on Algorithms and Computation
+      (<b>ISAAC</b>), Sendai, Japan, Springer LNCS 4835, December
+      2007.<br>
+      Documents: paper&nbsp;<a href="isaac07lncs.pdf">pdf</a>,
+      slides&nbsp;<a href="isaac07.ppt">ppt</a>,
+      techreport&nbsp;<a href="isaac07tik.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="disc07.pdf">Push-to-Pull Peer-to-Peer Live
+      Streaming</a><br>
+      Thomas Locher, Remo Meier, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      21st International Symposium on Distributed Computing (<b>DISC</b>),
+      Lemesos, Cyprus, Springer LNCS 4731, September 2007.<br>
+      Documents: paper&nbsp;<a href="disc07.pdf" style=
+      "">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="p2p07.pdf">Rescuing Tit-for-Tat with Source
+      Coding</a><br>
+      Thomas Locher, Stefan Schmid, and Roger Wattenhofer.<br>
+      7th IEEE International Conference on Peer-to-Peer Computing
+      (<b>P2P</b>), Galway, Ireland, September 2007.<br>
+      Documents: paper&nbsp;<a href=
+      "p2p07.pdf">pdf</a>&nbsp;<a href="p2p07.ps">ps</a>,
+      slides&nbsp;<a href="p2p07_slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="cocoa07lncs.pdf">Mechanism Design by
+      Creditability</a><br>
+      Raphael Eidenbenz, Yvonne Anne Oswald, Stefan Schmid, and
+      Roger Wattenhofer.<br>
+      1st International Conference on Combinatorial Optimization
+      and Applications (<b>COCOA</b>), Xi'an, Shaanxi, China, Springer
+      LNCS 4616, August 2007.<br>
+      Documents: paper&nbsp;<a href="cocoa07lncs.pdf">pdf</a>,
+      slides&nbsp;<a href="eosCocoa07_slides.pdf">pdf</a>,
+      techreport&nbsp;<a href="cocoa07tik.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="hipc06.pdf">Dynamic Internet Congestion with
+      Bursts</a><br>
+      Stefan Schmid and Roger Wattenhofer.<br>
+      13th Annual IEEE International Conference on High Performance
+      Computing (<b>HiPC</b>), Bangalore, India, Springer LNCS 4297,
+      December 2006.<br>
+      Documents: paper&nbsp;<a href="hipc06.pdf" style="">pdf</a>,
+      slides&nbsp;<a href="hipc06slides.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="srds06.pdf">Cryptree: A Folder Tree Structure for
+      Cryptographic File Systems</a><br>
+      Dominik Grolimund, Luzius Meisser, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      25th IEEE Symposium on Reliable Distributed Systems (<b>SRDS</b>),
+      Leeds, United Kingdom, October 2006.<br>
+      Documents: paper&nbsp;<a href="srds06.pdf">pdf</a>,
+      slides&nbsp;<a href="srds06.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="p2p06.pdf">eQuus: A Provably Robust and
+      Locality-Aware Peer-to-Peer System</a><br>
+      Thomas Locher, Stefan Schmid, and Roger Wattenhofer.<br>
+      6th IEEE International Conference on Peer-to-Peer Computing
+      (<b>P2P</b>), Cambridge, United Kingdom, September 2006.<br>
+      Documents: paper&nbsp;<a href=
+      "p2p06.pdf">pdf</a>&nbsp;<a href="p2p06.ps">ps</a>,
+      slides&nbsp;<a href="p2p06_slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="wicon06.pdf">A TCP with Guaranteed Performance in
+      Networks with Dynamic Congestion and Random Wireless
+      Losses</a><br>
+      Stefan Schmid and Roger Wattenhofer.<br>
+      2nd Annual International Wireless Internet Conference
+      (<b>WICON</b>), Boston, Massachusetts, USA, August 2006.<br>
+      Documents: paper&nbsp;<a href="wicon06.pdf">pdf</a>,
+      slides&nbsp;<a href="wicon06slides.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc06bg.pdf">When Selfish Meets Evil: Byzantine
+      Players in a Virus Inoculation Game</a><br>
+      Thomas Moscibroda, Stefan Schmid, and Roger Wattenhofer.<br>
+      25th Annual Symposium on Principles of Distributed Computing
+      (<b>PODC</b>), Denver, Colorado, USA, July 2006.<br>
+      Documents: paper&nbsp;<a href=
+      "podc06bg.pdf">pdf</a>&nbsp;<a href="podc06bg.ps">ps</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="podc06lg.pdf">On the Topologies Formed by Selfish
+      Peers</a><br>
+      Thomas Moscibroda, Stefan Schmid, and Roger Wattenhofer.<br>
+      25th Annual Symposium on Principles of Distributed Computing
+      (<b>PODC</b>), Denver, Colorado, USA, July 2006.<br>
+      Documents: paper&nbsp;<a href=
+      "podc06lg.pdf">pdf</a>&nbsp;<a href="podc06lg.ps">ps</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="chep04.pdf">Parallel Compilation of CMS
+      Software</a><br>
+      Shaun Ashby, Giulio Eulisse, Stefan Schmid, and Lassi
+      Tuura.<br>
+      Computing in High Energy and Nuclear Physics Conference
+      (<b>CHEP</b>), Interlaken, Switzerland, September 2004.<br>
+      Documents: paper&nbsp;<a href="chep04.pdf">pdf</a>,
+      poster&nbsp;<a href="chep-poster.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+  </ul>
+
+  <h2>Workshops</h2>
+
+
+  <ul>
+                                          <li>
+      <p><a href="bigdama18.pdf">NetSlicer: Automated and Traffic-Pattern Based Application
+              Clustering in Datacenters</a><br>
+      Liron Schiff, Ofri Ziv, Manfred Jaeger, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks (<b>Big-DAMA</b>), 
+        Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="bigdama18.pdf">pdf</a>, 
+                                          slides&nbsp;<a href="bigdama18slides.pdf">pdf</a>,              
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                      <li>
+      <p><a href="neat18.pdf">Supporting Emerging Applications With Low-Latency Failover in
+              P4</a><br>
+              Roshan Sedar, Michael Borokhovich, Marco Chiesa, 
+              Gianni Antichi, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Workshop on Networking for Emerging Applications and Technologies (<b>NEAT</b>), 
+        Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="neat18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                                      <li>
+      <p><a href="secson18.pdf">Virtual Network Isolation: Are We There Yet?</a><br>
+              Kashyap Thimmaraju, Gabor Retvari, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Workshop on Security in Softwarized Networks: Prospects and Challenges (<b>SecSon</b>), 
+        Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="secson18.pdf">pdf</a>, 
+                            slides&nbsp;<a href="secson18slides.pdf">pdf</a>,              
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                                          <li>
+      <p><a href="sdn18.pdf">Empowering Self-Driving Networks</a><br>
+              Patrick Kalmbach, Johannes Zerwas, Peter Babarczi,
+              Andreas Blenk, Wolfgang Kellerer, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Workshop on Self-Driving Networks (<b>SDN</b>), 
+        Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="sdn18.pdf">pdf</a>, 
+                            slides&nbsp;<a href="sdn18slides.pdf">pdf</a>,              
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+           <li>
+      <p><a href="iecco18.pdf">Fast and Efficient Network Service Embedding Method with Adaptive Offloading to the Edge</a><br>
+        Balazs Nemeth, Mark Szalay, Janos Doka, Matthias Rost, Stefan Schmid, Laszlo Toka, and Balazs Sonkoly.<br>
+      IEEE INFOCOM Workshop on Integrating Edge Computing, Caching, and Offloading in Next Generation Networks, 
+      Honolulu, Hawaii, USA, April 2018.<br>
+      Documents: paper&nbsp;<a href="iecco18.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                              <li>
+      <p><a href="ccsw17.pdf">The vAMP Attack: Taking Control of Cloud Systems via the 
+        Unified Packet Parser</a><br>
+      Kashyap Thimmaraju, Bhargava Shastry, Tobias Fiebig, Felicitas Hetzelt, Jean-Pierre Seifert, Anja Feldmann, and Stefan Schmid.<br>
+        9th ACM Cloud Computing Security Workshop (<b>CCSW</b>), collocated with ACM CCS, 
+        Dallas, Texas, USA, November 2017.<br>
+              Documents: paper&nbsp;<a href="ccsw17.pdf">pdf</a>, 
+              slides&nbsp;<a href="ccsw17slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                  <li>
+      <p><a href="icnp17ws.pdf">Algorithm-Data Driven Optimization of Adaptive Communication Networks</a><br>
+     Mu He, Patrick Kalmbach, Andreas Blenk, Stefan Schmid, and Wolfgang Kellerer.<br>
+      IEEE ICNP Workshop on Machine Learning and Artificial Intelligence in Computer Networks, Toronto, Canada, October 2017.<br>
+      Documents: paper&nbsp;<a href="icnp17ws.pdf">pdf</a>, 
+      slides&nbsp;<a href="icnp17slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+
+                             <li>
+      <p><a href="algocloud17.pdf">A Walk in the Clouds: Routing through VNFs on Bidirected Networks</a><br>
+      Klaus-Tycho Foerster, Mahmoud Parham, and Stefan Schmid.<br>
+     3rd International Workshop on Algorithmic Aspects of Cloud Computing (<b>ALGOCLOUD</b>), 
+     collocated with ESA,
+    Vienna, Austria, September 2017.<br>
+      Documents: paper&nbsp;<a href="algocloud17.pdf">pdf</a>, 
+      slides&nbsp;<a href="algocloud17slides.pdf">pdf</a>,
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                 <li>
+      <p><a href="bigdama17.pdf">o'zapft is: Tap Your Network Algorithm's Big Data!</a><br>
+      Andreas Blenk, Patrick Kalmbach, Stefan Schmid, and Wolfgang Kellerer.<br>
+     ACM SIGCOMM 2017 Workshop on Big Data Analytics and Machine Learning for Data Communication Networks (<b>Big-DAMA</b>), Los Angeles, California, USA, August 2017.<br>
+      Documents: paper&nbsp;<a href="bigdama17.pdf">pdf</a>, 
+      slides&nbsp;<a href="ozapft-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                     <li>
+      <p><a href="hotconnet17.pdf">The Grand CRU Challenge</a><br>
+      Marcel Bl&ouml;cher, Malte Viering, Stefan Schmid, and Patrick Eugster.<br>
+     ACM SIGCOMM 2017 International Workshop on Hot Topics in Container Networking and Networked Systems (<b>HotConNet</b>), Los Angeles, California, USA, August 2017.<br>
+      Documents: paper&nbsp;<a href="hotconnet17.pdf">pdf</a>,
+      slides&nbsp;<a href="hotconnet17slides.pdf">pdf</a>, 
+       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                                    <li>
+      <p><a href="can16.pdf">SecuSpot: Toward Cloud-Assisted Secure Multi-Tenant WiFi
+              HotSpot Infrastructures</a> (Best Paper Award)<br>
+     Julius Schulz-Zander, Raphael Lisicki, Stefan Schmid, and Anja Feldmann.<br>
+      ACM CoNEXT Workshop on Cloud-Assisted Networking (<b>CAN</b>), 
+      Irvine, California, USA, December 2016.<br>
+      Documents: paper&nbsp;<a href="can16.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                              <li>
+      <p><a href="nwpt16.pdf">WNetKAT: Programming and Verifying Weighted Software-Defined Networks</a><br>
+      Kim G. Larsen, Stefan Schmid, and Bingtian Xue.<br>
+        28th Nordic Workshop on Programming Theory (<b>NWPT</b>), Rold Storkro (North Jutland), Denmark, October 2016.<br>
+              Documents: paper&nbsp;<a href="nwpt16.pdf">pdf</a>, slides&nbsp;<a href="nwpt16slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                        <li>
+      <p><a href="o4sdi16.pdf">Efficient Service Graph Embedding: A Practical Approach</a><br>
+     Balazs Nemeth, Balazs Sonkoly, Matthias Rost, and Stefan Schmid.<br>
+      IEEE NFV-SDN Workshop O4SDI, 
+      Palo Alto, California, USA, November 2016.<br>
+      Documents: paper&nbsp;<a href="o4sdi16.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                                <li>
+      <p><a href="mobiarch16.pdf">LegoFi the WiFi Building Blocks! The Case for a Modular WiFi Architecture</a><br>
+     Julius Schulz-Zander, Stefan Schmid, James Kempf, Roberto Riggio, and Anja Feldmann.<br>
+      ACM MOBICOM Workshop on Mobility in the Evolving Internet Architecture (<b>MobiArch</b>), 
+      New York City, New York, USA, October 2016.<br>
+      Documents: paper&nbsp;<a href="mobiarch16.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                  <li>
+      <p><a href="disn16medieval.pdf">Ground Control to Major Faults: Towards a Fault
+Tolerant and Adaptive SDN Control Network</a><br>
+      Liron Schiff, Stefan Schmid, and Marco Canini.<br>
+       IEEE/IFIP DSN Workshop on Dependability Issues on SDN and NFV (<b>DISN</b>),        
+       Toulouse, France, June 2016.<br>
+      Documents: paper&nbsp;<a href="disn16medieval.pdf">pdf</a>, slides&nbsp;<a href="medieval-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                    <li>
+      <p><a href="disn16clients.pdf">Routing-Verification-as-a-Service (RVaaS):
+Trustworthy Routing Despite Insecure Providers</a><br>
+      Liron Schiff, Kashyap Thimmaraju, and Stefan Schmid.<br>
+       IEEE/IFIP DSN Workshop on Dependability Issues on SDN and NFV (<b>DISN</b>),        
+       Toulouse, France, June 2016.<br>
+      Documents: paper&nbsp;<a href="disn16clients.pdf">pdf</a>, slides&nbsp;<a href="clients-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                        <li>
+      <p><a href="disn16netco.pdf">NetCo: Reliable Routing With Unreliable Routers</a><br>
+      Anja Feldmann, Philipp Heyder, Michael Kreutzer, Stefan Schmid, Jean-Pierre Seifert, Haya Shulman, Kashyap Thimmaraju, Michael Waidner, 
+      and Jens Sieberg.<br>
+       IEEE/IFIP DSN Workshop on Dependability Issues on SDN and NFV (<b>DISN</b>),        
+       Toulouse, France, June 2016.<br>
+      Documents: paper&nbsp;<a href="disn16netco.pdf">pdf</a>, slides&nbsp;<a href="netco-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                    <li>
+      <p><a href="writ16.pdf">PRI: Privacy Preserving Inspection of Encrypted Network Traffic</a><br>
+      Liron Schiff and Stefan Schmid.<br>
+        IEEE Security&amp;Privacy Workshop on Research for Insider Threats (<b>WRIT</b>), San Jose, California, USA, May 2016.<br>
+      Documents: paper&nbsp;<a href="writ16.pdf">pdf</a>, slides&nbsp;<a href="writ16slides.pdf">pdf</a>, 
+      youtube <a href="https://www.youtube.com/watch?v=b54unY8iGs0">mov</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+        <li>
+      <p><a href="dcc15.pdf">Distributed Cloud Market: Who Benefits from Specification Flexibilities?</a><br>
+        Arne Ludwig and Stefan Schmid.<br>
+       3rd SIGMETRICS Workshop on Distributed Cloud Computing (<b>DCC</b>), Portland, Oregon, USA,
+       June 2015. <br>Special Issue of the ACM Performance Evaluation Review (<b>PER</b>), December 2015.<br>
+      Documents: paper&nbsp;<a href="dcc15.pdf">pdf</a>,
+      slides&nbsp;<a href="dcc15slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+      <li>
+      <p><a href="hotnets14inband.pdf">Reclaiming the Brain: Useful OpenFlow Functions in the Data Plane</a><br>
+      Liron Schiff, Michael Borokhovich, and Stefan Schmid.<br>
+      13th ACM Workshop on Hot Topics in Networks (<b>HotNets</b>), Los Angeles, California, USA, October 2014.<br>
+      Documents: paper&nbsp;<a href="hotnets14inband.pdf">pdf</a>,
+      slides&nbsp;<a href="hotnets14slides-inband.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p></p>
+    </li>
+
+          <li>
+      <p><a href="hotnets14update.pdf">Good Network Updates for Bad Packets:
+Waypoint Enforcement Beyond Destination-Based Routing Policies</a><br>
+      Arne Ludwig, Matthias Rost, Damien Foucard, and Stefan Schmid.<br>
+      13th ACM Workshop on Hot Topics in Networks (<b>HotNets</b>), Los Angeles, California, USA, October 2014.<br>
+      Documents: paper&nbsp;<a href="hotnets14update.pdf">pdf</a>,
+      slides&nbsp;<a href="hotnets14slides-update.pdf">pdf</a>,
+      data&nbsp;<a href="netup.tar.gz">tar</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="ewsdn14.pdf">Towards Unified Programmability of
+Cloud and Carrier Infrastructure</a><br>
+    Pontus Skoldstrom, Balazs Sonkoly, Mario Kind, Fritz-Joachim Westphal, Wolfgang John, Jokin Garay, Eduardo Jacob, Janos Elek, David Jocha, Robert Szabo, Wouter Tavernier, George Agapiou, Antonio Manzalini, Matthias Rost, Nadi Sarrar, and Stefan Schmid.<br>
+       European Workshop on Software Defined Networking (<b>EWSDN</b>), Budapest, Hungary, September 2014.<br>
+      Documents: paper&nbsp;<a href="ewsdn14.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+      <li>
+      <p><a href="hotsdn14fail.pdf">Provable Data Plane Connectivity with Local Fast Failover: Introducing OpenFlow Graph Algorithms</a><br>
+      Michael Borokhovich, Liron Schiff, and Stefan Schmid.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Chicago, Illinois, USA, August 2014.<br>
+      Documents: paper&nbsp;<a href="hotsdn14fail.pdf">pdf</a>, slides&nbsp;<a href="hotsdn14slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+            <li>
+      <p><a href="fomc14.pdf">Modeling and Measuring Graph Similarity: The Case for Centrality Distance</a><br>
+       Matthieu Roy, Stefan Schmid, and Gilles Tredan.<br>
+       10th ACM International Workshop on Foundations of Mobile Computing (<b>FOMC</b>), Philadelphia, Pennsylvania, USA, August 2014.<br>
+      Documents: paper&nbsp;<a href="fomc14.pdf">pdf</a>, slides&nbsp;<a href="fomc14slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                    <li>
+<p><a href="netscicom14.pdf">Urban Mobility Scaling: Lessons from Little Data</a><br>
+      Galen Wilkerson, Ramin Khalili, and Stefan Schmid.<br>
+      6th IEEE International Workshop on Network Science for Communication Networks (<b>NetSciCom</b>), Toronto, Ontario, Canada, May 2014.<br>
+      Documents: paper&nbsp;<a href="netscicom14.pdf">pdf</a>, slides&nbsp;<a href="netscicom14slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+        </li>
+
+          <li>
+      <p><a href="hotsdn13loc.pdf">Exploiting Locality in Distributed SDN Control</a><br>
+      Stefan Schmid and Jukka Suomela.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Hong Kong, China, August 2013.<br>
+      Documents: paper&nbsp;<a href="hotsdn13loc.pdf">pdf</a>,
+      slides&nbsp;<a href="hotsdn13slides-loc.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+         <li>
+      <p><a href="hotsdn13ccc.pdf">Software Transactional Networking:
+Concurrent and Consistent Policy Composition</a><br>
+      Marco Canini, Petr Kuznetsov, Dan Levin, and Stefan Schmid.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Hong Kong, China, August 2013.<br>
+      Documents: paper&nbsp;<a href="hotsdn13ccc.pdf">pdf</a>,
+      slides&nbsp;<a href="hotsdn13slides-cpc.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+   <li>
+      <p><a href="s3-11.pdf">Towards Jamming-Resistant and Competitive Medium
+    Access in the SINR Model</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      3rd Annual <b>ACM s3</b> Workshop, Las Vegas, Nevada, USA, September 2011.<br>
+      Documents: paper&nbsp;<a href="s3-11.pdf">pdf</a>,
+      slides&nbsp;<a href="s3-11slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="hotice11.pdf">On the Benefit of Virtualization:
+      Strategies for Flexible Server Allocation</a><br>
+      Dushyant Arora, Anja Feldmann, Gregor Schaffrath, and Stefan
+      Schmid.<br>
+      USENIX Workshop on Hot Topics in Management of Internet,
+      Cloud, and Enterprise Networks and Services (<b>Hot-ICE</b>),
+      Boston, Massachusetts, USA, March 2011.<br>
+      Documents: paper&nbsp;<a href="hotice11.pdf">pdf</a>,
+      slides&nbsp;<a href="hotice11slides.pdf">pdf</a>, tech
+      report&nbsp;<a href="virtuben10arxiv.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="visa10.pdf">Competitive Analysis for Service
+      Migration in VNets</a><br>
+      Marcin Bienkowski, Anja Feldmann, Dan Jurca, Wolfgang
+      Kellerer, Gregor Schaffrath, Stefan Schmid, and Joerg
+      Widmer.<br>
+      2nd ACM SIGCOMM Workshop on Virtualized Infrastructure
+      Systems and Architectures (<b>VISA</b>), New Delhi, India, September
+      2010.<br>
+      Documents: paper&nbsp;<a href="visa10.pdf">pdf</a>,
+      slides&nbsp;<a href="visa10slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="wras10.pdf">Invited Paper: Robust Architectures
+      for Open Distributed Systems and Topological
+      Self-Stabilization</a> (Invited Paper)<br>
+      Stefan Schmid.<br>
+      3rd ACM SIGOPS/SIGACT Workshop on Reliability, Availability,
+      and Security (<b>WRAS</b>), Zurich, Switzerland, July 2010.<br>
+      Documents: paper&nbsp;<a href="wras10.pdf">pdf</a>,
+      slides&nbsp;<a href="wras10slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="swat10.pdf">Online Function Tracking with
+      Generalized Penalties</a><br>
+      Marcin Bienkowski and Stefan Schmid.<br>
+      12th Scandinavian Symposium and Workshops on Algorithm Theory
+      (<b>SWAT</b>), Bergen, Norway, Springer LNCS 6139, June 2010.<br>
+      Documents: paper&nbsp;<a href="swat10.pdf">pdf</a>,
+      slides&nbsp;<a href="bienkowski-swat10.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="dynas09.pdf">A Peer Activity Study in eDonkey
+      &amp; Kad</a> (Invited Paper)<br>
+      Thomas Locher, David Mysicka,&nbsp;Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      International Workshop on Dynamic Networks: Algorithms and
+      Security (<b>DYNAS</b>), Wroclaw, Poland, September 2009.<br>
+      Documents: paper&nbsp;<a href="dynas09.pdf">pdf</a>,
+      slides&nbsp;<a href="dynas09slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="nossdav09.pdf">Robust Live Media Streaming in
+      Swarms</a><br>
+      Thomas Locher, Remo Meier, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      19th International Workshop on Network and Operating Systems
+      Support for Digital Audio and Video (<b>NOSSDAV</b>), Williamsburg,
+      Virginia, USA, June 2009.<br>
+      Documents: paper&nbsp;<a href="nossdav09.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="swat08cam.pdf">Distributed Disaster
+      Disclosure</a><br>
+      Bernard Mans, Stefan Schmid, and Roger Wattenhofer.<br>
+      11th Scandinavian Workshop on Algorithm Theory (<b>SWAT</b>),
+      Gothenburg, Sweden, Springer LNCS 5124, July 2008.<br>
+      Documents: paper&nbsp;<a href="swat08cam.pdf">pdf</a>,
+      slides&nbsp;<a href="swat08slides.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="hotnets06.pdf">Free Riding in BitTorrent is
+      Cheap</a><br>
+      Thomas Locher, Patrick Moor, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      5th Workshop on Hot Topics in Networks (<b>HotNets</b>), Irvine,
+      California, USA, November 2006.<br>
+      Documents: paper&nbsp;<a href=
+      "hotnets06.pdf">pdf</a>&nbsp;<a href="hotnets06.ps">ps</a>,
+      slides&nbsp;<a href="hotnets06_slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="iwqos06cam.pdf">A Blueprint for Constructing
+      Peer-to-Peer Systems Robust to Dynamic Worst-Case Joins and
+      Leaves</a><br>
+      Fabian Kuhn, Stefan Schmid, Joest Smit, and Roger
+      Wattenhofer.<br>
+      14th IEEE International Workshop on Quality of Service
+      (<b>IWQoS</b>), Yale University, New Haven, Connectitut, USA, June
+      2006.<br>
+      Documents: paper&nbsp;<a href="iwqos06cam.pdf">pdf</a>,
+      slides&nbsp;<a href="iwqos06slides.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="netecon06.pdf">Havelaar: A Robust and Efficient
+      Reputation System for Active Peer-to-Peer Systems</a><br>
+      Dominik Grolimund, Luzius Meisser, Stefan Schmid, and Roger
+      Wattenhofer.<br>
+      1st Workshop on the Economics of Networked Systems (<b>NetEcon</b>),
+      University of Michigan, Ann Arbor, Michigan, USA, June
+      2006.<br>
+      Documents: paper&nbsp;<a href="netecon06.pdf">pdf</a>,
+      slides&nbsp;<a href="netecon06.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="wpdrts06cam.pdf">Algorithmic Models for Sensor
+      Networks</a> (Invited Paper)<br>
+      Stefan Schmid and Roger Wattenhofer.<br>
+      14th International Workshop on Parallel and Distributed
+      Real-Time Systems (<b>WPDRTS</b>), Island of Rhodes, Greece, April
+      2006.<br>
+      Documents: paper&nbsp;<a href=
+      "wpdrts06cam.pdf">pdf</a>&nbsp;<a href=
+      "wpdrts06cam.ps">ps</a>, slides&nbsp;<a href=
+      "wpdrts06.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="iptps06cam.pdf">On the Topologies Formed by
+      Selfish Peers</a><br>
+      Thomas Moscibroda, Stefan Schmid, and Roger Wattenhofer.<br>
+      5th International Workshop on Peer-to-Peer Systems (<b>IPTPS</b>),
+      Santa Barbara, California, USA, February 2006.<br>
+      Documents: paper&nbsp;<a href=
+      "iptps06cam.pdf">pdf</a>&nbsp;<a href="iptps06cam.ps">ps</a>,
+      slides&nbsp;<a href="iptps06.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="wman05a.pdf">A Robust Interference Model for
+      Wireless Ad-Hoc Networks</a><br>
+      Pascal von Rickenbach, Stefan Schmid, Roger Wattenhofer, and
+      Aaron Zollinger.<br>
+      5th International Workshop on Algorithms for Wireless,
+      Mobile, Ad Hoc and Sensor Networks (<b>WMAN</b>), Denver, Colorado,
+      USA, April 2005.<br>
+      Documents: paper&nbsp;<a href=
+      "wman05a.pdf">pdf</a>&nbsp;<a href="wman05a.ps">ps</a>,
+      slides&nbsp;<a href="wman05a_slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="iptps05.pdf">A Self-Repairing Peer-to-Peer System
+      Resilient to Dynamic Adversarial Churn</a><br>
+      Fabian Kuhn, Stefan Schmid, and Roger Wattenhofer.<br>
+      4th International Workshop on Peer-To-Peer Systems (<b>IPTPS</b>),
+      Cornell University, Ithaca, New York, USA, Springer LNCS
+      3640, February 2005.<br>
+      Documents: paper&nbsp;<a href="iptps05.pdf">pdf</a>,
+      slides&nbsp;<a href="iptps05.ppt">ppt</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+  </ul>
+
+  <h2>Book Chapters</h2>
+
+
+  <ul>
+    <li>
+      <p>Das Internet von Heute und Morgen<br>
+      Anja Feldmann, Ariane Gintzel, Philipp Schmidt, Dan Levin, Stefan Schmid, Nadi Sarrar, and Rainer May.<br>
+      NMI Future Internet, July 2012.<br></p>
+    </li>
+
+      <li> <p>Encyclopedia of Parallel Computing (Ed.: David Padua)<br>
+      Chapter &quot;<a href="P2P-Encyclopedia-Springer.pdf">Peer-to-Peer</a>&quot; (Stefan Schmid and Roger
+      Wattenhofer)&nbsp;<br>
+      ISBN: 978-0-387-09765-7&nbsp;<br>
+      (c) Springer, 2011</p>
+    </li>
+
+    <li>
+      <p>Algorithms and Protocols for Wireless Sensor Networks
+      (Ed.: Azzedine Boukerche)<br>
+      Chapter 4: &quot;<a href="wiley08.pdf">Modeling Sensor
+      Networks</a>&quot; (Stefan Schmid and Roger Wattenhofer)&nbsp;<br>
+      ISBN-10: 0471798134&nbsp;<br>
+      (c) John Wiley &amp; Sons, 2008</p>
+    </li>
+  </ul>
+
+
+  <h2>Others</h2>
+
+
+  <ul>   
+                                      <li>
+      <p><a href="sigcomm18policy-injection.pdf">Policy Injection: A Cloud Dataplane DoS Attack</a><br>
+              Levente Csikor, Christian Rothenberg, Dimitrios P. Pezaros, Stefan Schmid, Laszlo Toka, and Gabor Retvari.<br>
+       ACM SIGCOMM 2018 Demo Paper, Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="sigcomm18policy-injection.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+                                      <li>
+      <p><a href="sigcomm18perfbench.pdf">Perfbench: A Tool for Predictability Analysis in
+Multi-Tenant Software-Defined Networks</a><br>
+              Andreas Blenk, Arsany Basta, Laurenz Henkel, Johannes Zerwas,
+Wolfgang Kellerer, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Poster Paper, Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="sigcomm18perfbench.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                                      <li>
+      <p><a href="sigcomm18wsbm.pdf">Modeling IP-to-IP Communication using the Weighted Stochastic Block Model</a><br>
+            Patrick Kalmbach, Lion Gleiter, Johannes Zerwas, Andreas Blenk, Wolfgang Kellerer, and Stefan Schmid.<br>
+       ACM SIGCOMM 2018 Poster Paper, Budapest, Hungary, August 2018.<br>
+              Documents: paper&nbsp;<a href="sigcomm18wsbm.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                                      <li>
+      <p><a href="neat18.pdf">Fast Reroute in P4: Keep Calm and Enjoy Programmability</a><br>
+              Roshan Sedar, Michael Borokhovich, Marco Chiesa, 
+              Gianni Antichi, and Stefan Schmid.<br>
+       P4 Workshop, 
+        Stanford University, June 2018.<br>
+              Documents: paper&nbsp;<a href="neat18.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+                                        <li>
+      <p><a href="halg18.pdf">Approximate Graph Embeddings in the Cloud</a><br>
+     Matthias Rost and Stefan Schmid.<br>
+       Highlights of Algorithms (<b>HALG</b>), Vrije Universiteit Amsterdam, Netherlands, June 2018.<br>
+      Documents: poster&nbsp;<a href="halg18.pdf">pdf</a></p>
+    </li>
+
+                          <li>
+      <p><a href="infocom18ba.pdf">Themis: A Data-Driven Approach to Bot Detection</a> (Short Abstract)<br>
+    Patrick Kalmbach, Andreas Blenk, Wolfgang Kellerer, and Stefan Schmid.<br>
+      37th IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
+      Honolulu, Hawaii, USA, April 2018.<br>
+      Documents: paper&nbsp;<a href="infocom18ba">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+   
+   
+                             <li>
+      <p><a href="icdcn18.pdf">Evacuating Two Robots from Two Unknown Exits on the Perimeter of a Disk</a><br>
+     Debasish Pattanayak, H. Ramesh, Partha Sarathi Mandal, and Stefan Schmid.<br>
+      19th International Conference on Distributed Computing and Networking (<b>ICDCN</b>), 
+      Varanasi, India, January 2018.<br>
+      Documents: paper&nbsp;<a href="icdcn18.pdf">pdf</a>
+    </li>
+
+                                <li>
+      <p><a href="disc17ba.pdf">Brief Announcement: Distributed SplayNets</a><br>
+     Bruna Peres, Olga Goussevskaia, Stefan Schmid, and Chen Avin.<br>
+       31st International Symposium on Distributed Computing (<b>DISC</b>), Vienna, Austria, October 2017.<br>
+      Documents: paper&nbsp;<a href="disc17ba.pdf">pdf</a>, 
+      slides&nbsp;<a href="disc17ba-slides.pdf">pdf</a></p>
+    </li>
+
+                                            <li>
+      <p><a href="icdcs17poster.pdf">A Self-Organizing Distributed and
+In-Band SDN Control Plane</a> (Poster Paper)<br>
+     Marco Canini, Iosif Salem, Liron Schiff, Elad M. Schiller, and Stefan Schmid.<br>
+       37th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), Atlanta, Georgia, USA, June 2017.<br>
+      Documents: paper&nbsp;<a href="icdcs17poster.pdf">pdf</a></p>
+    </li>
+
+                                        <li>
+      <p><a href="halg17.pdf">Algorithms for Consistent Flow Rerouting</a> (Poster)<br>
+     Stefan Schmid.<br>
+       Highlights of Algorithms (<b>HALG</b>), Berlin, Germany, June 2017.<br>
+      Documents: poster&nbsp;<a href="halg17.pdf">pdf</a></p>
+    </li>
+    
+                                        <li>
+      <p><a href="EurosysPosterPaper.pdf">Towards Meticulous Data Plane Monitoring</a> (Poster Paper)<br>
+     Apoorv Shukla, Said Jawad Saidi, Stefan Schmid, Marco Canini, and Anja Feldmann.<br>
+       <b>EuroSys</b> PhD Forum, Belgrade, Serbia, April 2017.<br>
+      Documents: poster&nbsp;<a href="EurosysPoster.pdf">pdf</a></p>
+    </li>
+
+                                            <li>
+      <p><a href="sosr17poster.pdf">Software-Defined Adversarial Trajectory Sampling</a> (Poster)<br>
+     Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.<br>
+       <b>ACM SOSR</b>, Santa Clara, California, USA, April 2017.<br>
+      Documents: poster&nbsp;<a href="sosr17poster.pdf">pdf</a></p>
+    </li>
+
+        <li>
+        <p><a href="sigcomm16.pdf">Towards Transiently Secure Updates in
+Asynchronous SDNs</a><br>
+        Apoorv Shukla, Andr&eacute; Sch&uuml;tze, Arne Ludwig, Szymon Dudycz, Stefan Schmid, and Anja Feldmann.<br>
+      <b>ACM SIGCOMM</b> Demo, Florian&oacute;polis, Brazil,
+       August 2016. (Also presented at ETSI Workshop: From Research To Standardization, Sophia Antipolis, Paris, May 2016.)<br>
+      Documents: paper&nbsp;<a href="sigcomm16.pdf">pdf</a>, code&nbsp;<a href="https://bitbucket.org/Apoorv1986/transiently_secure_code">link</a> (travel grant Apoorv)</p>
+    </li>
+
+ <li>  <p><a href="disc16ds.pdf">Brief Announcement: A Log&starf;-Time Local MDS Approximation Scheme
+for Bounded Genus Graphs</a><br>
+     Saeed Akhoondian Amiri and Stefan Schmid.<br>
+       30th International Symposium on Distributed Computing (<b>DISC</b>), Paris, France, September 2016.<br>
+      Documents: paper&nbsp;<a href="disc16ds.pdf">pdf</a>,  slides&nbsp;<a href="disc16ds-slides.pdf">pdf</a>, bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+          <li>
+      <p><a href="local-maxcut.pdf">Large Cuts With Local Algorithms on Triangle-free Graphs</a> (Poster)<br>
+     Juho Hirvonen, Joel Rybicki, Stefan Schmid, and Jukka Suomela.<br>
+        29th International Symposium on Distributed Computing (<b>DISC</b>), Tokyo, Japan, October 2015.<br>
+              Documents: paper&nbsp;<a href="local-maxcut.pdf">pdf</a></p>
+    </li>
+
+<li>
+        <p><a href="sigcomm15.pdf">Programming the Home and Enterprise WiFi with OpenSDWN</a><br>
+        Julius Schulz-Zander, Carlos Mayer, Bogdan Ciobotaru, Stefan Schmid, Anja Feldmann, and Roberto Riggio.<br>
+      <b>ACM SIGCOMM</b> Demo, London, UK,
+       August 2015.<br>
+      Documents: paper&nbsp;<a href="sigcomm15.pdf">pdf</a>, poster&nbsp;<a href="sigcomm15poster.pdf">pdf</a></p>
+    </li>
+
+              <li>
+      <p><a href="sosr15medieval.pdf">Medieval: Towards A Self-Stabilizing, Plug &amp; Play, In-Band SDN Control Network</a> (Poster Paper)<br>
+      Liron Schiff, Stefan Schmid, and Marco Canini.<br>
+            ACM Sigcomm Symposium on SDN Research (<b>SOSR</b>), Santa Clara, California, USA,
+       June 2015.<br>
+      Documents: paper&nbsp;<a href="sosr15medieval.pdf">pdf</a>, poster&nbsp;<a href="medieval-poster.pdf">pdf</a></p>
+    </li>
+
+             <li>
+      <p><a href="sigmetrics15kraken.pdf">Kraken: Towards Elastic Performance Guarantees in Multi-tenant Data Centers</a> (Poster Paper)<br>
+       Carlo Fuerst, Stefan Schmid, Lalith Suresh, and Paolo Costa.<br>
+       ACM <b>SIGMETRICS</b>, Portland, Oregon, USA, June 2015.<br>
+      Documents: paper&nbsp;<a href="sigmetrics15kraken.pdf">pdf</a>, poster&nbsp;<a href="kraken-poster.pdf">pdf</a></p>
+    </li>
+
+                  <li>
+      <p><a href="sigmetrics15cxp.pdf">Investigating the Potential of the Inter-IXP Multigraph for
+the Provisioning of Guaranteed End-to-End Services</a> (Poster Paper)<br>
+      Vasileios Kotronis, Rowan Kl&ouml;ti, Matthias Rost, Panagiotis Georgopoulos, Bernhard Ager, Stefan Schmid, and Xenofontas Dimitropoulos.<br>
+       ACM <b>SIGMETRICS</b>, Portland, Oregon, USA, June 2015.<br>
+      Documents: paper&nbsp;<a href="sigmetrics15cxp.pdf">pdf</a></p>
+    </li>
+
+            <li>
+      <p><a href="hotsdn14aero.pdf">Toward a Scalable and Near-Sighted Control Plane Architecture for WiFi SDNs</a> (Poster)<br>
+       Julius Schulz-Zander, Nadi Sarrar, and Stefan Schmid.<br>
+       ACM SIGCOMM Workshop on Hot Topics in Software Defined Networking (<b>HotSDN</b>), Chicago, Illinois, USA, August 2014.<br>
+      Documents: paper&nbsp;<a href="hotsdn14aero.pdf">pdf</a></p>
+    </li>
+
+         <li>
+      <p><a href="ons14ccc.pdf">STN: A Robust and Distributed SDN Control Plane</a> (Poster)<br>
+      Marco Canini, Daniele De Cicco, Petr Kuznetsov, Dan Levin, Stefan Schmid, and Stefano Vissicchio.<br>
+  Open Networking Summit (<b>ONS</b>), Conference Research Track, Santa Clara, California, USA, March 2014.<br>
+      Documents: paper&nbsp;<a href="ons14ccc.pdf">pdf</a>, poster&nbsp;<a href="ons-stn-poster.pdf">pdf</a></p>
+    </li>
+
+        <li>
+      <p><a href="ucc13.pdf">Strategies for Traffic-Aware VM Migration</a> (Poster Paper)<br>
+      Chen Avin, Omer Dunay, and Stefan Schmid.<br>
+       6th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Dresden, Germany, December 2013.<br>
+      Documents: paper&nbsp;<a href="ucc13.pdf">pdf</a>, poster&nbsp;<a href="poster_UCC13.pdf">pdf</a></p>
+    </li>
+
+         <li>
+      <p><a href="disc13cpc.pdf">Brief Announcement: Towards Distributed and Reliable
+Software Defined Networking</a><br>
+      Marco Canini, Petr Kuznetsov, Dan Levin, and Stefan Schmid.<br>
+       27th International Symposium on Distributed Computing (<b>DISC</b>), Jerusalem, Israel, October 2013.<br>
+      Documents: paper&nbsp;<a href="disc13cpc.pdf">pdf</a>,
+      slides&nbsp;<a href="disc13sdn-slides.pdf">pdf</a></p>
+    </li>
+
+             <li>
+      <p><a href="disc13fib.pdf">Brief Announcement: Dynamic Forwarding Table Aggregation without Update Churn: The Case of Dependent Prefixes</a><br>
+     Marcin Bienkowski, Nadi Sarrar, Stefan Schmid, and Steve Uhlig.<br>
+       27th International Symposium on Distributed Computing (<b>DISC</b>), Jerusalem, Israel, October 2013.<br>
+      Documents: paper&nbsp;<a href="disc13fib.pdf">pdf</a>,
+      slides&nbsp;<a href="disc13fib-slides.pdf">pdf</a></p>
+    </li>
+
+                <li>
+      <p><a href="p2p13.pdf">OBST: A Self-Adjusting Peer-to-Peer Overlay Based on Multiple BSTs</a> (Short Paper)<br>
+      Chen Avin, Michael Borokhovich, and Stefan Schmid.<br>
+       13th  IEEE International Conference on Peer-to-Peer Computing (<b>P2P</b>), Trento, Italy, September 2013.<br>
+      Documents: paper&nbsp;<a href="p2p13.pdf">pdf</a>,
+      slides&nbsp;<a href="p2p13slides.pdf">pdf</a></p>
+    </li>
+
+        <li>
+      <p><a href="ons13.pdf">Incremental SDN Deployment in Enterprise Networks</a><br>
+      Dan Levin, Marco Canini, Stefan Schmid, and Anja Feldmann.<br>
+       Open Networking Summit (<b>ONS Demo</b>), Santa Clara, California, USA, April 2013.<br>
+       <em>Other demos, e.g.:</em><br>
+      1. <b>SIGCOMM Demo</b> (Dan wins the ACM SIGCOMM'13 Student Research Competition), Hong Kong, 2013.<br>
+   ACM SIGCOMM Computer Communication Review (CCR), 43/4, 2013 [<a href="ons13.pdf">pdf</a>]</p>
+          </li>
+
+          <li>
+<p><a href="infocom13demo.pdf">Move-with-the-Sun or Move-with-the-Moon? Wide-Area CloudNet Migrations Under Latency and Resource Constraints</a><br>
+      Johannes Grassler, Stefan Schmid, and Anja Feldmann.<br>
+      Demo at 32nd IEEE Conference on Computer Communications (<b>INFOCOM Demo</b>), Turin, Italy, April 2013.<br>
+      Documents: paper&nbsp;<a href="infocom13demo.pdf">pdf</a>,
+      poster&nbsp;<a href="info13poster.pdf">pdf</a>
+        </li>
+
+
+      <li>
+      <p><a href="itheft13.pdf">A Federated CloudNet Architecture: The PIP and the VNP Role</a> (Invited Paper)<br>
+      Johannes Grassler, Gregor Schaffrath, and Stefan Schmid.<br>
+       Information Technology (<b>IT</b>), Special Issue &quot;Internet Challenges&quot;, Issue 4, Oldenbourg Verlag, 2013.<br>
+      Documents: paper&nbsp;<a href="itheft13.pdf">pdf</a>, link&nbsp;<a href="http://it-information-technology.de">publisher</a>, slides&nbsp;<a href="jgr-vino.pdf">pdf</a></p>
+    </li>
+
+       <li>
+      <p><a href="cloudnet12.pdf">On the Benefit of Collocation
+in Virtual Network Embeddings</a> (Short Paper)<br>
+      Carlo Fuerst, Stefan Schmid, and Anja Feldmann.<br>
+      1st IEEE International Conference on Cloud Networking
+  (<b>CLOUDNET</b>), Paris, France, November 2012.<br>
+   Documents: paper&nbsp;<a href="cloudnet12.pdf">pdf</a>,
+      poster&nbsp;<a href="cloudnet12poster.pdf">pdf</a></p>
+    </li>
+
+       <li>
+      <p><a href="ucc12pos.pdf">The Price of Specificity in the Age of Network Virtualization </a> (Short Paper)<br>
+      Arne Ludwig, Stefan Schmid, and Anja Feldmann.<br>
+     5th IEEE/ACM International Conference on Utility and Cloud Computing (<b>UCC</b>), Chicago, Illinois, USA, November 2012.<br>
+     Documents: paper&nbsp;<a href="ucc12pos.pdf">pdf</a>,
+      slides&nbsp;<a href="ucc12slides2.pdf">pdf</a></p>
+    </li>
+
+     <li>
+      <p><a href="disc12adjBA.pdf">Brief Announcement: SplayNets (Towards Self-Adjusting Distributed Data Structures)</a><br>
+      Stefan Schmid, Chen Avin, Christian Scheideler, Bernhard Haeupler, and Zvi Lotker.<br>
+      26th International Symposium on Distributed Computing (<b>DISC</b>), Salvador, Brazil, Springer LNCS 7611, October 2012.<br>
+      Documents: paper&nbsp;<a href="disc12adjBA.pdf">pdf</a>,
+      slides&nbsp;<a href="disc12slidesselfopt.pdf">pdf</a></p>
+    </li>
+
+   <li>
+      <p><a href="disc12vnetBA.pdf">Brief Announcement: Do VNet Embeddings Reveal ISP Topology?</a><br>
+      Yvonne Anne Pignolet, Stefan Schmid, and Gilles Tredan.<br>
+      26th International Symposium on Distributed Computing (<b>DISC</b>), Salvador, Brazil, Springer LNCS 7611, October 2012.<br>
+      Documents: paper&nbsp;<a href="disc12vnetBA.pdf">pdf</a>,
+      slides&nbsp;<a href="disc12slides.pdf">pdf</a></p>
+    </li>
+
+      <li>
+      <p><a href="nsdi12.pdf">Poster: Impact of FIB Aggregation on Traffic Offloading</a> <br>
+       Nadi Sarrar, Stefan Schmid, Steve Uhlig, and Anja Feldmann.<br>
+     9th USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), San Jose, California, April 2012.<br>
+      Documents: poster abstract&nbsp;<a href="nsdi12.pdf">pdf</a>
+      </p>
+    </li>
+
+      <li>
+      <p><a href="ercim12.pdf">CloudNets: Combining
+Clouds with Networking</a><br>
+      Anja Feldmann, Gregor Schaffrath, and Stefan Schmid.<br>
+      <b>ERCIM News</b>, (88):56&ndash;57, January 2012.<br>
+        Documents: article&nbsp;<a href="ercim12.pdf">pdf</a>,
+      pitch&nbsp;<a href="cloudnets-pitch.pdf">pdf</a>
+</p>
+    </li>
+
+    <li>
+      <p><a href="podc10ba.pdf">Brief Announcement: Towards Robust
+      Medium Access in Multi-Hop Networks</a><br>
+      Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+      Zhang.<br>
+      29th Annual ACM Symposium on Principles of Distributed
+      Computing (<b>PODC</b>), Zurich, Switzerland, July 2010.<br>
+      Documents: paper&nbsp;<a href="podc10ba.pdf">pdf</a></p>
+    </li>
+
+    <li>
+      <p><a href="sss09ba.pdf">Brief Announcement: On the Time
+      Complexity of Distributed Topological Self-Stabilization</a><br>
+      Dominik Gall, Riko Jacob, Andrea Richa, Christian Scheideler,
+      Stefan Schmid, and Hanjo T&auml;ubig.<br>
+      11th International Symposium on Stabilization, Safety, and
+      Security of Distributed Systems (<b>SSS</b>), Lyon, France, Springer
+      LNCS 5873, November 2009.<br>
+      Documents: paper&nbsp;<a href="sss09ba.pdf">pdf</a></p>
+    </li>
+  </ul>
+
+
+  <p style="text-align:right ; font-size:small">Last Change:
+  <!--#echo var="LAST_MODIFIED"--></p>
+
+</body>
+</html>

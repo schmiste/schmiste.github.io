@@ -1,0 +1,1088 @@
+\begin{thebibliography}{100}
+
+\bibitem{nfvsdn21}
+Marcelo Abranches, Oliver Michel, Eric Keller, and Stefan Schmid.
+\newblock Efficient network monitoring applications in the kernel with ebpf and
+  xdp.
+\newblock In {\em Proc. 7th IEEE Conference on Network Functions Virtualization
+  and Software-Defined Networking (NFV-SDN)}, 2021.
+
+\bibitem{tcc21}
+Bruna Peres, Otavio~Augusto de~Oliveira~Souza, Olga Goussevskaia, Chen Avin,
+  and Stefan Schmid.
+\newblock Distributed self-adjusting tree networks.
+\newblock In {\em IEEE Transactions on Cloud Computing (TCC)}, 2021.
+
+\bibitem{conext21te}
+Mahmoud Parham, Thomas Fenz, Nikolaus Suess, Klaus-Tycho Foerster, and Stefan
+  Schmid.
+\newblock Traffic engineering with joint link weight and segment optimization.
+\newblock In {\em Proc. 17th ACM International Conference on emerging
+  Networking EXperiments and Technologies (CoNEXT)}, 2021.
+
+\bibitem{cnsm21}
+Johannes Zerwas, Kaan Aykurt, Stefan Schmid, and Andreas Blenk.
+\newblock Network traffic characteristics of machine learning frameworks under
+  the microscope.
+\newblock In {\em 17th International Conference on Network and Service
+  Management (CNSM)}, 2021.
+
+\bibitem{tnsm21reconfig}
+Johannes Zerwas, Ingmar Poese, Stefan Schmid, and Andreas Blenk.
+\newblock On the benefits of joint optimization of reconfigurable cdn-isp
+  infrastructure.
+\newblock In {\em IEEE Transactions on Network and Service Management (TNSM)},
+  2021.
+
+\bibitem{perf21anf}
+Anya Chaturvedi, Chandra Chekuri, Andrea Richa, Matthias Rost, Stefan Schmid,
+  and Jamison Weber.
+\newblock Improved throughput for all-or-nothing multicommodity flows with
+  arbitrary demands.
+\newblock In {\em 39th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2021.
+
+\bibitem{perf21axiom}
+Simon Scherrer, Markus Legner, Adrian Perrig, and Stefan Schmid.
+\newblock An axiomatic perspective on the performance effects of end-host path
+  selection.
+\newblock In {\em 39th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2021.
+
+\bibitem{perf21dan}
+Maciej Pacut, Wenkai Dai, Alexandre Labbe, Klaus-Tycho Foerster, and Stefan
+  Schmid.
+\newblock Improved scalability of demand-aware datacenter topologies with
+  minimal route lengths and congestion.
+\newblock In {\em 39th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2021.
+
+\bibitem{disc21}
+Gregor Bankhamer, Robert Els&auml;sser, and Stefan Schmid.
+\newblock Randomized local fast rerouting for datacenter networks with almost
+  optimal congestion.
+\newblock In {\em International Symposium on Distributed Computing (DISC)},
+  2021.
+
+\bibitem{disc21ba}
+Janne~H. Korhonen, Ami Paz, Joel Rybicki, Stefan Schmid, and Jukka Suomela.
+\newblock Brief announcement: Sinkless orientation is hard also in the
+  supported local model<.
+\newblock In {\em International Symposium on Distributed Computing (DISC)},
+  2021.
+
+\bibitem{atva21}
+Peter~Gjol Jensen, Stefan Schmid, Morten~Konggaard Schou, Jirí Srba, Juan
+  Vanerio, and Ingo van Duijn.
+\newblock Faster pushdown reachability analysis with applications in network
+  verification.
+\newblock In {\em 19th International Symposium on Automated Technology for
+  Verification and Analysis (ATVA)}, 2021.
+
+\bibitem{tnsm21routing}
+Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock On the implications of routing models on network optimization.
+\newblock In {\em IEEE Transactions on Network and Service Management (TNSM)},
+  2021.
+
+\bibitem{ton21preacher}
+Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.
+\newblock Preacher: Network policy checker for adversarial environments.
+\newblock In {\em IEEE/ACM Transactions on Networking}, 2021.
+
+\bibitem{spaa21rdcn}
+Janardhan Kulkarni, Stefan Schmid, and Pawel Schmidt.
+\newblock Scheduling opportunistic links in two-tiered reconfigurable
+  datacenters.
+\newblock In {\em 33rd ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2021.
+
+\bibitem{spaa21vnep}
+Aleksander Figiel, Leon Kellerhals, Rolf Niedermeier, Matthias Rost, Stefan
+  Schmid, and Philipp Zschoche.
+\newblock Optimal virtual network embeddings for tree topologies.
+\newblock In {\em 33rd ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2021.
+
+\bibitem{spaa21lazy}
+Evgeniy Feder, Ichha Rathod, Punit Shyamsukha, Robert Sama, Vitaly Aksenov,
+  Iosif Salem, and Stefan Schmid.
+\newblock Brief announcement: Toward self-adjusting networks for the matching
+  model.
+\newblock In {\em 33rd ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2021.
+
+\bibitem{osn21}
+Matthew~Nance Hall, Klaus-Tycho Foerster, Stefan Schmid, and Ramakrishnan
+  Durairajan.
+\newblock A survey of reconfigurable optical networks.
+\newblock In {\em Optical Switching and Networking (OSN), Elsevier}, 2021.
+
+\bibitem{dsn21}
+Simon Scherrer, Markus Legner, Adrian Perrig, and Stefan Schmid.
+\newblock Enabling novel interconnection agreements with path-aware network
+  architectures.
+\newblock In {\em Proc. 51st IEEE/IFIP International Conference on Dependable
+  Systems and Networks (DSN)}, 2021.
+
+\bibitem{ifip21pir}
+Krzysztof Pietrzak, Iosif Salem, Stefan Schmid, and Michelle Yeo.
+\newblock Lightpir: Privacy-preserving route discovery for payment channel
+  networks.
+\newblock In {\em Proc. IFIP Networking}, 2021.
+
+\bibitem{ifip21dynalgo}
+Monika Henzinger, Ami Paz, and Stefan Schmid.
+\newblock On the complexity of weight-dynamic network algorithms.
+\newblock In {\em Proc. IFIP Networking}, 2021.
+
+\bibitem{ifip21dan}
+Esra Ceylan, Klaus-Tycho Foerster, Stefan Schmid, and Katsiaryna Zaitsava.
+\newblock Demand-aware plane spanners of bounded degree.
+\newblock In {\em Proc. IFIP Networking}, 2021.
+
+\bibitem{ifip21vnep}
+Robin Muenk, Matthias Rost, Harald Raecke, and Stefan Schmid.
+\newblock It's good to relax: Fast profit approximation for virtual networks
+  with latency constraints.
+\newblock In {\em Proc. IFIP Networking}, 2021.
+
+\bibitem{csur21}
+Oliver Michel, Roberto Bifulco, Gabor Retvari, and Stefan Schmid.
+\newblock The programmable data plane: Abstractions, architectures, algorithms,
+  and applications.
+\newblock In {\em Proc. ACM Computing Surveys (CSUR)}, 2021.
+
+\bibitem{tacas21}
+Stefan Schmid, Nicolas Schnepf, and Jiri Srba.
+\newblock Resilient capacity-aware routing.
+\newblock In {\em Proc. 27th International Conference on Tools and Algorithms
+  for the Construction and Analysis of Systems (TACAS)}, 2021.
+
+\bibitem{sigmetrics21dynlocal}
+Klaus-Tycho Foerster, Janne Korhonen, Ami Paz, Joel Rybicki, and Stefan Schmid.
+\newblock Input-dynamic distributed algorithms for communication networks.
+\newblock In {\em Proc. ACM SIGMETRICS}, 2021.
+
+\bibitem{ipdps21}
+Otavio~Augusto de~Oliveira~Souza, Olga Goussevskaia, and Stefan Schmid.
+\newblock Cbnet: Minimizing adjustments in concurrent demand-aware tree
+  networks.
+\newblock In {\em Proc. 35th IEEE International Parallel and Distributed
+  Processing Symposium (IPDPS)}, 2021.
+
+\bibitem{icbc21}
+Otavio~Augusto de~Oliveira~Souza, Olga Goussevskaia, and Stefan Schmid.
+\newblock Demand matrix optimization for offchain payments in blockchain.
+\newblock In {\em Proc. IEEE International Conference on Blockchain and
+  Cryptocurrency (ICBC)}, 2021.
+
+\bibitem{ton21purr}
+Marco Chiesa, Roshan Sedar, Gianni Antichi, Michael Borokhovich, Andrzej
+  Kamisinski, Georgios Nikolaidis, and Stefan Schmid.
+\newblock Fast reroute on programmable switches.
+\newblock In {\em IEEE/ACM Transactions on Networking (TON)}, 2021.
+
+\bibitem{csur21crypto}
+Maya Dotan, Yvonne-Anne Pignolet, Stefan Schmid, Saar Tochner, and Aviv Zohar.
+\newblock Survey on blockchain networking: Context, state-of-the-art,
+  challenges.
+\newblock In {\em Proc. ACM Computing Surveys (CSUR)}, 2021.
+
+\bibitem{infocom21repartitioning}
+Maciej Pacut, Mahmoud Parham, and Stefan Schmid.
+\newblock Optimal online balanced graph partitioning.
+\newblock In {\em Proc. IEEE INFOCOM}, 2021.
+
+\bibitem{infocom21p6}
+Apoorv Shukla, Kevin Hudemann, Zsolt Vagi, Lily Huegerich, Georgios
+  Smaragdakis, Artur Hecker, Stefan Schmid, and Anja Feldmann.
+\newblock Fix with p6: Verifying programmable switches at runtime.
+\newblock In {\em Proc. IEEE INFOCOM}, 2021.
+
+\bibitem{infocom21arbo}
+Klaus-Tycho Foerster, Andrzej Kamisinski, Yvonne-Anne Pignolet, Stefan Schmid,
+  and Gilles Tredan.
+\newblock Grafting arborescences for extra resilience of fast rerouting
+  schemes.
+\newblock In {\em Proc. IEEE INFOCOM}, 2021.
+
+\bibitem{soda21}
+Monika Henzinger, Stefan Neumann, Harald Raecke, and Stefan Schmid.
+\newblock Tight bounds for online graph partitioning.
+\newblock In {\em Proc. ACM-SIAM Symposium on Discrete Algorithms (SODA)},
+  2021.
+
+\bibitem{apocs21renets}
+Chen Avin and Stefan Schmid.
+\newblock Renets: Statically-optimal demand-aware networks.
+\newblock In {\em Proc. SIAM Symposium on Algorithmic Principles of Computer
+  Systems (APOCS)}, 2021.
+
+\bibitem{apocs21resilience}
+Klaus-Tycho Foerster, Juho Hirvonen, Yvonne-Anne Pignolet, Stefan Schmid, and
+  Gilles Tredan.
+\newblock On the feasibility of perfect resilience with local fast failover.
+\newblock In {\em Proc. SIAM Symposium on Algorithmic Principles of Computer
+  Systems (APOCS)}, 2021.
+
+\bibitem{apocs21repartition}
+Tobias Forner, Harald Raecke, and Stefan Schmid.
+\newblock Online balanced repartitioning of dynamic communication patterns in
+  polynomial time.
+\newblock In {\em Proc. SIAM Symposium on Algorithmic Principles of Computer
+  Systems (APOCS)}, 2021.
+
+\bibitem{frr-survey}
+Marco Chiesa, Andrzej Kamisinski, Jacek Rak, Gabor Retvari, and Stefan Schmid.
+\newblock A survey of fast-recovery mechanisms in packet-switched networks.
+\newblock {\em IEEE Communications Surveys and Tutorials (COMST)}, 2021.
+
+\bibitem{icdcn21p4}
+Andrei~Alexandru Agape, Madalin~Claudiu Danceanu, Rene~Rydhof Hansen, and
+  Stefan Schmid.
+\newblock P4fuzz: Compiler fuzzer for dependable programmable dataplanes.
+\newblock In {\em Proc. 22nd International Conference on Distributed Computing
+  and Networking (ICDCN)}, 2021.
+
+\bibitem{icdcn21ln}
+Philipp Zabka, Klaus-Tycho Foerster, Stefan Schmid, and Christian Decker.
+\newblock Node classification and geographical analysis of the lightning
+  cryptocurrency network.
+\newblock In {\em Proc. 22nd International Conference on Distributed Computing
+  and Networking (ICDCN)}, 2021.
+
+\bibitem{opodis20}
+Mahmoud Parham, Klaus-Tycho Foerster, Petar Kosic, and Stefan Schmid.
+\newblock Maximally resilient replacement paths for a family of product graphs.
+\newblock In {\em Proc. OPODIS}, 2020.
+
+\bibitem{peva20}
+Simon Scherrer, Markus Legner, Adrian Perrig, and Stefan Schmid.
+\newblock Incentivizing stable path selection in future internet architectures.
+\newblock In {\em Performance Evaluation (PEVA), Elsevier}, 2020.
+
+\bibitem{tvt20}
+Elif Bozkaya, Klaus-Tycho Foerster, Stefan Schmid, and Berk Canberk.
+\newblock Airnet: Energy-aware deployment and scheduling of aerial networks.
+\newblock In {\em IEEE Transactions on Vehicular Technology (TVT)}, 2020.
+
+\bibitem{comcom20}
+Thomas Fenz, Klaus-Tycho Foerster, Stefan Schmid, and Anais Villedieu.
+\newblock Efficient non-segregated routing for reconfigurable demand-aware
+  networks.
+\newblock In {\em Journal Elsevier Computer Communications (COMCOM)}, 2020.
+
+\bibitem{conext20chameleon}
+Amaury~Van Bemten, Nemanja Deric, Amir Varasteh, Stefan Schmid, Carmen~Mas
+  Machuca, Andreas Blenk, and Wolfgang Kellerer.
+\newblock Chameleon: Predictable latency and high utilization with queue-aware
+  and adaptive source routing.
+\newblock In {\em Proc. 16th ACM International Conference on emerging
+  Networking EXperiments and Technologies (CoNEXT)}, 2020.
+
+\bibitem{conext20}
+Peter~Gjol Jensen, Morten Konggaard, Dan Kristiansen, Stefan Schmid,
+  Bernhard~Clemens Schrenk, and Jiri Srba.
+\newblock Aalwines: A fast and quantitative what-if analysis tool for mpls
+  networks.
+\newblock In {\em Proc. 16th ACM International Conference on emerging
+  Networking EXperiments and Technologies (CoNEXT)}, 2020.
+
+\bibitem{blockchain20}
+Saar Tochner and Stefan Schmid.
+\newblock On search friction of route discovery in offchain networks.
+\newblock In {\em Proc. IEEE International Conference on Blockchain
+  (Blockchain)}, 2020.
+
+\bibitem{algosensors20}
+Debasish Pattanayak, Klaus-Tycho Foerster, Partha~Sarathi Mandal, and Stefan
+  Schmid.
+\newblock Conic formation in presence of faulty robots.
+\newblock In {\em Proc. 16th International Symposium on Algorithms and
+  Experiments for Wireless Sensor Networks (ALGOSENSORS)}, 2020.
+
+\bibitem{tdsc20}
+Klaus-Tycho Foerster, Andrzej Kamisinski, Yvonne-Anne Pignolet, Stefan Schmid,
+  and Gilles Tredan.
+\newblock Improved fast rerouting using postprocessing.
+\newblock In {\em IEEE Transactions on Dependable and Secure Computing (TDSC)},
+  2020.
+
+\bibitem{aft20}
+Saar Tochner, Aviv Zohar, and Stefan Schmid.
+\newblock Route hijacking and dos in off-chain networks.
+\newblock In {\em Proc. ACM Conference on Advances in Financial Technologies
+  (AFT)}, 2020.
+
+\bibitem{disc20}
+Klaus-Tycho Foerster, Juho Hirvonen, Yvonne-Anne Pignolet, Stefan Schmid, and
+  Gilles Tredan.
+\newblock Brief announcement: What can(not) be perfectly rerouted locally.
+\newblock In {\em Proc. International Symposium on Distributed Computing
+  (DISC)}, 2020.
+
+\bibitem{perf20bmatch}
+Marcin Bienkowski, David Fuchssteiner, Jan Marcinkowski, and Stefan Schmid.
+\newblock Online dynamic b-matching with applications to reconfigurable
+  datacenter networks.
+\newblock In {\em Proc. 38th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2020.
+
+\bibitem{perf20latte}
+Mark Glavind, Niels Christensen, Jiri Srba, and Stefan Schmid.
+\newblock Latte: Improving the latency of transiently consistent network update
+  schedules.
+\newblock In {\em Proc. 38th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2020.
+
+\bibitem{perf20loaddan}
+Wenkai Dai, Klaus-Tycho Foerster, David Fuchssteiner, and Stefan Schmid.
+\newblock Load-optimization in reconfigurable networks: Algorithms and
+  complexity of flow routing.
+\newblock In {\em Proc. 38th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2020.
+
+\bibitem{perf20stablepath}
+Simon Scherrer, Markus Legner, Adrian Perrig, and Stefan Schmid.
+\newblock Incentivizing stable path selection in future internet architectures.
+\newblock In {\em Proc. 38th International Symposium on Computer Performance,
+  Modeling, Measurements and Evaluation (PERFORMANCE)}, 2020.
+
+\bibitem{podc20ba}
+Maciej Pacut, Mahmoud Parham, and Stefan Schmid.
+\newblock Brief announcement: Deterministic lower bound for dynamic balanced
+  graph partitioning.
+\newblock In {\em Proc. ACM Symposium on Principles of Distributed Computing
+  (PODC)}, 2020.
+
+\bibitem{compj20}
+Debasish Pattanayak, Kaushik Mondal, Partha~Sarathi Mandal, and Stefan Schmid.
+\newblock Area convergence of monoculus robots with additional capabilities.
+\newblock In {\em The Computer Journal (COMPJ)}, 2020.
+
+\bibitem{ares20}
+Maya Dotan, Yvonne-Anne Pignolet, Saar Tochner, Stefan Schmid, and Aviv Zohar.
+\newblock Cryptocurrency networking: Context, state-of-the-art, challenges.
+\newblock In {\em Proc. 15th International Conference on Availability,
+  Reliability and Security (ARES)}, 2020.
+
+\bibitem{dist20dan}
+Chen Avin, Kaushik Mondal, and Stefan Schmid.
+\newblock Demand-aware network designs of bounded degree.
+\newblock In {\em Distributed Computing (DIST)}, 2020.
+
+\bibitem{pomacs20complexity}
+Chen Avin, Manya Ghobadi, Chen Griner, and Stefan Schmid.
+\newblock On the complexity of traffic traces and implications.
+\newblock In {\em Proc. of the ACM on Measurement and Analysis of Computing
+  Systems (POMACS)}, 2020.
+
+\bibitem{ifip20vnep}
+Balazs Nemeth, Yvonne-Anne Pignolet, Matthias Rost, Stefan Schmid, and Balazs
+  Vass.
+\newblock Implications of routing coherence and consistency on network
+  optimization.
+\newblock In {\em Proc. IFIP Networking}, 2020.
+
+\bibitem{ifip20coherence}
+Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Implications of routing coherence and consistency on network
+  optimization.
+\newblock In {\em Proc. IFIP Networking}, 2020.
+
+\bibitem{netmag20}
+Long Luo, Hongfang Yu, Klaus-Tycho Foerster, Max Noormohammadpour, and Stefan
+  Schmid.
+\newblock Inter-datacenter bulk transfers: Trends and challenges.
+\newblock In {\em IEEE Network Magazine}, 2020.
+
+\bibitem{sirocco20}
+Simon Scherrer, Adrian Perrig, and Stefan Schmid.
+\newblock The value of information in selfish routing.
+\newblock In {\em Proc. 27th International Colloquium on Structural Information
+  and Communication Complexity (SIROCCO)}, 2020.
+
+\bibitem{pone20}
+Samvid Dharanikota, Michael~Toft Jensen, Sebastian~Rom Kristensen, Mathias~Sass
+  Michno, Yvonne-Anne Pignolet, Rene~Rydhof Hansen, and Stefan Schmid.
+\newblock Breeding unicorns: Developing trustworthy and scalable randomness
+  beacons.
+\newblock In {\em PLOS ONE}, 2020.
+
+\bibitem{algo20}
+Saeed~Akhoondian Amiri, Klaus-Tycho Foerster, and Stefan Schmid.
+\newblock Walking through waypoints.
+\newblock In {\em Algorithmica (ALGO)}, 2020.
+
+\bibitem{ton20hard}
+Matthias Rost and Stefan Schmid.
+\newblock On the hardness and inapproximability of virtual network embeddings.
+\newblock In {\em IEEE/ACM Transactions on Networking (TON)}, 2020.
+
+\bibitem{jsac20multicast}
+Long Luo, Klaus-Tycho Foerster, Stefan Schmid, and Hongfang Yu.
+\newblock Deadline-aware multicast transfers in software-defined optical
+  wide-area networks.
+\newblock In {\em IEEE Journal on Selected Areas in Communications (JSAC)},
+  2020.
+
+\bibitem{jsac20p4}
+Apoorv Shukla, Seifeddine Fathalli, Thomas Zinner, Artur Hecker, and Stefan
+  Schmid.
+\newblock P4consist: Towards consistent p4 sdns.
+\newblock In {\em IEEE Journal on Selected Areas in Communications (JSAC)},
+  2020.
+
+\bibitem{latin20}
+Chen Avin, Kaushik Mondal, and Stefan Schmid.
+\newblock Dynamically optimal self-adjusting single-source tree networks.
+\newblock In {\em Proc. Latin American Theoretical Informatics Symposium
+  (LATIN)}, 2020.
+
+\bibitem{csur20}
+Michael Feldmann, Christian Scheideler, and Stefan Schmid.
+\newblock Survey on algorithms for self-stabilizing overlay networks.
+\newblock In {\em ACM Computing Surveys (CSUR)}, 2020.
+
+\bibitem{sigmetrics20complexity}
+Chen Avin, Manya Ghobadi, Chen Griner, and Stefan Schmid.
+\newblock On the complexity of traffic traces and implications.
+\newblock In {\em Proc. ACM SIGMETRICS}, 2020.
+
+\bibitem{tnsm20fuzz}
+Apoorv Shukla, Said~Jawad Saidi, Stefan Schmid, Marco Canini, Thomas Zinner,
+  and Anja Feldmann.
+\newblock Towards consistent sdns: A case for network state fuzzing.
+\newblock In {\em IEEE Transactions on Network and Service Management (TNSM)},
+  2020.
+
+\bibitem{infocom20split}
+Long Luo, Klaus-Tycho Foerster, Stefan Schmid, and Hongfang Yu.
+\newblock Splitcast: Optimizing multicast flows in reconfigurable datacenter
+  networks.
+\newblock In {\em Proc. IEEE INFOCOM}, 2020.
+
+\bibitem{infocom20ws}
+Chen Avin, Iosif Salem, and Stefan Schmid.
+\newblock Working set theorems for routing in self-adjusting skip list
+  networks.
+\newblock In {\em Proc. IEEE INFOCOM}, 2020.
+
+\bibitem{icissp20}
+Stefan~Schmid Utz~Nisslmueller, Klaus-Tycho~Foerster and Christian Decker.
+\newblock Toward active and passive confidentiality attacks on cryptocurrency
+  off-chain networks.
+\newblock In {\em Proc. 6th International Conference on Information Systems
+  Security and Privacy (ICISSP)}, 2020.
+
+\bibitem{opodis19}
+Laura Schmid, Krishnendu Chatterjee, and Stefan Schmid.
+\newblock The evolutionary price of anarchy: Locally bounded agents in a
+  dynamic virus game.
+\newblock In {\em Proc. 22nd International Conference on Principles of
+  Distributed Systems (OPODIS)}, 2019.
+
+\bibitem{disc19ba}
+Chen Avin, Iosif Salem, and Stefan Schmid.
+\newblock Brief announcement: On self-adjusting skip list networks.
+\newblock In {\em Proc. 33rd International Symposium on Distributed Computing
+  (DISC)}, 2019.
+
+\bibitem{conext19tuple}
+Levente Csikor, Dinil~Mon Divakaran, Min~Suk Kang, Attila Korosi, Balazs
+  Sonkoly, David Haja, Dimitrios Pezaros, Stefan Schmid, and Gabor Retvari.
+\newblock Tuple space explosion: A denial-of-service attack against a software
+  packet classifier.
+\newblock In {\em Proc. ACM International Conference on emerging Networking
+  EXperiments and Technologies (CoNEXT)}, 2019.
+
+\bibitem{conext19failover}
+Marco Chiesa, Roshan Sedar, Gianni Antichi, Michael Borokhovich, Andrzej
+  Kamisinski, Georgios Nikolaidis, and Stefan Schmid.
+\newblock Purr: A primitive for reconfigurable fast reroute.
+\newblock In {\em Proc. ACM International Conference on emerging Networking
+  EXperiments and Technologies (CoNEXT)}, 2019.
+
+\bibitem{conext19loko}
+Amaury~Van Bemten, Nemanja Deric, Johannes Zerwas, Andreas Blenk, Stefan
+  Schmid, and Wolfgang Kellerer.
+\newblock Loko: Predictable latency in small networks.
+\newblock In {\em Proc. ACM International Conference on emerging Networking
+  EXperiments and Technologies (CoNEXT)}, 2019.
+
+\bibitem{pomacs19re}
+Monika Henzinger, Stefan Neumann, and Stefan Schmid.
+\newblock Efficient distributed workload (re-)embedding.
+\newblock In {\em Proc. of the ACM on Measurement and Analysis of Computing
+  Systems (POMACS), Vol. 3, No. 1, Article 13}, 2019.
+
+\bibitem{sss19}
+Chen Avin, Ingo van Duijn, and Stefan Schmid.
+\newblock Self-adjusting linear networks.
+\newblock In {\em Proc. 21st International Symposium on Stabilization, Safety,
+  and Security of Distributed Systems (SSS)}, 2019.
+
+\bibitem{ton19vnep}
+Matthias Rost and Stefan Schmid.
+\newblock Virtual network embedding approximations: Leveraging randomized
+  rounding.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2019.
+
+\bibitem{nca19nap}
+Or~Raz, Chen Avin, and Stefan Schmid.
+\newblock Nap: Network-aware data partitions for efficient distributed
+  processing.
+\newblock In {\em Proc. IEEE International Symposium on Network Computing and
+  Applications (NCA)}, 2019.
+
+\bibitem{nca19up}
+Klaus-Tycho Foerster and Stefan Schmid.
+\newblock Distributed consistent network updates in sdns: Local verification
+  for global guarantees.
+\newblock In {\em Proc. IEEE International Symposium on Network Computing and
+  Applications (NCA)}, 2019.
+
+\bibitem{ancs19}
+Amaury~Van Bemten, Nemanja Deric, Amir Varasteh, Andreas Blenk, Stefan Schmid,
+  and Wolfgang Kellerer.
+\newblock Empirical predictability study of sdn switches.
+\newblock In {\em Proc. ACM/IEEE Symposium on Architectures for Networking and
+  Communications Systems (ANCS)}, 2019.
+
+\bibitem{srds19sats}
+Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.
+\newblock Preacher: Network policy checker for adversarial environments.
+\newblock In {\em Proc. 38th International Symposium on Reliable Distributed
+  Systems (SRDS)}, 2019.
+
+\bibitem{srds19failover}
+Klaus-Tycho Foerster, Andrzej Kamisinski, Yvonne-Anne Pignolet, Stefan Schmid,
+  and Gilles Tredan.
+\newblock Improved fast rerouting using postprocessing.
+\newblock In {\em Proc. 38th International Symposium on Reliable Distributed
+  Systems (SRDS)}, 2019.
+
+\bibitem{esa19}
+Harald Raecke and Stefan Schmid.
+\newblock Compact oblivious routing.
+\newblock In {\em Proc. European Symposium on Algorithms (ESA)}, 2019.
+
+\bibitem{tnsm19ismael}
+Johannes Zerwas, Patrick Kalmbach, Stefan Schmid, and Andreas Blenk.
+\newblock Ismael: Using machine learning to predict acceptance of virtual
+  clusters in data centers.
+\newblock In {\em IEEE Transactions on Network and Service Management (Special
+  Issue)}, 2019.
+
+\bibitem{neat19}
+Mu~He, Andreas Blenk, Stefan Schmid, and Wolfgang Kellerer.
+\newblock Toward consistent state management of adaptive programmable networks
+  based on p4.
+\newblock In {\em Proc.ACM SIGCOMM Workshop on Networking for Emerging
+  Applications and Technologies (NEAT)}, 2019.
+
+\bibitem{podc19ba}
+Klaus-Tycho Foerster, Janne Korhonen, Joel Rybicki, and Stefan Schmid.
+\newblock Brief announcement: Does preprocessing help under congestion?
+\newblock In {\em Proc. ACM Symposium on Principles of Distributed Computing
+  (PODC)}, 2019.
+
+\bibitem{blockchain19}
+Samvid Dharanikota, Rene~Rydhof Hansen, Michael Jensen, Sebastian~Ro
+  Kristensen, Matthias~Sass Michno, Yvonne-Anne Pignolet, and Stefan Schmi.
+\newblock Breeding unicorns: Developing trustworthy and scalable randomness
+  beacons.
+\newblock In {\em Proc. IEEE International Conference on Blockchain
+  (Blockchain)}, 2019.
+
+\bibitem{netai19a}
+Johannes Zerwas, Patrick Kalmbach, Laurenz Henkel, Gabor Retvari, Wolfgang
+  Kellerer, Andreas Blenk, and Stefan Schmid.
+\newblock Netboa: Self-driving network benchmarking.
+\newblock In {\em Proc. ACM SIGCOMM Workshop on Network Meets AI and ML
+  (NetAI)}, 2019.
+
+\bibitem{netai19b}
+Apoorv Shukla, Kevin~Nico Hudemann, Artur Hecker, and Stefan Schmid.
+\newblock Runtime verification of p4 switches with reinforcement learning.
+\newblock In {\em Proc. ACM SIGCOMM Workshop on Network Meets AI and ML
+  (NetAI)}, 2019.
+
+\bibitem{atc19}
+Kashyap Thimmaraju, Saad Hermak, Gabor Retvari, and Stefan Schmid.
+\newblock mswitch: Bringing multi-tenancy to virtual switches.
+\newblock In {\em Proc. USENIX Annual Technical Conference (ATC)}, 2019.
+
+\bibitem{sigact19}
+Klaus-Tycho Foerster and Stefan Schmid.
+\newblock Survey of reconfigurable data center networks: Enablers, algorithms,
+  complexity.
+\newblock In {\em SIGACT News}, 2019.
+
+\bibitem{ccr19danr}
+Klaus-Tycho Foerster, Maciej Pacut, and Stefan Schmid.
+\newblock On the complexity of non-segregated routing in reconfigurable data
+  center architectures.
+\newblock In {\em ACM SIGCOMM Computer Communication Review (CCR)}, 2019.
+
+\bibitem{talg19}
+Saeed Amiri, Stefan Schmid, and Sebastian Siebertz.
+\newblock Distributed dominating set approximations beyond planar graphs.
+\newblock In {\em ACM Transactions on Algorithms (TALG)}, 2019.
+
+\bibitem{sidma19}
+Chen Avin, Marcin Bienkowski, Andreas Loukas, Maciej Pacut, and Stefan Schmid.
+\newblock Dynamic balanced graph partitioning.
+\newblock In {\em SIAM J. Discrete Math (SIDMA)}, 2019.
+
+\bibitem{pieee19}
+Wolfgang Kellerer, Patrick Kalmbach, Andreas Blenk, Arsany Basta, Martin
+  Reisslein, and Stefan Schmid.
+\newblock Adaptable and data-driven softwarized networks: Review,
+  opportunities, and challenges.
+\newblock In {\em Proceedings of the IEEE (PIEEE)}, 2019.
+
+\bibitem{dsn19}
+Klaus-Tycho Foerster, Andrzej Kamisinski, Yvonne-Anne Pignolet, Stefan Schmid,
+  and Gilles Tredan.
+\newblock Bonsai: Efficient fast failover routing using small arborescences.
+\newblock In {\em Proc. 49th IEEE/IFIP International Conference on Dependable
+  Systems and Networks (DSN)}, 2019.
+
+\bibitem{icnp19}
+Gregor Bankhamer, Robert Elsaesser, and Stefan Schmid.
+\newblock Local fast rerouting with low congestion: A randomized approach.
+\newblock In {\em Proc. 27th IEEE International Conference on Network Protocols
+  (ICNP)}, 2020.
+
+\bibitem{ifip19dan}
+Thomas Fenz, Klaus-Tycho Foerster, Stefan Schmid, and Anais Villedieu.
+\newblock Efficient non-segregated routing for reconfigurable demand-aware
+  networks.
+\newblock In {\em Proc. IFIP Networking}, 2019.
+
+\bibitem{ifip19sdnup}
+Saeed Amiri, Szymon Dudycz, Mahmoud Parham, Stefan Schmid, and Sebastian
+  Wiederrech.
+\newblock On polynomial-time congestion-free software-defined network updates.
+\newblock In {\em Proc. IFIP Networking}, 2019.
+
+\bibitem{ifip19hypervisor}
+Andreas Blenk, Arsany Basta, Wolfgang Kellerer, and Stefan Schmid.
+\newblock On the impact of the network hypervisor on virtual network
+  performance.
+\newblock In {\em Proc. IFIP Networking}, 2019.
+
+\bibitem{ifip19mpls}
+Fabien Geyer and Stefan Schmid.
+\newblock Deepmpls: Fast analysis of mpls configurations using deep learning.
+\newblock In {\em Proc. IFIP Networking}, 2019.
+
+\bibitem{ccr19tw}
+Matthias Rost, Elias Doehne, and Stefan Schmid.
+\newblock Parametrized complexity of virtual network embeddings: Dynamic \&
+  linear programming approximations.
+\newblock In {\em ACM SIGCOMM Computer Communication Review (CCR)}, 2018.
+
+\bibitem{sigmetrics19learn}
+Monika Henzinger, Stefan Neumann, and Stefan Schmid.
+\newblock Efficient distributed workload (re-)embedding.
+\newblock In {\em Proc. ACM SIGMETRICS / IFIP PERFORMANCE}, 2019.
+
+\bibitem{infocom19dan}
+Chen Avin, Kaushik Mondal, and Stefan Schmid.
+\newblock Demand-aware network design with minimal congestion and route
+  lengths.
+\newblock In {\em Proc. IEE INFOCOM}, 2019.
+
+\bibitem{infocom19splay}
+Bruna Peres, Otavio Souza, Olga Goussevskaia, Stefan Schmid, and Chen Avin.
+\newblock Distributed self-adjusting tree networks.
+\newblock In {\em Proc. IEE INFOCOM}, 2019.
+
+\bibitem{infocom19mcf}
+Mengxue Liu, Andrea Richa, Stefan Schmid, and Matthias Rost.
+\newblock A constant approximation for maximum throughput multicommodity
+  routing.
+\newblock In {\em Proc. IEE INFOCOM}, 2019.
+
+\bibitem{infocom19preprocess}
+Klaus-Tycho Foerster, Juho Hirvonen, Stefan Schmid, and Jukka Suomela.
+\newblock On the power of preprocessing in decentralized network optimization.
+\newblock In {\em Proc. IEE INFOCOM}, 2019.
+
+\bibitem{infocom19casa}
+Klaus-Tycho Foerster, Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Casa: Congestion and stretch aware static fast rerouting.
+\newblock In {\em Proc. IEE INFOCOM}, 2019.
+
+\bibitem{opodis18}
+Klaus-Tycho Foerster, Mahmoud Parham, Stefan Schmid, and Tao Wen.
+\newblock Local fast segment rerouting on hypercubes.
+\newblock In {\em 22nd International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2018.
+
+\bibitem{ieeesurvey}
+Klaus-Tycho Foerster, Stefan Schmid, and Stefano Vissicchio.
+\newblock Survey of consistent software-defined network updates.
+\newblock In {\em IEEE Communications Surveys and Tutorials (COMST)}, 2018.
+
+\bibitem{jsac19editorial}
+Oliver Hohlfeld, James Kempf, Martin Reisslein, Stefan Schmid, and Nadir Shah.
+\newblock Scalability issues and solutions for software defined networks
+  (editorial).
+\newblock In {\em IEEE JSAC Special Issue on Scalability Issues and Solutions
+  for Software Defined Networks (JSAC)}, 2019.
+
+\bibitem{ccr18san}
+Chen Avin and Stefan Schmid.
+\newblock Toward demand-aware networking: A theory for self-adjusting networks.
+\newblock In {\em ACM SIGCOMM Computer Communication Review (CCR)}, 2018.
+
+\bibitem{conext18}
+Jesper~Stenbjerg Jensen, Troels~Beck Krogh, Jonas~Sand Madsen, Stefan Schmid,
+  Jiri Srba, and Marc~Tom Thorgersen.
+\newblock P-rex: Fast verification of mpls networks with multiple link
+  failures.
+\newblock In {\em 14th ACM International Conference on emerging Networking
+  EXperiments and Technologies (CoNEXT)}, 2018.
+
+\bibitem{sigcomm18policy}
+Levente Csikor, Christian Rothenberg, Dimitrios~P. Pezaros, Stefan Schmid,
+  Laszlo Toka, and Gabor Retvari.
+\newblock Policy injection: A cloud dataplane dos attack.
+\newblock In {\em ACM SIGCOMM 2018 Demo Paper}, 2018.
+
+\bibitem{sigcomm18perfbench}
+Andreas Blenk, Arsany Basta, Laurenz Henkel, Johannes Zerwas, Wolfgang
+  Kellerer, and Stefan Schmid.
+\newblock Perfbench: A tool for predictability analysis in multi-tenant
+  software-defined networks.
+\newblock In {\em ACM SIGCOMM 2018 Poster Paper}, 2018.
+
+\bibitem{sigcomm18sbm}
+Patrick Kalmbach, Lion Gleiter, Johannes Zerwas, Andreas Blenk, Wolfgang
+  Kellerer, and Stefan Schmid.
+\newblock Modeling ip-to-ip communication using the weighted stochastic block
+  model.
+\newblock In {\em ACM SIGCOMM 2018 Poster Paper}, 2018.
+
+\bibitem{jpdc18}
+Tamas Lukovszki, Matthias Rost, and Stefan Schmid.
+\newblock Approximate and incremental network function placement.
+\newblock In {\em Journal of Parallel and Distributed Computing (JPDC)}, 2018.
+
+\bibitem{computing18}
+Chen Avin, Louis Cohen, Mahmoud Parham, and Stefan Schmid.
+\newblock Competitive clustering of stochastic communication patterns on a
+  ring.
+\newblock In {\em Journal of Computing}, 2018.
+
+\bibitem{ancs18}
+Klaus-Tycho Foerster, Monia Ghobadi, and Stefan Schmid.
+\newblock Characterizing the algorithmic complexity of reconfigurable data
+  center architectures.
+\newblock In {\em Proc. ACM/IEEE Symposium on Architectures for Networking and
+  Communications Systems (ANCS)}, 2018.
+
+\bibitem{bigdama18}
+Liron Schiff, Ofri Ziv, Manfred Jaeger, and Stefan Schmid.
+\newblock Netslicer: Automated and traffic-pattern based application clustering
+  in datacenters.
+\newblock In {\em Proc. ACM SIGCOMM 2018 Workshop on Big Data Analytics and
+  Machine Learning for Data Communication Networks (Big-DAMA)}, 2018.
+
+\bibitem{secson18}
+Kashyap Thimmaraju, Gabor Retvari, and Stefan Schmid.
+\newblock Virtual network isolation: Are we there yet?
+\newblock In {\em Proc. ACM SIGCOMM 2018 Workshop on Security in Softwarized
+  Networks: Prospects and Challenges (SecSon)}, 2018.
+
+\bibitem{neat18}
+Roshan Sedar, Michael Borokhovich, Marco Chiesa, Gianni Antichi, and Stefan
+  Schmid.
+\newblock Supporting emerging applications with low-latency failover in p4.
+\newblock In {\em Proc. ACM SIGCOMM 2018 Workshop on Networking for Emerging
+  Applications and Technologies (NEAT)}, 2018.
+
+\bibitem{sdn18}
+Patrick Kalmbach, Johannes Zerwas, Peter Babarczi, Andreas Blenk, Wolfgang
+  Kellerer, and Stefan Schmid.
+\newblock Empowering self-driving networks.
+\newblock In {\em Proc. ACM SIGCOMM 2018 Workshop on Self-Driving Networks
+  (SDN)}, 2018.
+
+\bibitem{icalp18}
+Saeed~Akhoondian Amiri, Szymon Dudycz, Stefan Schmid, and Sebastian
+  Wiederrecht.
+\newblock Congestion-free rerouting of flows on dags.
+\newblock In {\em Proc. 45th International Colloquium on Automata, Languages,
+  and Programming (ICALP)}, 2018.
+
+\bibitem{icdcs18netup}
+Jiaqi Zheng, Bo~Li, Chen Tian, Klaus-Tycho Foerster, Stefan Schmid, Guihai
+  Chen, and Jie Wu.
+\newblock Scheduling congestion-free updates of multiple flows with chronicle
+  in timed sdns.
+\newblock In {\em Proc. IEEE ICDCS}, 2018.
+
+\bibitem{icdcs18selfstab}
+Marco Canini, Iosif Salem, Liron Schiff, Elad~Michael Schiller, and Stefan
+  Schmid.
+\newblock Renaissance: A self-stabilizing distributed sdn control plane.
+\newblock In {\em Proc. IEEE ICDCS}, 2018.
+
+\bibitem{ifip18waypoints}
+Saeed~Akhoondian Amiri, Klaus-Tycho Foerster, Riko Jacob, Mahmoud Parham, and
+  Stefan Schmid.
+\newblock Waypoint routing in special networks.
+\newblock In {\em Proc. IFIP Networking}, 2018.
+
+\bibitem{ifip18covert}
+Robert Kroesche, Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.
+\newblock I dpid it my way! a covert timing channel in software-defined
+  networks.
+\newblock In {\em Proc. IFIP Networking}, 2018.
+
+\bibitem{ifip18landscape}
+Matthias Rost and Stefan Schmid.
+\newblock Charting the complexity landscape of virtual network embeddings.
+\newblock In {\em Proc. IFIP Networking}, 2018.
+
+\bibitem{ifip18ahab}
+Johannes Zerwas, Patrick Kalmbach, Carlo Fuerst, Arne Ludwig, Andreas Blenk,
+  Wolfgang Kellerer, and Stefan Schmid.
+\newblock Ahab: Data-driven virtual cluster hunting.
+\newblock In {\em Proc. IFIP Networking}, 2018.
+
+\bibitem{ifip18round}
+Matthias Rost and Stefan Schmid.
+\newblock Virtual network embedding approximations: Leveraging randomized
+  rounding.
+\newblock In {\em Proc. IFIP Networking}, 2018.
+
+\bibitem{iecco18}
+Balazs Nemeth, Mark Szalay, Janos Doka, Matthias Rost, Stefan Schmid, Laszlo
+  Toka, and Balazs Sonkoly.
+\newblock Fast and efficient network service embedding method with adaptive
+  offloading to the edge.
+\newblock In {\em Proc. INFOCOM Workshop on Integrating Edge Computing,
+  Caching, and Offloading in Next Generation Networks}, 2018.
+
+\bibitem{sosr18}
+Kashyap Thimmaraju, Bhargava Shastry, Tobias Fiebig, Felicitas Hetzelt,
+  Jean-Pierre Seifert, Anja Feldmann, and Stefan Schmid.
+\newblock Taking control of sdn-based cloud systems via the data plane.
+\newblock In {\em Proc. ACM Symposium on SDN Research (SOSR)}, 2018.
+
+\bibitem{ccr18failover}
+Klaus-Tycho Foerster, Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Local fast failover routing with low stretch.
+\newblock In {\em Proc. ACM SIGCOMM Computer Communication Review (CCR)}, 2018.
+
+\bibitem{ccr18waypoint}
+Saeed~Akhoondian Amiri, Klaus-Tycho Foerster, Riko Jacob, and Stefan Schmid.
+\newblock Charting the algorithmic complexity of waypoint routing.
+\newblock In {\em Proc. ACM SIGCOMM Computer Communication Review (CCR)}, 2018.
+
+\bibitem{gi18}
+Klaus-Tycho Foerster, Mahmoud Parham, Marco Chiesa, and Stefan Schmid.
+\newblock Ti-mfa: Keep calm and reroute segments fast.
+\newblock In {\em Proc. IEEE Global Internet Symposium (GI)}, 2018.
+
+\bibitem{comcom18}
+Michael Borokhovich, Clement Rault, Liron Schiff, and Stefan Schmid.
+\newblock The show must go on: Fundamental data plane connectivity services for
+  dependable sdns.
+\newblock In {\em Elsevier Computer Communications (COMCOM)}, 2018.
+
+\bibitem{latin18}
+Saeed~Akhoondian Amiri, Klaus-Tycho Foerster, and Stefan Schmid.
+\newblock Walking through waypoints.
+\newblock In {\em Proc. 13th Latin American Theoretical Informatics Symposium
+  (LATIN)}, 2018.
+
+\bibitem{infocom18ba}
+Patrick Kalmbach, Andreas Blenk, Wolfgang Kellerer, and Stefan Schmid.
+\newblock Themis: A data-driven approach to bot detection (short abstract).
+\newblock In {\em Proc. IEE INFOCOM}, 2018.
+
+\bibitem{ton18policy}
+Arne Ludwig, Szymon Dudycz, Matthias Rost, and Stefan Schmid.
+\newblock Transiently policy-compliant network updates.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{ton18failover}
+Michael Borokhovich, Yvonne-Anne Pignolet, Gilles Tredan, and Stefan Schmid.
+\newblock Load-optimal local fast rerouting for dense networks.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{ton18touch}
+Arsany Basta, Andreas Blenk, Szymon Dudycz, Arne Ludwig, and Stefan Schmid.
+\newblock Efficient loop-free rerouting of multiple sdn flows.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{ton18fib}
+Marcin Bienkowski, Nadi Sarrar, Stefan Schmid, and Steve Uhlig.
+\newblock Online aggregation of the forwarding information base: Accounting for
+  locality and churn.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{ton18kraken}
+Carlo Fuerst, Stefan Schmid, Lalith Suresh, and Paolo Costa.
+\newblock Kraken: Online and elastic resource reservations for cloud
+  datacenters.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{ton18up}
+Klaus-Tycho Foerster, Arne Ludwig, Jan Marcinkowski, and Stefan Schmid.
+\newblock Loop-free route updates for software-defined networks.
+\newblock In {\em Proc. IEEE/ACM Transactions on Networking (ToN)}, 2018.
+
+\bibitem{sigmetrics18tomography}
+Yvonne~Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Tomographic node placement strategies and the impact of the routing
+  model.
+\newblock In {\em Proc. ACM SIGMETRICS}, 2018.
+
+\bibitem{ejc17}
+Juho Hirvonen, Joel Rybicki, Stefan Schmid, and Jukka Suomela.
+\newblock Large cuts with local algorithms on triangle-free graphs.
+\newblock In {\em The Electronic Journal of Combinatorics (EJC)}, 2017.
+
+\bibitem{jsac17}
+Jiaqi Zheng, Guihai Chen, Stefan Schmid, Haipeng Dai, and Jie Wu.
+\newblock Consistent network updates in timed sdns.
+\newblock In {\em IEEE JSAC Special Issue on Emerging Technologies in
+  Software-Driven Communication}, 2017.
+
+\bibitem{infocom18neuro}
+Andreas Blenk, Patrick Kalmbach, Johannes Zerwas, Michael Jarschel, Stefan
+  Schmid, and Wolfgang Kellerer.
+\newblock Neurovine: A neural preprocessor for your virtual network embedding
+  algorithm.
+\newblock In {\em Proc. IEE INFOCOM}, 2018.
+
+\bibitem{infocom18prefix}
+Stefan Schmid and Jiri Srba.
+\newblock Polynomial-time what-if analysis for prefix-manipulating mpls
+  networks.
+\newblock In {\em Proc. IEE INFOCOM}, 2018.
+
+\bibitem{pomacs17tomo}
+Yvonne~Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Tomographic node placement strategies and the impact of the routing
+  model.
+\newblock In {\em Proc. of the ACM on Measurement and Analysis of Computing
+  Systems (POMACS), Vol. 1, No. 2, Article 42}, 2017.
+
+\bibitem{ccsw17}
+Kashyap Thimmaraju, Bhargava Shastry, Tobias Fiebig, Felicitas Hetzelt,
+  Jean-Pierre Seifert, Anja Feldmann, and Stefan Schmid.
+\newblock The vamp attack: Taking control of cloud systems via the unified
+  packet parser.
+\newblock In {\em Proc. 9th ACM Cloud Computing Security Workshop (CCSW)},
+  2017.
+
+\bibitem{icnp17ws}
+Mu~He, Patrick Kalmbach, Andreas Blenk, Stefan Schmid, and Wolfgang Kellerer.
+\newblock Algorithm-data driven optimization of adaptive communication
+  networks.
+\newblock In {\em Proc. IEEE ICNP Workshop on Machine Learning and Artificial
+  Intelligence in Computer Networks}, 2017.
+
+\bibitem{tnsm17}
+Julius Schulz-Zander, Carlos Mayer, Bogdan Ciobotaru, Raphael Lisicki, Stefan
+  Schmid, and Anja Feldmann.
+\newblock Unified programmability of virtualized network functions and
+  software-defined wireless networks.
+\newblock In {\em IEEE Transactions on Network and Service Management (TNSM)},
+  2017.
+
+\bibitem{dist17sinr}
+Adrian Ogierman, Andrea Richa, Christian Scheideler, Stefan Schmid, and Jin
+  Zhang.
+\newblock Sade: Competitive mac under adversarial sinr.
+\newblock In {\em Journal Distributed Computing (DIST)}, 2017.
+
+\bibitem{algocloud17}
+Klaus-Tycho Foerster, Mahmoud Parham, and Stefan Schmid.
+\newblock A walk in the clouds: Routing through vnfs on bidirected networks.
+\newblock In {\em Proc. 3rd International Workshop on Algorithmic Aspects of
+  Cloud Computing (ALGOCLOUD)}, 2017.
+
+\bibitem{disc17}
+Chen Avin, Kaushik Mondal, and Stefan Schmid.
+\newblock Demand-aware network designs of bounded degree.
+\newblock In {\em Proc. International Symposium on Distributed Computing
+  (DISC)}, 2017.
+
+\bibitem{disc17ba}
+Bruna Peres, Olga Goussevskaia, Stefan Schmid, and Chen Avin.
+\newblock Brief announcement: Distributed splaynets.
+\newblock In {\em Proc. International Symposium on Distributed Computing
+  (DISC)}, 2017.
+
+\bibitem{tcs17rep}
+Carlo Fuerst, Maciej Pacut, and Stefan Schmid.
+\newblock Data locality and replica aware virtual cluster embeddings.
+\newblock In {\em Journal Theoretical Computer Science (TCS), Elsevier}, 2017.
+
+\bibitem{bigdama17}
+Andreas Blenk, Patrick Kalmbach, Stefan Schmid, and Wolfgang Kellerer.
+\newblock o'zapft is: Tap your network algorithm's big data!
+\newblock In {\em Proc. ACM SIGCOMM 2017 Workshop on Big Data Analytics and
+  Machine Learning for Data Communication Networks (Big-DAMA)}, 2017.
+
+\bibitem{hotconnet17}
+Marcel Bloecher, Malte Viering, Stefan Schmid, and Patrick Eugster.
+\newblock The grand cru challenge.
+\newblock In {\em Proc. ACM SIGCOMM 2017 International Workshop on Hot Topics
+  in Container Networking and Networked Systems (HotConNet)}, 2017.
+
+\bibitem{spaa17caching}
+Marcin Bienkowski, Jan Marcinkowski, Maciej Pacut, Stefan Schmid, and
+  Aleksandra Spyra.
+\newblock Online tree caching.
+\newblock In {\em Proc. 29th ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2017.
+
+\bibitem{dsn17}
+Yvonne-Anne Pignolet, Stefan Schmid, and Gilles Tredan.
+\newblock Load-optimal local fast rerouting for resilient networks.
+\newblock In {\em Proc. 47th IEEE/IFIP International Conference on Dependable
+  Systems and Networks (DSN)}, 2017.
+
+\bibitem{icdcs17}
+Jiaqi Zheng, Guihai Chen, Stefan Schmid, Haipeng Dai, and Jie Wu.
+\newblock Scheduling congestion- and loop-free network update in timed sdns.
+\newblock In {\em Proc. 37th IEEE International Conference on Distributed
+  Computing Systems (ICDCS)}, 2017.
+
+\bibitem{netys17learn}
+Chen Avin, Louis Cohen, and Stefan Schmid.
+\newblock Competitive clustering of stochastic communication patterns on the
+  ring.
+\newblock In {\em Proc. 5th International Conference on Networked Systems
+  (NETYS)}, 2017.
+
+\bibitem{netys17robot}
+Debasish Pattanayak, Kaushik Mondal, Partha~Sarathi Mandal, and Stefan Schmid.
+\newblock Convergence of even simpler robots without location information.
+\newblock In {\em Proc. 5th International Conference on Networked Systems
+  (NETYS)}, 2017.
+
+\bibitem{eurosp17}
+Kashyap Thimmaraju, Liron Schiff, and Stefan Schmid.
+\newblock Outsmarting network security with sdn teleportation.
+\newblock In {\em Proc. 2nd IEEE European Symposium on Security and Privacy
+  (EuroSP)}, 2017.
+
+\bibitem{ccr17taxo}
+Matthias Hollick, Cristina Nita-Rotaru, Panagiotis Papadimitratos, Adrian
+  Perrig, and Stefan Schmid.
+\newblock Toward a taxonomy and attacker model for secure routing protocols.
+\newblock In {\em Proc. ACM SIGCOMM Computer Communication Review (CCR)}, 2017.
+
+\end{thebibliography}

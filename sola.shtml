@@ -1,0 +1,2214 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+
+<html>
+<head>
+  <title>anaerob</title>
+  <link rel="stylesheet" type="text/css" href="sola.css">
+</head>
+
+<body>
+
+  <div id="content">
+
+  <p><em>SOLA Distanzen &auml;ndern von Jahr zu Jahr und stimmen nur ungef&auml;hr...</em></p>
+
+    <h1><a name="sola22" id=
+  "sola22">anaerob 2022</a></h1>
+
+
+    <table summary="Ergebnisse 2022" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Verena Schinn</a></td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Markus Kern</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Lukas Heiniger</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Michael Schmidt</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Markus Kern</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Kai Br&uuml;nnler</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Marc Demont </td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Monica Perez</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Tobias Lieber</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Stefan Schmid</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Vroni</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Karen Peterhans</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1><a name="sola14" id=
+  "sola12">anaerob 2014</a></h1>
+
+
+    <table summary="Ergebnisse 2014" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Regula Flury</a></td>
+          <td class="rechts">19:59</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">69:39</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Stefan Brauchli</td>
+          <td class="rechts">33:47</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Jose Graca</td>
+          <td class="rechts">48:04</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Moiken Feddersen</td>
+          <td class="rechts">92:03</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Said Ousaadane</td>
+          <td class="rechts">60:42</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">19:26</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Ghislaine Mikes</td>
+          <td class="rechts">46:59</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Michael Follmann</td>
+          <td class="rechts">57:54</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Houda Le Divenah</td>
+          <td class="rechts">47:29</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">54:56</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Vroni</td>
+          <td class="rechts">30:37</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Daniela Sch&ouml;neberg</td>
+          <td class="rechts">30:16</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Luc Bl&auml;ser</td>
+          <td class="rechts">36:33</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+    <h1><a name="sola13" id=
+  "sola12">anaerob 2013</a></h1>
+
+
+    <table summary="Ergebnisse 2013" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:45:20</td>
+          <td class="rechts">234</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Regula Flury</a></td>
+          <td class="rechts">19:41</td>
+          <td class="rechts">168</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">64:44</td>
+          <td class="rechts">290</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Thierry Lachat</td>
+          <td class="rechts">33:52</td>
+          <td class="rechts">147</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Espen Geelmuyden Roed</td>
+          <td class="rechts">32:30</td>
+          <td class="rechts">486</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Hanjo T&auml;ubig</td>
+          <td class="rechts">64:16</td>
+          <td class="rechts">252</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">56:42</td>
+          <td class="rechts">276</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">24:58</td>
+          <td class="rechts">439</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Tatiane Gorski</td>
+          <td class="rechts">37:56</td>
+          <td class="rechts">700</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Michael Follmann</td>
+          <td class="rechts">54:49</td>
+          <td class="rechts">289</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Moiken Feddersen</td>
+          <td class="rechts">50:17</td>
+          <td class="rechts">700</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">55:41</td>
+          <td class="rechts">105</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Susanne M&uuml;nn</td>
+          <td class="rechts">31:03</td>
+          <td class="rechts">368</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Sabine Otto</td>
+          <td class="rechts">27:10</td>
+          <td class="rechts">600</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Luc Bl&auml;ser</td>
+          <td class="rechts">31:41</td>
+          <td class="rechts">693</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+    <h1><a name="sola12" id=
+  "sola12">anaerob 2012</a></h1>
+    <table summary="Ergebnisse 2012" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Eva Komrskova</a></td>
+          <td class="rechts">30:06</td>
+          <td class="rechts">785</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Regula Flury</td>
+          <td class="rechts">1:08:07</td>
+          <td class="rechts">636</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">39:29</td>
+          <td class="rechts">497</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Aaron Zollinger</td>
+          <td class="rechts">30:03</td>
+          <td class="rechts">284</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">58:53</td>
+          <td class="rechts">93</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">52:20</td>
+          <td class="rechts">210</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">25:57</td>
+          <td class="rechts">297</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Burak Emir</td>
+          <td class="rechts">38:01</td>
+          <td class="rechts">670</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Aaron Arcos</td>
+          <td class="rechts">1:01:19</td>
+          <td class="rechts">561</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Lara Rennie</td>
+          <td class="rechts">47:59</td>
+          <td class="rechts">554</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Tobias Lieber</td>
+          <td class="rechts">56:11</td>
+          <td class="rechts">65</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Sandra B&auml;ckert</td>
+          <td class="rechts">30:06</td>
+          <td class="rechts">273</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Dan Levin</td>
+          <td class="rechts">24:43</td>
+          <td class="rechts">426</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Luc Bl&auml;ser</td>
+          <td class="rechts">29:24</td>
+          <td class="rechts">503</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+    <h1><a name="sola11" id=
+  "sola11">anaerob 2011</a></h1>
+
+    <table summary="Ergebnisse 2011" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:51:38</td>
+          <td class="rechts">242</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Susi H&uuml;neburg</a></td>
+          <td class="rechts">22:34</td>
+          <td class="rechts">269</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Zoltan Szamonek</td>
+          <td class="rechts">1:08:42</td>
+          <td class="rechts">641</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Dan Greenblatt</td>
+          <td class="rechts">40:51</td>
+          <td class="rechts">571</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Aaron Zollinger</td>
+          <td class="rechts">30:04</td>
+          <td class="rechts">315</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Tobias Lieber</td>
+          <td class="rechts">1:08:25</td>
+          <td class="rechts">359</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Burak Emir</td>
+          <td class="rechts">1:13:51</td>
+          <td class="rechts">761</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">26:11</td>
+          <td class="rechts">304</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Uli Ahlers</td>
+          <td class="rechts">30:35</td>
+          <td class="rechts">209</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">56:37</td>
+          <td class="rechts">282</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Saskia Schenker</td>
+          <td class="rechts">38:06</td>
+          <td class="rechts">48</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">1:00:07</td>
+          <td class="rechts">137</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Lara Rennie</td>
+          <td class="rechts">31:53</td>
+          <td class="rechts">338</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Daniel Matter</td>
+          <td class="rechts">20:07</td>
+          <td class="rechts">55</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">23:35</td>
+          <td class="rechts">65</td>
+        </tr>
+      </tbody>
+    </table>
+
+     <h1><a name="sola10" id=
+  "sola10">anaerob 2010</a></h1>
+
+    <table summary="Ergebnisse 2010" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:32:53</td>
+          <td class="rechts">185</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Cinia Schriber</a></td>
+          <td class="rechts">23:28</td>
+          <td class="rechts">323</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">59:17</td>
+          <td class="rechts">258</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">30:30</td>
+          <td class="rechts">33</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Aaron Zollinger</td>
+          <td class="rechts">34:01</td>
+          <td class="rechts">519</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Hans-Jakob B&ouml;sch</td>
+          <td class="rechts">1:17:40</td>
+          <td class="rechts">641</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Denis Steinemann</td>
+          <td class="rechts">50:24</td>
+          <td class="rechts">109</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">24:27</td>
+          <td class="rechts">205</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Uli Ahlers</td>
+          <td class="rechts">30:18</td>
+          <td class="rechts">218</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Benjamin Knecht</td>
+          <td class="rechts">56:54</td>
+          <td class="rechts">327</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Anna Petrig</td>
+          <td class="rechts">46:28</td>
+          <td class="rechts">429</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Tobias Lieber</td>
+          <td class="rechts">57:38</td>
+          <td class="rechts">105</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">31:00</td>
+          <td class="rechts">308</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Philipp Sommer</td>
+          <td class="rechts">22:56</td>
+          <td class="rechts">237</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Nicole Huonder</td>
+          <td class="rechts">27:32</td>
+          <td class="rechts">347</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1><a name="sola09" id=
+  "sola09">anaerob 2009</a></h1>
+
+    <table summary="Ergebnisse 2009" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:47:00</td>
+          <td class="rechts">254</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Julia F&uuml;hrer</td>
+          <td class="rechts">20:53</td>
+          <td class="rechts">105</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">58:20</td>
+          <td class="rechts">244</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Roman Denoth</td>
+          <td class="rechts">38:53</td>
+          <td class="rechts">455</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Shantanu Das</td>
+          <td class="rechts">31:35</td>
+          <td class="rechts">418</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">1:00:22</td>
+          <td class="rechts">115</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Benjamin Knecht</td>
+          <td class="rechts">55:57</td>
+          <td class="rechts">402</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Anna Petrig</td>
+          <td class="rechts">25:21</td>
+          <td class="rechts">272</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Philipp Sommer</td>
+          <td class="rechts">33:03</td>
+          <td class="rechts">385</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">59:57</td>
+          <td class="rechts">511</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Carina Tetal</td>
+          <td class="rechts">55:41</td>
+          <td class="rechts">723</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Lars Raffelt</td>
+          <td class="rechts">1:01:49</td>
+          <td class="rechts">233</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Beat Gfeller</td>
+          <td class="rechts">35:53</td>
+          <td class="rechts">600</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Daniela K&ouml;ppel</td>
+          <td class="rechts">27:52</td>
+          <td class="rechts">589</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Markus Weber</td>
+          <td class="rechts">21:24</td>
+          <td class="rechts">24</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1><a name="sola08" id=
+  "sola08">anaerob 2008</a></h1>
+
+    <table summary="Ergebnisse 2008" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:39:22</td>
+          <td class="rechts">229</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Bea Marti</a></td>
+          <td class="rechts">28:40</td>
+          <td class="rechts">662</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">58:47</td>
+          <td class="rechts">225</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Jakob Rieckh</td>
+          <td class="rechts">38:24</td>
+          <td class="rechts">407</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Aaron Zollinger</td>
+          <td class="rechts">34:11</td>
+          <td class="rechts">546</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">1:08:47</td>
+          <td class="rechts">372</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Christian Heller</td>
+          <td class="rechts">53:50</td>
+          <td class="rechts">281</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Beat Gfeller</td>
+          <td class="rechts">26:35</td>
+          <td class="rechts">367</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Noomi Baumann</td>
+          <td class="rechts">35:38</td>
+          <td class="rechts">544</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Anita Hensel</td>
+          <td class="rechts">57:13</td>
+          <td class="rechts">381</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Anna Petrig</td>
+          <td class="rechts">40:14</td>
+          <td class="rechts">121</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">54:37</td>
+          <td class="rechts">45</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Claudia Benz</td>
+          <td class="rechts">27:38</td>
+          <td class="rechts">119</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Cinia Schriber</td>
+          <td class="rechts">21:36</td>
+          <td class="rechts">171</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Roger Wattenhofer</td>
+          <td class="rechts">33:12</td>
+          <td class="rechts">638</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1><a name="sola07" id=
+  "sola07">anaerob 2007</a></h1>
+
+    <table summary="Ergebnisse 2007" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:32:47</td>
+          <td class="rechts">180</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Yvonne Anne Oswald</a></td>
+          <td class="rechts">23:08</td>
+          <td class="rechts">224</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Roland Flury</td>
+          <td class="rechts">56:24</td>
+          <td class="rechts">153</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Daniele Pandocchi</td>
+          <td class="rechts">31:33</td>
+          <td class="rechts">58</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Joest Smit</td>
+          <td class="rechts">37:00</td>
+          <td class="rechts">617</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Katharina Greulich</td>
+          <td class="rechts">1:07:12</td>
+          <td class="rechts">308</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Berkin Baser</td>
+          <td class="rechts">57:24</td>
+          <td class="rechts">443</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">23:59</td>
+          <td class="rechts">175</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Pierre Alain Pignolet</td>
+          <td class="rechts">36:44</td>
+          <td class="rechts">560</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Martin Schmid</td>
+          <td class="rechts">55:30</td>
+          <td class="rechts">283</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Anita Hensel</td>
+          <td class="rechts">42:03</td>
+          <td class="rechts">217</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">1:00:50</td>
+          <td class="rechts">221</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Matthieu Wettstein</td>
+          <td class="rechts">33:35</td>
+          <td class="rechts">493</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Cinia Schriber</td>
+          <td class="rechts">22:58</td>
+          <td class="rechts">303</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Thibaut Britz</td>
+          <td class="rechts">24:27</td>
+          <td class="rechts">77</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+    <h1><a name="sola06" id=
+  "sola06">anaerob 2006</a></h1>
+
+    <table summary="Ergebnisse 2006" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">10:18:01</td>
+          <td class="rechts">442</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Helen Kuru</a></td>
+          <td class="rechts">27:19</td>
+          <td class="rechts">556</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">1:00:34</td>
+          <td class="rechts">326</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Roman Denoth</td>
+          <td class="rechts">37:10</td>
+          <td class="rechts">311</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Joest Smit</td>
+          <td class="rechts">37:26</td>
+          <td class="rechts">606</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">1:01:36</td>
+          <td class="rechts">145</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Simone M&uuml;nger</td>
+          <td class="rechts">1:08:30</td>
+          <td class="rechts">627</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">22:13</td>
+          <td class="rechts">80</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Johannes Schneider</td>
+          <td class="rechts">31:37</td>
+          <td class="rechts">265</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Martin Schmid</td>
+          <td class="rechts">1:01:28</td>
+          <td class="rechts">478</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Claudia Benz</td>
+          <td class="rechts">48:11</td>
+          <td class="rechts">494</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Matthias Schnyder</td>
+          <td class="rechts">1:08:49</td>
+          <td class="rechts">461</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Christian Heller</td>
+          <td class="rechts">38:23</td>
+          <td class="rechts">497</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Daniela K&ouml;ppel</td>
+          <td class="rechts">22:54</td>
+          <td class="rechts">254</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Anna Petrig</td>
+          <td class="rechts">31:51</td>
+          <td class="rechts">549</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h1><a name="sola05" id=
+  "sola05">anaerob 2005</a></h1>
+
+    <table summary="Ergebnisse 2005" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">119.29 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">10:02:49</td>
+          <td class="rechts">268</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Marianne Helbling</a></td>
+          <td class="rechts">24:57</td>
+          <td class="rechts">436</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Matthias Br&uuml;tsch</td>
+          <td class="rechts">52:05</td>
+          <td class="rechts">66</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Roman Denoth</td>
+          <td class="rechts">37:12</td>
+          <td class="rechts">342</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Joest Smit</td>
+          <td class="rechts">33:57</td>
+          <td class="rechts">517</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">1:09:40</td>
+          <td class="rechts">398</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Matthias Schnyder</td>
+          <td class="rechts">54:35</td>
+          <td class="rechts">250</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+          <td class="rechts">21:19</td>
+          <td class="rechts">48</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Boris Krey</td>
+          <td class="rechts">39:50</td>
+          <td class="rechts">631</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Raoul Steiger</td>
+          <td class="rechts">59:17</td>
+          <td class="rechts">478</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Anna Petrig</td>
+          <td class="rechts">50:29</td>
+          <td class="rechts">585</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">59:17</td>
+          <td class="rechts">186</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Sandra B&auml;ckert</td>
+          <td class="rechts">31:19</td>
+          <td class="rechts">134</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Claudia Benz</td>
+          <td class="rechts">25:27</td>
+          <td class="rechts">461</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Johann Almendinger</td>
+          <td class="rechts">23:31</td>
+          <td class="rechts">88</td>
+        </tr>
+        <tr>
+          <td class="strecke">Strecke 15</td>
+          <td>Irchel</td>
+          <td>ETH Zentrum</td>
+          <td class="rechts">3.07 km</td>
+          <td class="rechts">20 m</td>
+          <td>Miriam Bosshard</td>
+          <td class="rechts">20:15</td>
+          <td class="rechts">647</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+    <h1><a name="sola04" id=
+  "sola04">anaerob 2004</a></h1>
+
+    <table summary="Ergebnisse 2004" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+          <th>Laufzeit</th>
+          <th>Rang</th>
+        </tr>
+      </thead>
+
+      <tfoot>
+        <tr>
+          <td>Gesamt</td>
+          <td>Bucheggplatz</td>
+          <td>Irchel</td>
+          <td class="rechts">116.75 km</td>
+          <td class="rechts"></td>
+          <td>anaerob</td>
+          <td class="rechts">9:50:10</td>
+          <td class="rechts">256</td>
+        </tr>
+      </tfoot>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Helen Kuru</a></td>
+          <td class="rechts">29:49</td>
+          <td class="rechts">614</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Claudio Breda</td>
+          <td class="rechts">59:18</td>
+          <td class="rechts">262</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Roman Denoth</td>
+          <td class="rechts">34:56</td>
+          <td class="rechts">167</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Joest Smit</td>
+          <td class="rechts">32:34</td>
+          <td class="rechts">418</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Markus Kern</td>
+          <td class="rechts">1:03:39</td>
+          <td class="rechts">196</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Urs Fl&uuml;eler</td>
+          <td class="rechts">49:45</td>
+          <td class="rechts">153</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Miriam Bossart</td>
+          <td class="rechts">32:14</td>
+          <td class="rechts">584</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Adrian K&uuml;nzler</td>
+          <td class="rechts">31:20</td>
+          <td class="rechts">253</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Nico Lopez</td>
+          <td class="rechts">56:59</td>
+          <td class="rechts">336</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Angelica Moser</td>
+          <td class="rechts">54:58</td>
+          <td class="rechts">610</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Stefan Schmid</td>
+          <td class="rechts">1:05:38</td>
+          <td class="rechts">392</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Sonia Zbinden</td>
+          <td class="rechts">36:31</td>
+          <td class="rechts">420</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Johan Almendinger</td>
+          <td class="rechts">18:46</td>
+          <td class="rechts">23</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Ralph Todt</td>
+          <td class="rechts">23:43</td>
+          <td class="rechts">27</td>
+        </tr>
+      </tbody>
+    </table>
+
+
+
+  </div>
+
+   <p style="text-align:right ; font-size:small">Last Change:
+  Wednesday, 28-May-2014 10:11:09 CEST</p>
+
+</body>
+</html>

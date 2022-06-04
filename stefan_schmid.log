@@ -1,0 +1,92 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2018.1.24)  15 MAR 2021 15:51
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./stefan_schmid.tex
+(./stefan_schmid.tex
+LaTeX2e <2017-04-15>
+Babel <3.16> and hyphenation patterns for 84 language(s) loaded.
+(c:/apps/texlive/2017/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(c:/apps/texlive/2017/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/apps/texlive/2017/texmf-dist/tex/latex/tools/enumerate.sty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks14
+)
+(c:/apps/texlive/2017/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+
+LaTeX Warning: Unused global option(s):
+    [8pt].
+
+(./stefan_schmid.aux)
+\openout1 = `stefan_schmid.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+
+
+LaTeX Warning: Citation `jsac20roscoe' undefined on input line 15.
+
+
+LaTeX Warning: Citation `iwqos19' undefined on input line 15.
+
+
+LaTeX Warning: Citation `jsac19timed' undefined on input line 15.
+
+
+LaTeX Warning: Citation `jstat17' undefined on input line 15.
+
+(./stefan_schmid.bbl [1
+
+{c:/apps/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3] [4
+] [5] [6] [7] [8] [9] [10] [11]) [12]
+(./stefan_schmid.aux)
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 433 strings out of 492980
+ 5155 string characters out of 6133882
+ 61981 words of memory out of 5000000
+ 4073 multiletter control sequences out of 15000+600000
+ 4591 words of font info for 17 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,4n,17p,2004b,201s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/apps/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c
+:/apps/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/app
+s/texlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on stefan_schmid.pdf (12 pages, 96769 bytes).
+PDF statistics:
+ 55 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
