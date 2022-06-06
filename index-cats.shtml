@@ -68,6 +68,13 @@ Christos Liaskos, Lefteris Mamatas, Arash Pourdamghani, Atsioli Tsioliaridou, So
       IEEE/ACM Transactions on Networking (<b>TON</b>), 2022.<br>
       Documents: paper&nbsp;<a href="./ton22frr.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
+
+                    <li>
+      <p><a href="./comnet22cb.pdf">CBNet: Demand-Aware Tree Topologies for Reconfigurable Datacenter Networks</a><br>
+      Otavio Augusto de Oliveira Souza, Olga Goussevskaia, and Stefan Schmid.<br>
+Journal Computer Networks (<b>COMNET</b>), Elsevier, 2022.<br>
+      Documents: paper&nbsp;<a href="./comnet22cb.pdf">pdf</a>, slides&nbsp;<a href="./ipdps21slides.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
      
          <li>
       <p><a href="./comnet22.pdf">CacheNet: Leveraging the Principle of Locality in Reconfigurable Network Design</a><br>
