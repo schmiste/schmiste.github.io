@@ -879,6 +879,16 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>  
+    <li>
+      <p><a href="./aft22.pdf">Wiser: Increasing Throughput in Payment Channel Networks with Transaction Aggregation</a><br>
+      Samarth Tiwari, Michelle Yeo, Zeta Avarikioti, Iosif Salem, Krzysztof Pietrzak, and Stefan Schmid..<br>
+      4th ACM Conference on Advances in Financial Technologies
+        (<b>AFT</b>),  MIT Media Lab, Cambridge, Massachusetts, USA, September 2022.<br>
+      Documents: paper&nbsp;<a href="./aft22.pdf">pdf</a>, 
+               slides&nbsp;<a href="./aft22-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
      <li>
       <p><a href="./sigcomm22.pdf">ABM: Active Buffer Management in Datacenters</a><br>
       Vamsi Addanki, Maria Apostolaki, Manya Ghobadi, Stefan Schmid, and Laurent Vanbever.<br>
@@ -1213,7 +1223,7 @@ Krzysztof Pietrzak, Iosif Salem, Stefan Schmid, and Michelle Yeo.<br>
 Monika Henzinger, Ami Paz, and Stefan Schmid.<br>
       <b>IFIP Networking</b>, 
      Aalto University, Finland, Virtual Conference, June 2021.<br>
-      Documents: paper&nbsp;<a href="./ifip21dynalgo.df">pdf</a>, 
+      Documents: paper&nbsp;<a href="./ifip21dynalgo.pdf">pdf</a>, 
                   video&nbsp;<a href="./IFIP Net v1.mp4">mp4</a>,    
             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
