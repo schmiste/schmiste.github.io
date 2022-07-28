@@ -888,6 +888,26 @@ Despite Adaptive Jamming</a><br>
                slides&nbsp;<a href="./atva22slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+                                               <li>
+              <p><a href="disc22ba1.pdf">Brief Announcement: Temporal Locality in Online Algorithms</a><br>
+    Maciej Pacut, Mahmoud Parham, Joel Rybicki, Stefan Schmid, Jukka Suomela, and Aleksandr Tereshchenko.<br> 
+       International Symposium on Distributed Computing  (<b>DISC</b>),  Augusta, Georgia, USA, October 2022.<br>
+              Documents: paper&nbsp;<a href="disc22ba1.pdf">pdf</a>,
+             slides&nbsp;<a href="disc22ba1-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+
+                                          <li>
+              <p><a href="disc22ba2.pdf">Brief Announcement: Minimizing Congestion in Hybrid Demand-Aware Network Topologies</a><br>
+    Wenkai Dai, Michael Dinitz, Klaus-Tycho Foerster, and Stefan Schmid.<br> 
+       International Symposium on Distributed Computing  (<b>DISC</b>),  Augusta, Georgia, USA, October 2022.<br>
+              Documents: paper&nbsp;<a href="disc22ba2.pdf">pdf</a>,
+             slides&nbsp;<a href="disc22ba1-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
      
     <li>
       <p><a href="./aft22.pdf">Wiser: Increasing Throughput in Payment Channel Networks with Transaction Aggregation</a><br>
