@@ -889,6 +889,16 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+        <li>
+      <p><a href="./imc22.pdf">Model-Based Insights on the Performance, Fairness, and Stability of BBR</a><br>
+      Simon Scherrer, Markus Legner, Adrian Perrig, and Stefan Schmid.<br>
+      ACM Internet Measurement Conference (<b>IMC</b>), 
+      Nice, France, October 2022.<br>
+      Documents: paper&nbsp;<a href="./imc22.pdf">pdf</a>, 
+               slides&nbsp;<a href="./imc22slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
                                                <li>
               <p><a href="disc22ba1.pdf">Brief Announcement: Temporal Locality in Online Algorithms</a><br>
     Maciej Pacut, Mahmoud Parham, Joel Rybicki, Stefan Schmid, Jukka Suomela, and Aleksandr Tereshchenko.<br> 
