@@ -886,7 +886,17 @@ Despite Adaptive Jamming</a><br>
 
   <h2>Conferences</h2>
   
-  <ul>            <li>
+  <ul>                <li>
+      <p><a href="./sosa23.pdf">Sinkless Orientation Made Simple</a><br>
+     Alkida Balliu, Janne H. Korhonen, Fabian Kuhn, Henrik Lievonen, Dennis Olivetti, Shreyas Pai, Ami Paz, Joel Rybicki, Stefan Schmid, Jan Studený, Jukka Suomela, and Jara Uitto.<br>
+SIAM Symposium on Simplicity in Algorithms (<b>SOSA</b>), 
+Florence, Italy, January 2023.<br>
+      Documents: paper&nbsp;<a href="./sosa23.pdf">pdf</a>, 
+      slides&nbsp;<a href="./sosa23-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+            <li>
       <p><a href="./conext22rmpls.pdf">R-MPLS: Recursive Protection for Highly Dependable MPLS Networks</a><br>
      Stefan Schmid, Morten Konggaard Schou, Jiri Srba, and Juan Vanerio.<br>
 18th ACM International Conference on Emerging Networking Experiments and Technologies (<b>CoNEXT</b>), 
