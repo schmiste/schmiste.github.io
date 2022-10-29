@@ -31,6 +31,15 @@
   <h2>Journals</h2>
 
   <ul>
+                  <li>
+      <p><a href="./access23xr.pdf">XR-RF Imaging Enabled by Software-Defined Metasurfaces and Machine Learning: Foundational Vision, Technologies and Challenges</a><br>
+      C. Liaskos, A. Tsioliaridou, K. Georgopoulos, G. Morianos, S. Ioannidis, I. Salem, D. Manessis, S. Schmid, D. Tyrovolas, S. A. Tegos, P.-V. Mekikis, P. D. Diamantoulakis, A. Pitilakis, N. Kantartzis, G. K. Karagiannidis, A. Tasolamprou, O. Tsilipakos, M. Kafesaki, I.F. Akyildiz, A. Pitsillides, M. Pateraki, M. Vakalellis, and I. Spais.<br>
+       <b>IEEE Access</b>,
+       2023.<br>
+              Documents: paper&nbsp;<a href="./access23xr.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
                  <li>
       <p><a href="./sigmetrics22cerberus.pdf">Cerberus: The Power of Choices in Datacenter Topology Design (A Throughput Perspective)</a><br>
       Chen Griner, Johannes Zerwas, Andreas Blenk, Manya Ghobadi, Stefan Schmid, and Chen Avin.<br>
@@ -894,6 +903,16 @@ Florence, Italy, January 2023.<br>
       Documents: paper&nbsp;<a href="./sosa23.pdf">pdf</a>, 
       slides&nbsp;<a href="./sosa23-slides.pdf">pdf</a>, 
       bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+              <li>
+      <p><a href="./opodis22.pdf">Chopin: Combining Distributed and Centralized Schedulers for Self-Adjusting Datacenter Networks</a><br>
+      Neta Rozen Schiff, Klaus-Tycho Foerster, Stefan Schmid, and David Hay.<br>
+       25th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Brussels, Belgium, December 2022.<br>
+              Documents: paper&nbsp;<a href="./opodis22.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis22slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
           <li>
