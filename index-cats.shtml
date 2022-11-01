@@ -905,6 +905,28 @@ Florence, Italy, January 2023.<br>
       bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+                  <li>
+      <p><a href="./itcs23consensus.pdf">The Time Complexity of Consensus Under Oblivious Message
+Adversaries</a><br>
+     Hugo Rincon Galeana, Ami Paz, Stefan Schmid, Ulrich Schmid, and Kyrill Winkler.<br>
+14th Innovations in Theoretical Computer Science (<b>ITCS</b>), 
+MIT in Cambridge, Massachusetts, USA, January 2023.<br>
+      Documents: paper&nbsp;<a href="./itcs23consensus.pdf">pdf</a>, 
+      slides&nbsp;<a href="./itcs23consensus-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+              <li>
+      <p><a href="./itcs23broadcast.pdf">Asymptotically Tight Bounds on the Time Complexity of Broadcast
+and its Variants in Dynamic Networks</a><br>
+     Antoine El-Hayek, Monika Henzinger, and Stefan Schmid.<br>
+14th Innovations in Theoretical Computer Science (<b>ITCS</b>), 
+MIT in Cambridge, Massachusetts, USA, January 2023.<br>
+      Documents: paper&nbsp;<a href="./itcs23broadcast.pdf">pdf</a>, 
+      slides&nbsp;<a href="./itcs23broadcast-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
               <li>
       <p><a href="./opodis22.pdf">Chopin: Combining Distributed and Centralized Schedulers for Self-Adjusting Datacenter Networks</a><br>
       Neta Rozen Schiff, Klaus-Tycho Foerster, Stefan Schmid, and David Hay.<br>
