@@ -40,6 +40,14 @@
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+       <li>
+      <p><a href="./ccr23parrot.pdf">P4RROT: Generating P4 Code for the Application Layer</a><br>
+     Csaba Gy&ouml;rgyi, Sandor Laki, and Stefan Schmid.<br>
+       ACM SIGCOMM Computer Communication Review (<b>CCR</b>), 2023.<br>
+      Documents: paper&nbsp;<a href="./ccr23parrot.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
                  <li>
       <p><a href="./sigmetrics22cerberus.pdf">Cerberus: The Power of Choices in Datacenter Topology Design (A Throughput Perspective)</a><br>
       Chen Griner, Johannes Zerwas, Andreas Blenk, Manya Ghobadi, Stefan Schmid, and Chen Avin.<br>
