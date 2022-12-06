@@ -925,7 +925,7 @@ Despite Adaptive Jamming</a><br>
 
     <li>
       <p><a href="./infocom23lists.pdf">Self-Adjusting Partially Ordered Lists</a><br>
-      Vamsi Addanki, Maciej Pacut, Arash Pourdamghani, Gabor Retvari, and Stefan Schmid.<br>
+      Vamsi Addanki, Maciej Pacut, Arash Pourdamghani, Gabor Retvari, Stefan Schmid, and Juan Vanerio.<br>
        IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
        New York, USA, May 2023.<br>
               Documents: paper&nbsp;<a href="./infocom23matching.pdf">pdf</a>, 
@@ -952,6 +952,16 @@ Despite Adaptive Jamming</a><br>
               slides&nbsp;<a href="./infocom23optic-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
+                <li>
+      <p><a href="./stacs23.pdf">Dynamic Maintenance of Monotone Dynamic Programs and Applications</a><br>
+     Monika Henzinger, Stefan Neumann, Harald Raecke, and Stefan Schmid.<br>
+40th International Symposium on Theoretical Aspects of Computer Science (<b>STACS</b>), 
+Hamburg, Germany, March 2023.<br>
+      Documents: paper&nbsp;<a href="./stacs23.pdf">pdf</a>, 
+      slides&nbsp;<a href="./stacs23-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
                 <li>
       <p><a href="./sosa23.pdf">Sinkless Orientation Made Simple</a><br>
      Alkida Balliu, Janne H. Korhonen, Fabian Kuhn, Henrik Lievonen, Dennis Olivetti, Shreyas Pai, Ami Paz, Joel Rybicki, Stefan Schmid, Jan Studený, Jukka Suomela, and Jara Uitto.<br>
