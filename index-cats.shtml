@@ -913,6 +913,35 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>  
+                           <li>
+      <p><a href="./sigmetrics23mars.pdf">
+     Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks
+</a><br>
+      Vamsi Addanki, Chen Avin, and Stefan Schmid.<br>
+                 ACM <b>SIGMETRICS</b> and ACM Performance Evaluation Review (<b>PER</b>), 
+           Orlando, Florida, USA, June 2023.<br>
+      Documents: paper&nbsp;<a href="./sigmetrics23mars.pdf">pdf</a>, 
+      PER&nbsp;<a href="./sigmetrics23mars-per.pdf">pdf</a>, 
+               slides&nbsp;<a href="./sigmetrics23mars-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
+                 <li>
+      <p><a href="./sigmetrics23duo.pdf">
+      Duo: A High-Throughput Reconfigurable Datacenter Network Using
+  Local Routing and Control
+</a><br>
+      Johannes Zerwas, Csaba Gy&ouml;rgyi, Andreas Blenk, Stefan Schmid, and  Chen Avin.<br>
+           ACM <b>SIGMETRICS</b> and ACM Performance Evaluation Review (<b>PER</b>), 
+           Orlando, Florida, USA, June 2023.<br>
+      Documents: paper&nbsp;<a href="./sigmetrics23duo.pdf">pdf</a>, 
+      PER&nbsp;<a href="./sigmetrics23duo-per.pdf">pdf</a>, 
+               slides&nbsp;<a href="./sigmetrics23duo-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
         <li>
       <p><a href="./infocom23seed.pdf">SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree</a><br>
       Arash Pourdamghani, Chen Avin, Robert Sama, and Stefan Schmid.<br>
