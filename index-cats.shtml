@@ -982,9 +982,9 @@ Despite Adaptive Jamming</a><br>
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
      
-          <li>
-      <p><a href="./fc23.pdf">Boosting Liquidity in Payment Channel Networks with Online
-  Admission Control</a><br>
+        <li>
+      <p><a href="./fc23.pdf">R2: Boosting Liquidity in Payment Channel
+Networks with Online Admission Control (Combining On-chain Recharging with Off-chain Rebalancing)</a><br>
       Mahsa Bastankhah, Krishnendu Chatterjee, Mohammad Ali Maddah-Ali, Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
       Financial Cryptography and Data Security (<b>FC</b>), Bol, Brac, Croatia, May 2023.<br>
       Documents: paper&nbsp;<a href="./fc23.pdf">pdf</a>, 
