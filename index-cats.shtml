@@ -49,7 +49,16 @@
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
-       <li>
+          <li>
+      <p><a href="./tpds23.pdf">Performance Analysis of Machine Learning Centered Workload Prediction Models for Cloud</a><br>
+      Deepika Saxena, Jitendra Kumar, Ashutosh Kumar Singh, and Stefan Schmid.<br>
+      IEEE Transactions on Parallel and Distributed Systems (<b>TPDS</b>), 
+      2023.<br>
+      Documents: paper&nbsp;<a href="./tpds23.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+            <li>
       <p><a href="./ccr23parrot.pdf">P4RROT: Generating P4 Code for the Application Layer</a><br>
      Csaba Gy&ouml;rgyi, Sandor Laki, and Stefan Schmid.<br>
        ACM SIGCOMM Computer Communication Review (<b>CCR</b>), 2023.<br>
