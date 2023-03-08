@@ -137,7 +137,15 @@ Journal Computer Networks (<b>COMNET</b>), Elsevier, 2022.<br>
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
-                     <li>
+           <li>
+      <p><a href="./pmc22.pdf">Empirical Evaluation of Nodes and Channels of the Lightning Network</a><br>
+     Philipp Zabka, Klaus-Tycho Foerster, Stefan Schmid, and Christian Decker.<br>
+Pervasive and Mobile Computing (<b>PMC</b>), Elsevier, 2022.<br>
+      Documents: paper&nbsp;<a href="./pmc22.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                         <li>
       <p><a href="./jnca22.pdf">Optimizing Multicast Flows in High-Bandwidth Reconfigurable Datacenter Networks</a><br>
       Long Luo, Klaus-Tycho Foerster, 
       Stefan Schmid, and Hongfang Yu.<br>
@@ -153,13 +161,6 @@ Journal Computer Networks (<b>COMNET</b>), Elsevier, 2022.<br>
       Documents: paper&nbsp;<a href="./ton21prex.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
-           <li>
-      <p><a href="./pmc22.pdf">Empirical Evaluation of Nodes and Channels of the Lightning Network</a><br>
-     Philipp Zabka, Klaus-Tycho Foerster, Stefan Schmid, and Christian Decker.<br>
-Pervasive and Mobile Computing (<b>PMC</b>), Elsevier, 2022.<br>
-      Documents: paper&nbsp;<a href="./pmc22.pdf">pdf</a>, 
-      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
-    </li>
 
                    <li>
       <p><a href="./icissp20journal.pdf">Inferring Sensitive Information in Cryptocurrency Off-chain Networks using Probing and Timing Attacks</a><br>
