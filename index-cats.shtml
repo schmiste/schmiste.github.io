@@ -951,7 +951,25 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                                   <li>
+      <p><a href="./sirocco23pcn.pdf">Weighted Packet Selection for Rechargeable Links in Cryptocurrency Networks: Complexity and Approximation</a><br>
+      Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
+        30th International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>),  Alcala de Henares, Spain, June 2023.<br>
+              Documents: paper&nbsp;<a href="./sirocco23pcn.pdf">pdf</a>, 
+                             slides&nbsp;<a href="./sirocco23san-slides.pdf">pdf</a>,  
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
 
+
+                              <li>
+      <p><a href="./sirocco23san.pdf">Self-Adjusting Linear Networks with Ladder Demand Graph</a><br>
+      Vitaly Aksenov, Anton Paramonov, Iosif Salem, and Stefan Schmid.<br>
+        30th International Colloquium on Structural Information and Communication Complexity (<b>SIROCCO</b>),  Alcala de Henares, Spain, June 2023.<br>
+              Documents: paper&nbsp;<a href="./sirocco23san.pdf">pdf</a>, 
+                             slides&nbsp;<a href="./sirocco23san-slides.pdf">pdf</a>,  
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
         <li>
       <p><a href="./infocom23seed.pdf">SeedTree: A Dynamically Optimal and Local Self-Adjusting Tree</a><br>
       Arash Pourdamghani, Chen Avin, Robert Sama, and Stefan Schmid.<br>
