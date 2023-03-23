@@ -951,6 +951,30 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                      <li>
+      <p><a href="./spaa23frr.pdf">A Tight Characterization of Fast Failover Routing: Resiliency
+  to Two Link Failures is Possible</a><br>
+      Wenkai Dai, Klaus-Tycho Foerster, and Stefan Schmid.<br>
+      35th ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), 
+      Orlando, Florida, USA, June 2023.<br>
+      Documents: paper&nbsp;<a href="./spaa23frr.pdf">pdf</a>, 
+               slides&nbsp;<a href="./spaa23frr-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
+            <li>
+      <p><a href="./spaa23repartition.pdf">Polylog-Competitive Algorithms for Dynamic Balanced Graph
+  Partitioning for Ring Demands</a><br>
+      Harald R&auml;cke, Stefan Schmid, and Ruslan Zabrodin.<br>
+      35th ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), 
+      Orlando, Florida, USA, June 2023.<br>
+      Documents: paper&nbsp;<a href="./spaa23repartition.pdf">pdf</a>, 
+               slides&nbsp;<a href="./spaa23repartition-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
                                    <li>
       <p><a href="./sirocco23pcn.pdf">Weighted Packet Selection for Rechargeable Links in Cryptocurrency Networks: Complexity and Approximation</a><br>
       Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
