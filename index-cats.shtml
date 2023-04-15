@@ -49,6 +49,15 @@
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+                  <li>
+      <p><a href="./infocomp23.pdf">Self-Adjusting Grid Networks</a><br>
+      Chen Avin, Ingo van Duijn, Maciej Pacut, and Stefan Schmid.<br>
+      Elsevier Information and Computation,  
+      2023.<br>
+      Documents: paper&nbsp;<a href="./infocomp23.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
           <li>
       <p><a href="./tpds23.pdf">Performance Analysis of Machine Learning Centered Workload Prediction Models for Cloud</a><br>
       Deepika Saxena, Jitendra Kumar, Ashutosh Kumar Singh, and Stefan Schmid.<br>
@@ -3167,6 +3176,16 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>
+          <li>
+      <p><a href="./icciot23.pdf">Digital Twin-Empowered Resource Allocation for 6G-Enabled Massive IoT</a><br>
+      Elif Bozkaya, Berk Canberk and Stefan Schmid.<br>
+      Workshop on the Evolution of Digital Twin Paradigm in Wireless Communications, 
+       Rome, Italy, May 2023.<br>
+              Documents: paper&nbsp;<a href="./icciot23.pdf">pdf</a>, 
+              slides&nbsp;<a href="./icciot23-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+  
               <li>
           <p><a href="./netai19netboa.pdf">NetBOA: Self-Driving Network Benchmarking</a><br>
      Johannes Zerwas, Patrick Kalmbach, Laurenz Henkel, Gabor Retvari, 
