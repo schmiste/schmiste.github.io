@@ -49,6 +49,7 @@
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+
                   <li>
       <p><a href="./infocomp23.pdf">Self-Adjusting Grid Networks</a><br>
       Chen Avin, Ingo van Duijn, Maciej Pacut, and Stefan Schmid.<br>
@@ -67,6 +68,18 @@
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                  <li>
+              <p><a href="tompecs23.pdf">Load-Optimization in Reconfigurable Networks:
+              Algorithms and Complexity of Flow Routing</a><br>
+     Wenkai Dai, Klaus-Tycho Foerster, David Fuchssteiner, and Stefan Schmid.<br>
+       Transactions on Modeling and Performance Evaluation of Computing Systems (<b>TOMPECS</b>), 
+       2023.<br>
+              Documents: paper&nbsp;<a href="tompecs23.pdf">pdf</a>,
+       slides&nbsp;<a href="./perf20loaddan-slides.pdf">pdf</a>, 
+       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+</p>
+    </li>
+    
             <li>
       <p><a href="./ccr23parrot.pdf">P4RROT: Generating P4 Code for the Application Layer</a><br>
      Csaba Gy&ouml;rgyi, Sandor Laki, and Stefan Schmid.<br>
