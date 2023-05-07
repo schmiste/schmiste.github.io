@@ -13,6 +13,152 @@
 
   <p><em>SOLA Distanzen &auml;ndern von Jahr zu Jahr und stimmen nur ungef&auml;hr...</em></p>
 
+    <h1><a name="sola23" id=
+  "sola22">anaerob 2023</a></h1>
+
+
+    <table summary="Ergebnisse 2023" border="1" frame="hsides"
+    rules="rows">
+      <thead>
+        <tr>
+          <th>Abschnitt</th>
+          <th>Start</th>
+          <th>Ziel</th>
+          <th>Distanz</th>
+          <th>Steigung</th>
+          <th>L&auml;ufer/in</th>
+        </tr>
+      </thead>
+
+      <tbody>
+        <tr>
+          <td class="strecke">Strecke 1</td>
+          <td>Bucheggplatz</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">4.40 km</td>
+          <td class="rechts">60 m</td>
+          <td>Bettina Fanconi</a></td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 2</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Buchlern</td>
+          <td class="rechts">13.25 km</td>
+          <td class="rechts">130 m</td>
+          <td>Ricardo Hahn</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 3</td>
+          <td>Buchlern</td>
+          <td>&Uuml;etliberg</td>
+          <td class="rechts">6.20 km</td>
+          <td class="rechts">420 m</td>
+          <td>Loris Bonotto</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 4</td>
+          <td>&Uuml;etliberg</td>
+          <td>Felsenegg</td>
+          <td class="rechts">5.90 km</td>
+          <td class="rechts">160 m</td>
+          <td>Kai Br&uuml;nnler</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 5</td>
+          <td>Felsenegg</td>
+          <td>Buchlern</td>
+          <td class="rechts">14.27 km</td>
+          <td class="rechts">330 m</td>
+          <td>Philipp Schmid</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 6</td>
+          <td>Buchlern</td>
+          <td>H&ouml;nggerberg</td>
+          <td class="rechts">11.10 km</td>
+          <td class="rechts">180 m</td>
+          <td>Tobias Lieber</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 7</td>
+          <td>H&ouml;nggerberg</td>
+          <td>Irchel</td>
+          <td class="rechts">5.10 km</td>
+          <td class="rechts">45 m</td>
+          <td>Daniel Schwyn</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 8</td>
+          <td>Irchel</td>
+          <td>Fluntern</td>
+          <td class="rechts">6.15 km</td>
+          <td class="rechts">205 m</td>
+          <td>Stefan Schmid</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 9</td>
+          <td>Fluntern</td>
+          <td>Forch</td>
+          <td class="rechts">11.31 km</td>
+          <td class="rechts">260 m</td>
+          <td>Ana Schmid Pelevic</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 10</td>
+          <td>Forch</td>
+          <td>Egg</td>
+          <td class="rechts">8.63 km</td>
+          <td class="rechts">175 m</td>
+          <td>Petr Kuznetsov</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 11</td>
+          <td>Egg</td>
+          <td>Zumikon</td>
+          <td class="rechts">12.99 km</td>
+          <td class="rechts">400 m</td>
+          <td>Markus Kern</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 12</td>
+          <td>Zumikon</td>
+          <td>Witikon</td>
+          <td class="rechts">6.91 km</td>
+          <td class="rechts">120 m</td>
+          <td>Stefan</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 13</td>
+          <td>Witikon</td>
+          <td>Fluntern</td>
+          <td class="rechts">4.90 km</td>
+          <td class="rechts">90 m</td>
+          <td>Sabrina Kall</td>
+        </tr>
+
+        <tr>
+          <td class="strecke">Strecke 14</td>
+          <td>Fluntern</td>
+          <td>Irchel</td>
+          <td class="rechts">5.64 km</td>
+          <td class="rechts">60 m</td>
+          <td>Helen Kuru</td>
+        </tr>
+      </tbody>
+    </table>
+
     <h1><a name="sola22" id=
   "sola22">anaerob 2022</a></h1>
 
