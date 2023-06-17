@@ -31,6 +31,25 @@
   <h2>Journals</h2>
 
   <ul>
+             <li>
+      <p><a href="./scico23.pdf">AllSynth: A BDD-Based Approach for Network Update Synthesis</a><br>
+        Kim Guldstrand Larsen, Anders Mariegaard, Stefan Schmid, and Jiri Srba.<br>
+        Science of Computer Programming (<b>SCICO</b>), 
+            2023.<br>
+              Documents: paper&nbsp;<a href="./scico23.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+        <li>
+      <p><a href="./ton23route.pdf">Robust Routing Made Easy:
+Reinforcing Networks Against Non-Benign Faults</a><br>
+      Christoph Lenzen, Moti Medina, Mehrdad Saberi, and Stefan Schmid.<br>
+        IEEE/ACM Transactions on Networking (<b>TON</b>), 2023.<br> 
+              Documents: paper&nbsp;<a href="./ton23route.pdf">pdf</a>, 
+              slides&nbsp;<a href="./ton23route-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+  
         <li>
       <p><a href="./ton23p6.pdf">Runtime Verification for Programmable Switches</a><br>
       Apoorv Shukla, Kevin Hudemann, Zsolt Vagi, Lily H&uuml;gerich, Georgios Smaragdakis, Artur Hecker, Stefan Schmid, and Anja Feldmann.<br>
@@ -945,6 +964,19 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>  
+                     <li>
+      <p><a href="./sc23.pdf">
+     Optimizing Reconfigurable Optical Datacenters: The Power of Randomization
+</a><br>
+      Marcin Bienkowski, David Fuchssteiner, and Stefan Schmid.<br>
+                 International Conference for High Performance
+Computing, Networking, Storage, and Analysis (<b>SC</b>), 
+           Denver, Colorado, USA, November 2023.<br>
+      Documents: paper&nbsp;<a href="./sc23.pdf">pdf</a>, 
+               slides&nbsp;<a href="./sc23-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
                            <li>
       <p><a href="./sigmetrics23mars.pdf">
      Mars: Near-Optimal Throughput with Shallow Buffers in Reconfigurable Datacenter Networks
