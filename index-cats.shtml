@@ -978,6 +978,8 @@ aka ACM/IEEE Supercomputing,
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+
+
                      <li>
       <p><a href="./esa23.pdf">
      Online Algorithms with Randomly Infused Advice
@@ -3235,6 +3237,17 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>
+                         <li>
+      <p><a href="./ebpf23.pdf">
+     TCP's Third Eye: Leveraging eBPF for Telemetry-Powered Congestion Control</a><br>
+      J&ouml;rn-Thorben Hinz, Vamsi Addanki, Csaba Gy&ouml;rgyi, Theo Jepsen, and Stefan Schmid.<br>
+                SIGCOMM Workshop on eBPF and Kernel Extensions (<b>eBPF</b>), 
+           Columbia University, New York City, New York, USA; September 2023.<br>
+      Documents: paper&nbsp;<a href="./ebpf23.pdf">pdf</a>, 
+               slides&nbsp;<a href="./ebpf23-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
           <li>
       <p><a href="./icciot23.pdf">Digital Twin-Empowered Resource Allocation for 6G-Enabled Massive IoT</a><br>
       Elif Bozkaya, Berk Canberk and Stefan Schmid.<br>
