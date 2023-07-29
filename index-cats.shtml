@@ -31,6 +31,14 @@
   <h2>Journals</h2>
 
   <ul>
+        <li>
+      <p><a href="./commag23.pdf">Resource Management for Programmable Metasurfaces: Concept, Prospects and Challenges</a><br>
+      Christos Liaskos, Kostas Katsalis, Joan Triay, and Stefan Schmid.<br>
+        IEEE Communications Magazine (<b>COMMAG</b>), 2023.<br> 
+              Documents: paper&nbsp;<a href="./commag23.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+  
              <li>
       <p><a href="./scico23.pdf">AllSynth: A BDD-Based Approach for Network Update Synthesis</a><br>
         Kim Guldstrand Larsen, Anders Mariegaard, Stefan Schmid, and Jiri Srba.<br>
@@ -3242,7 +3250,7 @@ Service Migration in Virtual Networks</a><br>
      TCP's Third Eye: Leveraging eBPF for Telemetry-Powered Congestion Control</a><br>
       J&ouml;rn-Thorben Hinz, Vamsi Addanki, Csaba Gy&ouml;rgyi, Theo Jepsen, and Stefan Schmid.<br>
                 SIGCOMM Workshop on eBPF and Kernel Extensions (<b>eBPF</b>), 
-           Columbia University, New York City, New York, USA; September 2023.<br>
+           Columbia University, New York City, New York, USA, September 2023.<br>
       Documents: paper&nbsp;<a href="./ebpf23.pdf">pdf</a>, 
                slides&nbsp;<a href="./ebpf23-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
