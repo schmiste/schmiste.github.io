@@ -998,6 +998,16 @@ Despite Adaptive Jamming</a><br>
       bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
     
+          <li>
+      <p><a href="./opodis23.pdf">On the Convergence Time in Graphical Games: A Locality-Sensitive Approach</a><br>
+      Juho Hirvonen, Laura Schmid, Krishnendu Chatterjee, and Stefan Schmid.<br>
+       27th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Tokyo, Japan, December 2023.<br>
+              Documents: paper&nbsp;<a href="./opodis23.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis23slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
                      <li>
       <p><a href="./sc23.pdf">
      Optimizing Reconfigurable Optical Datacenters: The Power of Randomization
