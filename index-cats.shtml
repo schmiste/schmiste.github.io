@@ -31,7 +31,17 @@
   <h2>Journals</h2>
 
   <ul>
-             <li>
+        <li>
+      <p><a href="./fc22centrality.pdf">A Centrality Analysis of the Lightning Network</a><br>
+      Philipp Zabka, Klaus-Tycho Foerster, Christian Decker, and Stefan Schmid.<br>
+      Telecommunications Policy (<b>JTPO</b>), Elsevier, 
+      Special issue: Economic, social and political impact of blockchain. 2024.<br>
+      Documents: paper&nbsp;<a href="./fc22centrality.pdf">pdf</a>, 
+               slides&nbsp;<a href="./fc22centrality-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                  <li>
               <p><a href="ton23anf.pdf">Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands</a><br>
      Anya Chaturvedi, Chandra Chekuri, Andrea Richa, Matthias Rost, Stefan Schmid, and Jamison Weber.<br>
         IEEE/ACM Transactions on Networking (<b>TON</b>), 2023.<br> 
