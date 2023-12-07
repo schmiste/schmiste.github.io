@@ -1003,7 +1003,7 @@ Despite Adaptive Jamming</a><br>
       <p><a href="./infocom24syper.pdf">SyPer: Synthesis of Perfectly Resilient Local Fast Rerouting Rules for Highly Dependable Networks</a><br>
       Csaba Gy&ouml;rgyi, Kim G. Larsen, Stefan Schmid, and Jiri Srba.<br>
        IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
-       Vancouver, Canada, May 2023.<br>
+       Vancouver, Canada, May 2024.<br>
               Documents: paper&nbsp;<a href="./infocom24syper.pdf">pdf</a>, 
               slides&nbsp;<a href="./infocom24syper-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
@@ -1013,7 +1013,7 @@ Despite Adaptive Jamming</a><br>
       <p><a href="./infocom24caching.pdf">Dependency-Aware Online Caching</a><br>
       Julien Dallot, Amirmehdi Jafari Fesharaki, Maciej Pacut, and Stefan Schmid.<br>
        IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
-       Vancouver, Canada, May 2023.<br>
+       Vancouver, Canada, May 2024.<br>
               Documents: paper&nbsp;<a href="./infocom24caching.pdf">pdf</a>, 
               slides&nbsp;<a href="./infocom24caching-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
@@ -1023,7 +1023,7 @@ Despite Adaptive Jamming</a><br>
       <p><a href="./infocom24dan.pdf">Approximation Algorithms for Minimizing Congestion in Demand-Aware Networks</a><br>
       Wenkai Dai, Mike Dinitz, Klaus-Tycho F&ouml;rster, Long Luo, and Stefan Schmid.<br>
        IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
-       Vancouver, Canada, May 2023.<br>
+       Vancouver, Canada, May 2024.<br>
               Documents: paper&nbsp;<a href="./infocom24dan.pdf">pdf</a>, 
               slides&nbsp;<a href="./infocom24caching-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
@@ -1033,12 +1033,34 @@ Despite Adaptive Jamming</a><br>
       <p><a href="./infocom24update.pdf">Fast Algorithms for Loop-Free Network Updates using Linear Programming and Local Search</a><br>
       Radu Vintan, Harald R&auml;cke, and Stefan Schmid.<br>
        IEEE Conference on Computer Communications (<b>INFOCOM</b>), 
-       Vancouver, Canada, May 2023.<br>
+       Vancouver, Canada, May 2024.<br>
               Documents: paper&nbsp;<a href="./infocom24update.pdf">pdf</a>, 
               slides&nbsp;<a href="./infocom24caching-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
 
+            <li>
+      <p><a href="nsdi24credence.pdf">Credence: Augmenting Datacenter Switch Buffer Sharing with ML
+  Predictions</a><br>
+      Vamsi Addanki, Maciej Pacut, and Stefan Schmid.<br>
+      21st USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), Renton, 
+      Santa Clara, California, USA, April 2022.<br>
+ Documents: paper&nbsp;<a href="nsdi24credence.pdf">pdf</a>,
+      slides&nbsp;<a href="nsdi24credence-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+  </li>
+
+          <li>
+      <p><a href="nsdi24reverie.pdf">Reverie: Low Pass Filter-Based Switch Buffer Sharing for
+  Datacenters with RDMA and TCP Traffic</a><br>
+      Vamsi Addanki, Wei Bai, Stefan Schmid, and Maria Apostolaki.<br>
+      21st USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), Renton, 
+      Santa Clara, California, USA, April 2022.<br>
+ Documents: paper&nbsp;<a href="nsdi24reverie.pdf">pdf</a>,
+      slides&nbsp;<a href="nsdi24reverie-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+  </li>
+  
        <li>
       <p><a href="./icdcn24.pdf">Tero: Offloading CDN Traffic to Massively Distributed Devices</a><br>
      Juan Vanerio, Lily H&uuml;gerich, and Stefan Schmid.<br>
