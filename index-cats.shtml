@@ -1060,6 +1060,16 @@ Despite Adaptive Jamming</a><br>
       slides&nbsp;<a href="nsdi24reverie-slides.pdf">pdf</a>, 
       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
   </li>
+
+                  <li>
+      <p><a href="./stacs24.pdf">A Subquadratic Bound for Online Bisection</a><br>
+     Marcin Bienkowski and Stefan Schmid.<br>
+41st International Symposium on Theoretical Aspects of Computer Science (<b>STACS</b>), 
+Clermont-Ferrand, France, March 2024.<br>
+      Documents: paper&nbsp;<a href="./stacs24.pdf">pdf</a>, 
+      slides&nbsp;<a href="./stacs24-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
   
        <li>
       <p><a href="./icdcn24.pdf">Tero: Offloading CDN Traffic to Massively Distributed Devices</a><br>
