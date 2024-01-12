@@ -40,14 +40,38 @@
   </li>
   
         <li>
-      <p><a href="./fc22centrality.pdf">A Centrality Analysis of the Lightning Network</a><br>
+      <p><a href="./jtpo24.pdf">A Centrality Analysis of the Lightning Network</a><br>
       Philipp Zabka, Klaus-Tycho Foerster, Christian Decker, and Stefan Schmid.<br>
       Telecommunications Policy (<b>JTPO</b>), Elsevier, 
       Special issue: Economic, social and political impact of blockchain. 2024.<br>
-      Documents: paper&nbsp;<a href="./fc22centrality.pdf">pdf</a>, 
+      Documents: paper&nbsp;<a href="./jtpo24.pdf">pdf</a>, 
                slides&nbsp;<a href="./fc22centrality-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+                                        <li>
+      <p><a href="./tcs24pcn.pdf">Weighted Packet Selection for Rechargeable Links in Cryptocurrency Networks: Complexity and Approximation</a><br>
+      Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
+        Journal Theoretical Computer Science (<b>TCS</b>), Elsevier, 2024.<br>
+              Documents: paper&nbsp;<a href="./tcs24pcn.pdf">pdf</a>, 
+                             slides&nbsp;<a href="./sirocco23san-slides.pdf">pdf</a>,  
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+                       <li>
+      <p><a href="./algo24.pdf">The Time Complexity of Consensus UnderOblivious Message Adversaries</a><br>
+      Hugo Rincon Galeana, Ami Paz, Stefan Schmid, Ulrich Schmid, and Kyrill Winkler.<br>
+Algorithmica (<b>ALGO</b>), 2024.<br>
+      Documents: paper&nbsp;<a href="./algo24.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+                                       <li>
+      <p><a href="./ieeeoj24.pdf">AI-RAN in 6G Networks State-of-the-Art and Challenges</a><br>
+      Naveed Ali Kaim Khani and Stefan Schmid.<br>
+        IEEE Open Journal of the Communications Society, 2024.<br>
+              Documents: paper&nbsp;<a href="./ieeeoj24.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
 
                   <li>
               <p><a href="ton23anf.pdf">Improved Throughput for All-or-Nothing Multicommodity Flows with Arbitrary Demands</a><br>
@@ -1047,6 +1071,16 @@ Despite Adaptive Jamming</a><br>
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
 
+                <li>
+      <p><a href="./noms24.pdf">Congestion-Free Rerouting of Network Flows: Hardness and an FPT Algorithm</a><br>
+      Esra Ceylan, Jakub Svoboda, Krishnendu Chatterjee, and Stefan Schmid.<br>
+       IEEE/IFIP Network Operations and Management Symposium (<b>NOMS</b>), Mini-Conference, 
+       Seoul, South Korea, May 2024.<br>
+              Documents: paper&nbsp;<a href="./noms24.pdf">pdf</a>, 
+              slides&nbsp;<a href="./noms24-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+
             <li>
       <p><a href="nsdi24credence.pdf">Credence: Augmenting Datacenter Switch Buffer Sharing with ML
   Predictions</a><br>
@@ -1760,7 +1794,7 @@ Monika Henzinger, Ami Paz, and Stefan Schmid.<br>
 Esra Ceylan, Klaus-Tycho Foerster, Stefan Schmid, and Katsiaryna Zaitsava.<br>
       <b>IFIP Networking</b>, 
      Aalto University, Finland, Virtual Conference, June 2021.<br>
-      Documents: paper&nbsp;<a href="./ifip21dan.df">pdf</a>, 
+      Documents: paper&nbsp;<a href="./ifip21dan.pdf">pdf</a>, 
                   video&nbsp;<a href="./IFIP-Video.mp4">mp4</a>,
             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
