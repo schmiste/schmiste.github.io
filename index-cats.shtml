@@ -38,6 +38,7 @@
               Documents: paper&nbsp;<a href="./srep24.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
+
   
         <li>
       <p><a href="./jtpo24.pdf">A Centrality Analysis of the Lightning Network</a><br>
@@ -49,6 +50,14 @@
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                                <li>
+      <p><a href="./games24.pdf">Broomrocket: Open Source Text-to-3D Algorithm for 3D Object Placement</a><br>
+     Sanja Bonic, Janos Bonic, and Stefan Schmid.<br>
+ACM Games: Research and Practice (<b>GAMES</b>), 2024.<br>
+      Documents: paper&nbsp;<a href="./games24.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+
                                         <li>
       <p><a href="./tcs24pcn.pdf">Weighted Packet Selection for Rechargeable Links in Cryptocurrency Networks: Complexity and Approximation</a><br>
       Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
@@ -59,7 +68,7 @@
     </li>
 
                        <li>
-      <p><a href="./algo24.pdf">The Time Complexity of Consensus UnderOblivious Message Adversaries</a><br>
+      <p><a href="./algo24.pdf">The Time Complexity of Consensus Under Oblivious Message Adversaries</a><br>
       Hugo Rincon Galeana, Ami Paz, Stefan Schmid, Ulrich Schmid, and Kyrill Winkler.<br>
 Algorithmica (<b>ALGO</b>), 2024.<br>
       Documents: paper&nbsp;<a href="./algo24.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
