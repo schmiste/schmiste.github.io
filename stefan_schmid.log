@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.8)  8 APR 2023 14:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.8)  1 APR 2024 15:50
 entering extended mode
 **./stefan_schmid.tex
 (stefan_schmid.tex
@@ -28,9 +28,13 @@ Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
 Package: fullpage 1999/02/23 1.1 (PWD)
 \FP@margin=\skip49
 )
+(C:\Users\schmids34cs\AppData\Roaming\MiKTeX\2.9\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/07/15 v2.5i e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count184
+)
 (C:\Users\schmids34cs\AppData\Roaming\MiKTeX\2.9\tex/latex/l3backend\l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-06-29 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count184
+\l__kernel_color_stack_int=\count185
 \l__pdf_internal_box=\box50
 )
 
@@ -40,31 +44,39 @@ LaTeX Warning: Unused global option(s):
 (stefan_schmid.aux)
 \openout1 = `stefan_schmid.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
-LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
 
 
-LaTeX Warning: Citation `jsac20roscoe' undefined on input line 15.
+LaTeX Warning: Citation `jsac20roscoe' undefined on input line 20.
 
 
-LaTeX Warning: Citation `iwqos19' undefined on input line 15.
+LaTeX Warning: Citation `iwqos19' undefined on input line 20.
 
 
-LaTeX Warning: Citation `jsac19timed' undefined on input line 15.
+LaTeX Warning: Citation `jsac19timed' undefined on input line 20.
 
-(stefan_schmid.bbl
+
+LaTeX Warning: Citation `jstat17' undefined on input line 20.
+
+
+LaTeX Warning: Citation `chep04stefan' undefined on input line 20.
+
+(stefan_schmid.bbl [1
+
+{C:/Users/schmids34cs/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2] [3]
 
 ! Package inputenc Error: Unicode character ̈ (U+0308)
 (inputenc)                not set up for use with LaTeX.
@@ -73,16 +85,14 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.29 \newblock Die technologischen ansä
-                                         tze und herausforderungen des web3 und
+l.357 \newblock Die technologischen ansä
+                                          tze und herausforderungen des web3...
 You may provide a definition with
 \DeclareUnicodeCharacter 
 
-[1
-
-{C:/Users/schmids34cs/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
+[4] [5] [6]
 ! Misplaced alignment tab character &.
-l.298 Gregor Bankhamer, Robert Els&
+l.626 Gregor Bankhamer, Robert Els&
                                    auml;sser, and Stefan Schmid.
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -91,24 +101,46 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[3] [4] [5] [6] [7] [8] [9] [10] [11] [12]) [13] (stefan_schmid.aux)
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] [17] [18] [19]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 1939.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 1939.
+ [20] [21] [22] [23]
+
+! Package inputenc Error: Unicode character � (U+FFFD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2290 \newblock {\em ERCIM News}, (88):56�
+                                             57, January 2012.
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+[24] [25] [26] [27]) [28] (stefan_schmid.aux)
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 628 strings out of 479888
- 10493 string characters out of 2880379
- 288869 words of memory out of 3000000
- 17576 multiletter control sequences out of 15000+600000
+ 1170 strings out of 479888
+ 16752 string characters out of 2880379
+ 310833 words of memory out of 3000000
+ 18114 multiletter control sequences out of 15000+600000
  536039 words of font info for 32 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 45i,5n,52p,2140b,215s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 45i,5n,52p,4505b,216s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
 /amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on stefan_schmid.pdf (13 pages, 107114 bytes).
+Output written on stefan_schmid.pdf (28 pages, 162644 bytes).
 PDF statistics:
- 60 PDF objects out of 1000 (max. 8388607)
+ 107 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
