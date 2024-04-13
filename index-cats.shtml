@@ -1049,6 +1049,16 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+         <li>
+      <p><a href="./icdcs24.pdf">Online Minimum Linear Arrangement of Cliques and Lines</a><br>
+      Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk and Stefan Schmid.<br>
+        44th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Jersey City, New Jersey, USA, July 2024.<br>
+              Documents: paper&nbsp;<a href="./icdcs24.pdf">pdf</a>, 
+                            slides&nbsp;<a href="./icdcs24slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
            <li>
       <p><a href="./dsn24frr.pdf">SyRep: Efficient Synthesis and Repair of Fast Re-Route Forwarding Tables for Resilient Networks</a><br>
       Csaba Gy&ouml;rgyi, Kim G. Larsen, Stefan Schmid, and Jiri Srba.<br>
