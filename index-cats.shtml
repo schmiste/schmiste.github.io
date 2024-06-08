@@ -1050,7 +1050,7 @@ Despite Adaptive Jamming</a><br>
      </li>
 
          <li>
-      <p><a href="./icdcs24.pdf">Online Minimum Linear Arrangement of Cliques and Lines</a><br>
+      <p><a href="./icdcs24.pdf">Learning Minimum Linear Arrangement of Cliques and Lines</a><br>
       Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, and Stefan Schmid.<br>
         44th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
         Jersey City, New Jersey, USA, July 2024.<br>
@@ -1069,13 +1069,33 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
-         <li>
+                      <li>
+      <p><a href="./spaa24ba.pdf">Brief Announcement: Minimizing the Weighted Average Shortest Path Length in Demand-Aware Networks via Matching Augmentation</a><br>
+      Aleksander Figiel, Darya Melnyk, Andr&eacute; Nichterlein, Arash Pourdamghani, and Stefan Schmid. <br>
+      ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), Nantes, France, June 2024.<br>
+      Documents: paper&nbsp;<a href="./spaa24ba.pdf">pdf</a>, 
+               slides&nbsp;<a href="./spaa24ba-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
+                 <li>
+      <p><a href="./podc24ba.pdf">Brief Announcement: Musketeer - Incentive-Compatible
+  Rebalancing for Payment Channel Networks</a><br>
+       Zeta Avarikioti, Stefan Schmid and Samarth Tawari.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Nantes, France, June 2024.<br>
+      Documents: paper&nbsp;<a href="./podc24ba.pdf">pdf</a>, 
+               slides&nbsp;<a href="./podc24ba-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+    <li>
       <p><a href="./ifip24cdn.pdf">Baiji: Domain Planning for CDNs under the 95th Percentile Billing Model</a><br>
      Juan Vanerio, Huiran Liu, Qi Zhang, and Stefan Schmid.<br>
       <b>IFIP Networking</b>, 
      Thessaloniki, Greece, June 2024.<br>
       Documents: paper&nbsp;<a href="./ifip24cdn.pdf">pdf</a>, 
-                        slides&nbsp;<a href="./ifip24cdn-slides.pdf">pdf</a>,    
+                        slides&nbsp;<a href="./ifip24cdn-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
     </li>  
 
         <li>
@@ -1084,9 +1104,10 @@ Despite Adaptive Jamming</a><br>
       <b>IFIP Networking</b>, 
      Thessaloniki, Greece, June 2024.<br>
       Documents: paper&nbsp;<a href="./ifip24pcn.pdf">pdf</a>, 
-                        slides&nbsp;<a href="./ifip24pcn-slides.pdf">pdf</a>,    
+                        slides&nbsp;<a href="./ifip24pcn-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
     </li>  
-    
+
 
               <li>
       <p><a href="./infocom24syper.pdf">SyPer: Synthesis of Perfectly Resilient Local Fast Rerouting Rules for Highly Dependable Networks</a><br>
