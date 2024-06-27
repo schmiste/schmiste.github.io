@@ -1049,6 +1049,18 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                          <li>
+      <p><a href="./esa24.pdf">
+     Toward Self-Adjusting k-ary Search Tree Networks
+</a><br>
+      Evgeniy Feder, Anton Paramonov, Pavel Mavrin, Iosif Salem, Vitaly Aksenov, and Stefan Schmid.<br>
+                 European Symposium on Algorithms (<b>ESA</b>), 
+            Royal Holloway University of London, Egham, United Kingdom, September 2024.<br>
+      Documents: paper&nbsp;<a href="./esa24.pdf">pdf</a>, 
+               slides&nbsp;<a href="./esa24-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
          <li>
       <p><a href="./icdcs24.pdf">Learning Minimum Linear Arrangement of Cliques and Lines</a><br>
       Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, and Stefan Schmid.<br>
