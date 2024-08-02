@@ -1039,7 +1039,18 @@ Despite Adaptive Jamming</a><br>
 
   <h2>Conferences</h2>
   
-  <ul>         <li>
+  <ul>   
+                    <li>
+      <p><a href="nsdi25pyrrha.pdf">Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter</a><br>
+      Kexin Liu, Zhaochen Zhang, Chang Liu, Yizhi Wang, Qingyue Wang, Vamsi Addanki, Stefan Schmid, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Wanchun Dou, Guihai Chen, and Chen Tian.<br>
+      22nd USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>),  
+      Philadelphia, Pennsylvania, USA, April 2025.<br>
+ Documents: paper&nbsp;<a href="nsdi25pyrrha.pdf">pdf</a>,
+      slides&nbsp;<a href="nsdi25pyrrha-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+  </li>
+
+           <li>
       <p><a href="./mw24.pdf">L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh</a><br>
       Olivier Michaelis, Stefan Schmid, and Habib Mostafaei.<br>
       25th ACM/IFIP International Middleware Conference (<b>Middleware</b>), 
@@ -1049,7 +1060,28 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
-                      <li>
+     <li>
+              <p><a href="disc24.pdf">Broadcast and Consensus in Stochastic Dynamic Networks with
+Byzantine Nodes and Adversarial Edges</a><br>
+    Antoine El-Hayek, Monika Henzinger, and Stefan Schmid.<br> 
+       International Symposium on Distributed Computing  (<b>DISC</b>),  Madrid, Spain, October 2024.<br>
+              Documents: paper&nbsp;<a href="disc24.pdf">pdf</a>,
+             slides&nbsp;<a href="disc24-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+
+         <li>
+              <p><a href="6gnet24.pdf">RIS as a Network Resource: Pricing and User Multiplexing Algorithms</a><br>
+    Alexandros Ioannis Papadopoulos, Antonios Lalas, Konstantinos Votis, Stefan Schmid, and Christos Liaskos.<br> 
+       International Conference on 6G Networking  (<b>6GNet</b>), Paris, France, October 2024.<br>
+              Documents: paper&nbsp;<a href="6gnet24.pdf">pdf</a>,
+             slides&nbsp;<a href="6gnet24-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+      
+                            <li>
       <p><a href="./aft24.pdf">Musketeer: Incentive-Compatible
   Rebalancing for Payment Channel Networks</a><br>
        Zeta Avarikioti, Stefan Schmid, and Samarth Tawari.<br>
