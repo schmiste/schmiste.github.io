@@ -1050,6 +1050,17 @@ Despite Adaptive Jamming</a><br>
       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
   </li>
 
+       <li>
+      <p><a href="./alenex25.pdf">SpiderDAN: Matching Augmentation in Demand-Aware Networks</a><br>
+      Aleksander Figiel, Darya Melnyk, Andre Nichterlein, Arash Pourdamghani, and Stefan Schmid.<br>
+      SIAM Symposium on Algorithm Engineering and Experiments (<b>ALENEX</b>), 
+      New Orleans, Louisiana, USA, January 2025.<br>
+      Documents: paper&nbsp;<a href="./alenex25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./alenex25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
            <li>
       <p><a href="./mw24.pdf">L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh</a><br>
       Olivier Michaelis, Stefan Schmid, and Habib Mostafaei.<br>
@@ -3546,6 +3557,17 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>         
+            <li>
+              <p><a href="leonet24.pdf">Starlink Performance through the Edge Router Lens</a><br>
+    Sarah-Michelle Hammer, Vamsi Addanki, Max Franke, and Stefan Schmid.<br> 
+       2nd ACM MobiCom Workshop on LEO Networking and Communication (<b>LEO-NET</b>),  Washington, D.C., USA, November 2024.<br>
+              Documents: paper&nbsp;<a href="leonet24.pdf">pdf</a>,
+             slides&nbsp;<a href="leonet24-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+
+
      <li>
       <p><a href="./applied24.pdf">Invited Paper: Blockchain Governance and Liquid Democracy – Quantifying
 Decentralization in Gitcoin and Internet Computer</a><br>
