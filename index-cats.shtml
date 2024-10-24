@@ -1060,6 +1060,35 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+          <li>
+      <p><a href="./opodis24dan.pdf">Efficient Algorithms for Demand-Aware Networks and a Connection to Virtual Network Embedding</a><br>
+      Aleksander Figiel, Janne H. Korhonen, Neil Olver, and Stefan Schmid.<br>
+       28th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Lucca, Italy, December 2024.<br>
+              Documents: paper&nbsp;<a href="./opodis24dan.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis24dan-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+              <li>
+      <p><a href="./opodis24hash.pdf">Hash &amp; Adjust: Competitive Demand-Aware Consistent Hashing</a><br>
+      Arash Pourdamghani, Chen Avin, Robert Sama, Maryam Shiran, and Stefan Schmid.<br>
+       28th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Lucca, Italy, December 2024.<br>
+              Documents: paper&nbsp;<a href="./opodis24hash.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis24hash-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+              <li>
+      <p><a href="./opodis24bc.pdf">Dynamic Probabilistic Reliable Broadcast</a><br>
+      Joao Paulo Bezerra, Veronika Anikina, Petr Kuznetsov, Liron Schiff, and Stefan Schmid.<br>
+       28th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Lucca, Italy, December 2024.<br>
+              Documents: paper&nbsp;<a href="./opodis24bc.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis24bc-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
 
            <li>
       <p><a href="./mw24.pdf">L3: Latency-aware Load Balancing in Multi-Cluster Service Mesh</a><br>
@@ -1111,7 +1140,7 @@ Byzantine Nodes and Adversarial Edges</a><br>
                     bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
    </p>
       </li>
-      
+
                             <li>
       <p><a href="./aft24.pdf">Musketeer: Incentive-Compatible
   Rebalancing for Payment Channel Networks</a><br>
