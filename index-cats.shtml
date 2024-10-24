@@ -1092,6 +1092,26 @@ Byzantine Nodes and Adversarial Edges</a><br>
    </p>
       </li>
       
+                     <li>
+              <p><a href="nca24mc.pdf">MCQUIC - A Multicast Extension for QUIC</a><br>
+   Max Franke, Jake Holland, and Stefan Schmid.<br> 
+       22nd International Symposium on Network Computing and Applications  (<b>NCA</b>), Bertinoro, Italy, October 2024.<br>
+              Documents: paper&nbsp;<a href="nca24mc.pdf">pdf</a>,
+             slides&nbsp;<a href="nca24mc-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+
+               <li>
+              <p><a href="nca24da.pdf">A Demand-aware Networked System Using Telemetry and ML with ReactNET</a><br>
+    Milad Miri, Stefan Schmid, and Habib Mostafaei.<br> 
+       22nd International Symposium on Network Computing and Applications  (<b>NCA</b>), Bertinoro, Italy, October 2024.<br>
+              Documents: paper&nbsp;<a href="nca24da.pdf">pdf</a>,
+             slides&nbsp;<a href="nca24da-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+      
                             <li>
       <p><a href="./aft24.pdf">Musketeer: Incentive-Compatible
   Rebalancing for Payment Channel Networks</a><br>
