@@ -1100,6 +1100,16 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+        <li>
+              <p><a href="cscn24.pdf">RIS-assisted 6G Networks: Challenges and Tradeoffs in Control Standardization</a><br>
+    Ehsan Tohidi, Max Franke, Andre C. Drummond, Stefan Schmid, Admela Jukan, and Slawomir Stanczak.<br> 
+       IEEE Conference on Standards for Communications and Networking (<b>CSCN</b>),  Belgrade, Serbia, November 2024.<br>
+              Documents: paper&nbsp;<a href="cscn24.pdf">pdf</a>,
+             slides&nbsp;<a href="cscn24-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+      
      <li>
               <p><a href="disc24.pdf">Broadcast and Consensus in Stochastic Dynamic Networks with
 Byzantine Nodes and Adversarial Edges</a><br>
