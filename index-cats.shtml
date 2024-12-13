@@ -1152,6 +1152,16 @@ Byzantine Nodes and Adversarial Edges</a><br>
       </li>
 
                             <li>
+      <p><a href="./sss24.pdf">Self-Adjusting Linear Networks</a><br>
+     Chen Avin, Ingo van Duijn, and Stefan Schmid.<br>
+      26th International Symposium on Stabilization, Safety,
+      and Security of Distributed Systems (<b>SSS</b>), 
+      Nagoya International Center, Aichi, Japan, October 2024.<br>
+      Documents: paper&nbsp;<a href="./sss24.pdf">pdf</a>, slides&nbsp;<a href="./sss24slides.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
+
+                            <li>
       <p><a href="./aft24.pdf">Musketeer: Incentive-Compatible
   Rebalancing for Payment Channel Networks</a><br>
        Zeta Avarikioti, Stefan Schmid, and Samarth Tawari.<br>
