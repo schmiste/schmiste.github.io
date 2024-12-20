@@ -31,6 +31,14 @@
   <h2>Journals</h2>
 
   <ul>
+                        <li>
+      <p><a href="./cacm25.pdf">Revolutionizing Datacenter Networks via Reconfigurable Topologies</a><br>
+      Chen Avin and Stefan Schmid.<br>
+     Communications of the ACM (<b>CACM</b>), 2025.<br>
+      Documents: paper&nbsp;<a href="./cacm25.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
                       <li>
       <p><a href="./srep24.pdf">Gender-Specific Homophily on Instagram and Implications on Information Spread</a><br>
       Yvonne-Anne Pignolet, Stefan Schmid, and Arne Seelisch.<br>
@@ -1047,6 +1055,17 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+                    <li>
+      <p><a href="ipdps25.pdf">Distributed Construction of Demand-Aware Datacenter Networks</a><br>
+       Aleksander Figiel, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+      39th IEEE International Parallel and Distributed Processing Symposium (<b>IPDPS</b>),  
+      Milano, Italy, June 2025.<br>
+ Documents: paper&nbsp;<a href="ipdps25.pdf">pdf</a>,
+      slides&nbsp;<a href="ipdps25-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+  </li>
+
+
                     <li>
       <p><a href="nsdi25pyrrha.pdf">Pyrrha: Congestion-Root-Based Flow Control to Eliminate Head-of-Line Blocking in Datacenter</a><br>
       Kexin Liu, Zhaochen Zhang, Chang Liu, Yizhi Wang, Qingyue Wang, Vamsi Addanki, Stefan Schmid, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu, Ke Meng, Fei Chen, Weiguang Wang, Wanchun Dou, Guihai Chen, and Chen Tian.<br>
