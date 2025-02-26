@@ -1076,12 +1076,30 @@ Despite Adaptive Jamming</a><br>
       bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
   </li>
 
+                  <li>
+      <p><a href="./noms25.pdf">Eagle: Vulnerability and Congestion Aware Software Update Synthesis in Softwarized Networks (With a 5G Network Case Study)</a><br>
+      Nicolas Schnepf, Remi Badonnel, Damien Saucez, Stefan Schmid, and Jiri Srba.<br>
+       IEEE/IFIP Network Operations and Management Symposium (<b>NOMS</b>), Honolulu, Hawaii, USA, May 2025.<br>
+              Documents: paper&nbsp;<a href="./noms25.pdf">pdf</a>, 
+              slides&nbsp;<a href="./noms25-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+
                 <li>
       <p><a href="./fc25.pdf">X-Transfer: Enabling and Optimizing Cross-PCN Transactions</a><br>
       Lukas Aumayr, Zeta Avarikioti, Iosif Salem, Stefan Schmid, and Michelle Yeo.<br>
      29th International Conference on Financial Cryptography and Data Security (<b>FC</b>), Miyakojima, Japan, April 2025.<br>
       Documents: paper&nbsp;<a href="./fc25.pdf">pdf</a>, 
                slides&nbsp;<a href="./fc25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                   <li>
+      <p><a href="./netdev25.pdf">mq-cake: Scaling Software Rate Limiting Across CPU Cores</a><br>
+       Jonas K&ouml;ppeler, Toke H&#248;iland-J&#248;rgensen, and Stefan Schmid.<br>
+     The Technical Conference on Linux Networking (<b>Netdev 0x19</b>),  Zagreb, Croatia, March 2025.<br>
+      Documents: paper&nbsp;<a href="./netdev25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./netdev25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
