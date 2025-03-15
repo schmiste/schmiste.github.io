@@ -1051,19 +1051,29 @@ Despite Adaptive Jamming</a><br>
   </ul>
 
 
-
   <h2>Conferences</h2>
   
   <ul>   
                     <li>
-      <p><a href="ipdps25.pdf">Distributed Construction of Demand-Aware Datacenter Networks</a><br>
+      <p><a href="./ipdps25.pdf">Distributed Construction of Demand-Aware Datacenter Networks</a><br>
        Aleksander Figiel, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
       39th IEEE International Parallel and Distributed Processing Symposium (<b>IPDPS</b>),  
       Milano, Italy, June 2025.<br>
- Documents: paper&nbsp;<a href="ipdps25.pdf">pdf</a>,
-      slides&nbsp;<a href="ipdps25-slides.pdf">pdf</a>, 
-      bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a></p>
+ Documents: paper&nbsp;<a href="./ipdps25.pdf">pdf</a>,
+      slides&nbsp;<a href="./ipdps25-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
+
+                                     <li>
+      <p><a href="./icbc25dao.pdf">
+     Democracy for DAOs: An Empirical Study of Decentralized Governance and Dynamics</a><br>
+      Burak Arda Okutan, Yvonne-Anne Pignolet, and Stefan Schmid.<br>
+                 IEEE International Conference on Blockchain and Cryptocurrency (<b>ICBC</b>),  Pisa, Italy, June 2025.<br>
+      Documents: paper&nbsp;<a href="./icbc25dao.pdf">pdf</a>,    
+            slides&nbsp;<a href="./icbc25dao-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
 
 
                     <li>
@@ -3678,7 +3688,17 @@ Service Migration in Virtual Networks</a><br>
   <h2>Workshops</h2>
 
 
-  <ul>         
+  <ul>    
+                     <li>
+      <p><a href="./iclr25.pdf">Sycophancy Claims about Language Models: The Missing Human-in-the-Loop</a><br>
+     Jan Batzner, Volker Stocker, Stefan Schmid, and Gjergji Kasneci.<br>
+     ICLR 2025 Workshop on Bidirectional Human↔AI Alignment (Bi-Align), Singapore, April 2025.<br>
+      Documents: paper&nbsp;<a href="./iclr25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./iclr25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+     
             <li>
               <p><a href="leonet24.pdf">Starlink Performance through the Edge Router Lens</a><br>
     Sarah-Michelle Hammer, Vamsi Addanki, Max Franke, and Stefan Schmid.<br> 
