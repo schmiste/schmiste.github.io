@@ -134,8 +134,7 @@ Algorithmica (<b>ALGO</b>), 2024.<br>
     </li>
 
         <li>
-      <p><a href="./ton23route.pdf">Robust Routing Made Easy:
-Reinforcing Networks Against Non-Benign Faults</a><br>
+      <p><a href="./ton23route.pdf">Robust Routing Made EasymexiReinforcing Networks Against Non-Benign Faults</a><br>
       Christoph Lenzen, Moti Medina, Mehrdad Saberi, and Stefan Schmid.<br>
         IEEE/ACM Transactions on Networking (<b>TON</b>), 2023.<br> 
               Documents: paper&nbsp;<a href="./ton23route.pdf">pdf</a>, 
@@ -1054,10 +1053,10 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
-                     <li>
-      <p><a href="./podc25gov.pdf">When is liquid democracy possible? On the manipulation of variance</a><br>
+                 <li>
+      <p><a href="./podc25gov.pdf">When Is Liquid Democracy Possible? On the Manipulation of Variance</a><br>
        Krishnendu Chatterjee, Seth Gilbert, Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
-      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2024.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2025.<br>
       Documents: paper&nbsp;<a href="./podc25gov.pdf">pdf</a>, 
                slides&nbsp;<a href="./podc25gov-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
@@ -1067,7 +1066,7 @@ Despite Adaptive Jamming</a><br>
                  <li>
       <p><a href="./podc25pp.pdf">An Almost Tight Lower Bound for Plurality Consensus with Undecided State Dynamics in the Population Protocol Model</a><br>
        Antoine El-Hayek, Robert Els&auml;sser, and Stefan Schmid.<br>
-      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2024.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2025.<br>
       Documents: paper&nbsp;<a href="./podc25pp.pdf">pdf</a>, 
                slides&nbsp;<a href="./podc25pp-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
