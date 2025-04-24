@@ -1054,6 +1054,25 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+                     <li>
+      <p><a href="./podc25gov.pdf">When is liquid democracy possible? On the manipulation of variance</a><br>
+       Krishnendu Chatterjee, Seth Gilbert, Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2024.<br>
+      Documents: paper&nbsp;<a href="./podc25gov.pdf">pdf</a>, 
+               slides&nbsp;<a href="./podc25gov-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
+                 <li>
+      <p><a href="./podc25pp.pdf">An Almost Tight Lower Bound for Plurality Consensus with Undecided State Dynamics in the Population Protocol Model</a><br>
+       Antoine El-Hayek, Robert Els&auml;sser, and Stefan Schmid.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Huatulco, Mexico, June 2024.<br>
+      Documents: paper&nbsp;<a href="./podc25pp.pdf">pdf</a>, 
+               slides&nbsp;<a href="./podc25pp-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
                     <li>
       <p><a href="./ipdps25.pdf">Distributed Construction of Demand-Aware Datacenter Networks</a><br>
        Aleksander Figiel, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
