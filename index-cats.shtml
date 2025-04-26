@@ -1053,6 +1053,15 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+                     <li>
+      <p><a href="./gecco25.pdf">In the Search of Optimal Tree Networks: Hardness and Heuristics</a><br>
+       Maxim Buzdalov, Pavel Martynov, Sergey Pankratov, Vitaly Aksenov, and Stefan Schmid.<br>
+      The Genetic and Evolutionary Computation Conference (<b>GECCO</b>), Malaga, Spain, July 2025.<br>
+      Documents: paper&nbsp;<a href="./gecco25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./gecco25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
                  <li>
       <p><a href="./podc25gov.pdf">When Is Liquid Democracy Possible? On the Manipulation of Variance</a><br>
        Krishnendu Chatterjee, Seth Gilbert, Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br>
@@ -3751,6 +3760,15 @@ Service Migration in Virtual Networks</a><br>
      ICLR 2025 Workshop on Bidirectional Human-AI Alignment (Bi-Align), Singapore, April 2025.<br>
       Documents: paper&nbsp;<a href="./iclr25.pdf">pdf</a>, 
                slides&nbsp;<a href="./iclr25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                             <li>
+      <p><a href="./wtsc25.pdf">Monero’s Decentralized P2P Exchanges: Functionality, Adoption, and Privacy Risks</a><br>
+      Yannik Kopyciok, Friedhelm Victor, and Stefan Schmid.<br>
+     9th Workshop on Trusted Smart Contracts (<b>WTSC</b>), Miyakojima, Japan, April 2025.<br>
+      Documents: paper&nbsp;<a href="./wtsc25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./wtsc25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
