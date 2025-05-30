@@ -1054,17 +1054,6 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
-
-                           <li>
-      <p><a href="./asiaccs25.pdf">Coordinate-wise Median in Byzantine Federated Learning</a><br>
-      Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
-      ACM AsiaCCS Workshop on Secure and Efficient Federated Learning (<b>FL-AsiaCCS</b>), 
-      Hanoi, Vietnam, August 2025.<br>
-      Documents: paper&nbsp;<a href="./asiaccs25.pdf">pdf</a>, 
-               slides&nbsp;<a href="./asiaccs25-slides.pdf">pdf</a>,    
-                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
-     </li>
-     
                      <li>
       <p><a href="./gecco25.pdf">In the Search of Optimal Tree Networks: Hardness and Heuristics</a><br>
        Maxim Buzdalov, Pavel Martynov, Sergey Pankratov, Vitaly Aksenov, and Stefan Schmid.<br>
@@ -3795,7 +3784,17 @@ Service Migration in Virtual Networks</a><br>
   <h2>Workshops</h2>
 
 
-  <ul>    
+  <ul>   
+                           <li>
+      <p><a href="./asiaccs25.pdf">Coordinate-wise Median in Byzantine Federated Learning</a><br>
+      Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+      ACM AsiaCCS Workshop on Secure and Efficient Federated Learning (<b>FL-AsiaCCS</b>), 
+      Hanoi, Vietnam, August 2025.<br>
+      Documents: paper&nbsp;<a href="./asiaccs25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./asiaccs25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
                      <li>
       <p><a href="./iclr25.pdf">Sycophancy Claims about Language Models: The Missing Human-in-the-Loop</a><br>
      Jan Batzner, Volker Stocker, Stefan Schmid, and Gjergji Kasneci.<br>
