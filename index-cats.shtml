@@ -1054,6 +1054,17 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+
+                           <li>
+      <p><a href="./asiaccs25.pdf">Coordinate-wise Median in Byzantine Federated Learning</a><br>
+      Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+      ACM AsiaCCS Workshop on Secure and Efficient Federated Learning (<b>FL-AsiaCCS</b>), 
+      Hanoi, Vietnam, August 2025.<br>
+      Documents: paper&nbsp;<a href="./asiaccs25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./asiaccs25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
                      <li>
       <p><a href="./gecco25.pdf">In the Search of Optimal Tree Networks: Hardness and Heuristics</a><br>
        Maxim Buzdalov, Pavel Martynov, Sergey Pankratov, Vitaly Aksenov, and Stefan Schmid.<br>
@@ -1062,6 +1073,36 @@ Despite Adaptive Jamming</a><br>
                slides&nbsp;<a href="./gecco25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+                      <li>
+      <p><a href="./spaa25agreement.pdf">Approximate Agreement Algorithms for Byzantine Collaborative Learning</a><br>
+      Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+      37th ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), 
+      Portland, Oregon, USA, July 2025.<br>
+      Documents: paper&nbsp;<a href="./spaa25agreement.pdf">pdf</a>, 
+               slides&nbsp;<a href="./spaa25agreement-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                           <li>
+      <p><a href="./spaa25partition.pdf">Tight Bounds for Online Balanced Partitioning in the Generalized Learning Model</a><br>
+      Harald R&auml;cke, Stefan Schmid, and Ruslan Zabrodin.<br>
+      37th ACM Symposium on Parallelism in Algorithms and Architectures (<b>SPAA</b>), 
+      Portland, Oregon, USA, July 2025.<br>
+      Documents: paper&nbsp;<a href="./spaa25partition.pdf">pdf</a>, 
+               slides&nbsp;<a href="./spaa25partition-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                   <li>
+      <p><a href="./lanman25.pdf">Have your CAKE and eat it too: Scaling software rate limiting across CPU cores</a><br>
+       Jonas K&ouml;ppeler, Toke H&#248;iland-J&#248;rgensen, and Stefan Schmid.<br>
+       IEEE International Symposium on Local and Metropolitan Area Networks (<b>LANMAN</b>),  Lille, France, July 2025.<br>
+      Documents: paper&nbsp;<a href="./lanman25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./lanman25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
 
                  <li>
       <p><a href="./podc25gov.pdf">When Is Liquid Democracy Possible? On the Manipulation of Variance</a><br>
