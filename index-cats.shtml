@@ -35,7 +35,8 @@
       <p><a href="./cacm25.pdf">Revolutionizing Datacenter Networks via Reconfigurable Topologies</a><br>
       Chen Avin and Stefan Schmid.<br>
      Communications of the ACM (<b>CACM</b>), 2025.<br>
-      Documents: paper&nbsp;<a href="./cacm25.pdf">pdf</a>,  video&nbsp;<a href="https://cacm.acm.org/research/revolutionizing-datacenter-networks-via-reconfigurable-topologies/">web</a>, 
+      Documents: paper&nbsp;<a href="./cacm25.pdf">pdf</a>,  web&nbsp;<a href="https://cacm.acm.org/research/revolutionizing-datacenter-networks-via-reconfigurable-topologies/">web</a>, 
+      video&nbsp;<a href="https://www.youtube.com/watch?v=LYqqNF_ToHA&t=5s">video</a>, 
       flyer&nbsp;<a href="./flyer-cacm.gif">gif</a>, 
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
@@ -3797,7 +3798,7 @@ Service Migration in Virtual Networks</a><br>
                      <li>
       <p><a href="./iclr25.pdf">Sycophancy Claims about Language Models: The Missing Human-in-the-Loop</a><br>
      Jan Batzner, Volker Stocker, Stefan Schmid, and Gjergji Kasneci.<br>
-     ICLR 2025 Workshop on Bidirectional Human-AI Alignment (Bi-Align), Singapore, April 2025.<br>
+     <b>ICLR</b> Workshop on Bidirectional Human-AI Alignment (Bi-Align), Singapore, April 2025.<br>
       Documents: paper&nbsp;<a href="./iclr25.pdf">pdf</a>, 
                slides&nbsp;<a href="./iclr25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
