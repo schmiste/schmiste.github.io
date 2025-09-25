@@ -31,6 +31,14 @@
   <h2>Journals</h2>
 
   <ul>
+                            <li>
+      <p><a href="./cacm26.pdf">Communication Bias in Large Language Models: A Regulatory Perspective</a><br>
+      Adrian Kuenzler and Stefan Schmid.<br>
+     Communications of the ACM (<b>CACM</b>), 2026.<br>
+      Documents: paper&nbsp;<a href="./cacm26.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
                     <li>
       <p><a href="./cacm25.pdf">Revolutionizing Datacenter Networks via Reconfigurable Topologies</a><br>
       Chen Avin and Stefan Schmid.<br>
