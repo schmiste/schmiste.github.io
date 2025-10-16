@@ -1110,16 +1110,17 @@ Hong Kong, December 2025.<br>
       bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+<li>
      <p><a href="performance25.pdf">A Control-Theoretic Perspective on BBR/CUBIC Congestion-Control Competition</a><br>
          Simon Scherrer, Adrian Perrig, and Stefan Schmid.<br> 
-         IFIP  (<b>Performance</b>), Amsterdam, The Netherlands, November 2025.<br>
+         IFIP  <b>Performance</b>, Amsterdam, The Netherlands, November 2025.<br>
               Documents: paper&nbsp;<a href="performance25.pdf">pdf</a>,
              slides&nbsp;<a href="performance25-slides.pdf">pdf</a>,
                     bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
    </p>
       </li>
 
-
+    <li>
               <p><a href="disc25.pdf">Boosting Payment Channel Network Liquidity with Topology 
                  Optimization and Transaction Selection</a><br>
               Krishnendu Chatterjee, Jan Matyas Kristan, Stefan Schmid, Jakub Svoboda, and Michelle Yeo.<br> 
