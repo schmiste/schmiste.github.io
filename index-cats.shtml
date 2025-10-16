@@ -1081,6 +1081,16 @@ Despite Adaptive Jamming</a><br>
   
   <ul>   
                     <li>
+      <p><a href="./sosa26.pdf">The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof</a><br>
+      Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, and Stefan Schmid.<br>
+      SIAM Symposium on Simplicity in Algorithms (<b>SOSA</b>), 
+      Vancouver, Canada, January 2026.<br>
+      Documents: paper&nbsp;<a href="./sosa26.pdf">pdf</a>, 
+               slides&nbsp;<a href="./sosa26-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+                    <li>
       <p><a href="./alenex26.pdf">Efficient Algorithms for Temporal Balanced Graph Partitioning of Datacenter Workloads</a><br>
       Aleksander Figiel, Andre Nichterlein, and Stefan Schmid.<br>
       SIAM Symposium on Algorithm Engineering and Experiments (<b>ALENEX</b>), 
@@ -1099,6 +1109,16 @@ Hong Kong, December 2025.<br>
       slides&nbsp;<a href="./conext25pifo-slides.pdf">pdf</a>, 
       bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
+
+     <p><a href="performance25.pdf">A Control-Theoretic Perspective on BBR/CUBIC Congestion-Control Competition</a><br>
+         Simon Scherrer, Adrian Perrig, and Stefan Schmid.<br> 
+         IFIP  (<b>Performance</b>), Amsterdam, The Netherlands, November 2025.<br>
+              Documents: paper&nbsp;<a href="performance25.pdf">pdf</a>,
+             slides&nbsp;<a href="performance25-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
+
 
               <p><a href="disc25.pdf">Boosting Payment Channel Network Liquidity with Topology 
                  Optimization and Transaction Selection</a><br>
