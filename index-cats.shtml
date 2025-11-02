@@ -1099,6 +1099,38 @@ Despite Adaptive Jamming</a><br>
                slides&nbsp;<a href="./alenex26-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+               <li>
+      <p><a href="./opodis25kleinberg.pdf">Demand-Aware Small-World Networks on Clustered Demands</a><br>
+      Chen Avin, Robert Els&auml;sser, Aleksander Figiel, Darya Melnyk, and Stefan Schmid.<br>
+       29th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Iasi, Romania, December 2025.<br>
+              Documents: paper&nbsp;<a href="./opodis25kleinberg.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis25kleinberg-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+          <li>
+      <p><a href="./opodis25complexity.pdf">Fast Re-Routing in Networks: On the Complexity of Perfect Resilience</a><br>
+      Matthias Bentert, Esra Ceylan, Valentin Huebner, Stefan Schmid, and Jiri Srba.<br>
+       29th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Iasi, Romania, December 2025.<br>
+              Documents: paper&nbsp;<a href="./opodis25complexity.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis25complexity-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+          <li>
+      <p><a href="./opodis25ear.pdf">Fast Rerouting Against Dynamic Failures: 2-Resilience via Ear-Decomposition and Planarity</a><br>
+      Wenkai Dai, Klaus-Tycho Foerster, and Stefan Schmid.<br>
+       29th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
+       Iasi, Romania, December 2025.<br>
+              Documents: paper&nbsp;<a href="./opodis25ear.pdf">pdf</a>, 
+              slides&nbsp;<a href="./opodis25ear-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
      
                    <li>
       <p><a href="./conext25pifo.pdf">Exp-PIFO: Scalable and Efficient Programmable Packet Scheduling</a><br>
