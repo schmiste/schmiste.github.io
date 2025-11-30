@@ -66,6 +66,14 @@ IEEE Transactions on Network and Service Management (<b>TNSM</b>), 2025.<br>
             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
+                           <li>
+      <p><a href="./access25.pdf">Trade-Offs Between Fingerprinting and Self-Organizing Maps in RIS-Based Indoor Positioning</a><br>
+      Stanislava Slavova, Naveed Ali Khan, and Stefan Schmid.<br>
+       IEEE (<b>ACCESS</b>), 2025.<br>
+              Documents: paper&nbsp;<a href="./access25.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+  </li>
+
                           <li>
       <p><a href="./srep24.pdf">Gender-Specific Homophily on Instagram and Implications on Information Spread</a><br>
       Yvonne-Anne Pignolet, Stefan Schmid, and Arne Seelisch.<br>
@@ -1193,6 +1201,15 @@ Hong Kong, December 2025.<br>
                slides&nbsp;<a href="./aies25personae-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+                             <li>
+      <p><a href="./sss25.pdf">Towards Demand-Aware Peer Selection with XOR-based Routing</a> (Invited Paper)<br> 
+        Qingyun Ji, Darya Melnyk, Arash Pourdamghani, and Stefan Schmid.<br>  
+      27th International Symposium on Stabilization, Safety,
+      and Security of Distributed Systems (<b>SSS</b>), 
+      Kathmandu, Nepal, October 2025.<br>
+      Documents: paper&nbsp;<a href="./sss25.pdf">pdf</a>, slides&nbsp;<a href="./sss25slides.pdf">pdf</a>, bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
 
                                 <li>
       <p><a href="./icpp25.pdf">Efficient Cross-Datacenter Congestion Control with Fast Control Loops</a><br>
