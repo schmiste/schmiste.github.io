@@ -31,11 +31,11 @@
   <h2>Journals</h2>
 
   <ul>
-                            <li>
+                        <li>
       <p><a href="./cacm26.pdf">Communication Bias in Large Language Models: A Regulatory Perspective</a><br>
       Adrian Kuenzler and Stefan Schmid.<br>
      Communications of the ACM (<b>CACM</b>), 2026.<br>
-      Documents: paper&nbsp;<a href="./cacm26.pdf">pdf</a>, 
+      Documents: paper&nbsp;<a href="./cacm26.pdf">pdf</a>, The Coversation <a href="./https://theconversation.com/people-are-getting-their-news-from-ai-and-its-altering-their-views-269354">blog</a>, 
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
      
@@ -69,7 +69,7 @@ IEEE Transactions on Network and Service Management (<b>TNSM</b>), 2025.<br>
                            <li>
       <p><a href="./access25.pdf">Trade-Offs Between Fingerprinting and Self-Organizing Maps in RIS-Based Indoor Positioning</a><br>
       Stanislava Slavova, Naveed Ali Khan, and Stefan Schmid.<br>
-       IEEE (<b>ACCESS</b>), 2025.<br>
+        <b>IEEE Access</b>, 2025.<br>
               Documents: paper&nbsp;<a href="./access25.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
@@ -1108,6 +1108,16 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+                    <li>
+      <p><a href="./globecom25w.pdf">Optimizing Fronthaul Quantization for Flexible User Load in Cell-Free Massive MIMO</a><br>
+      Fabian G&ouml;ttsch, Max Franke, Arash Pourdamghani, Giuseppe Caire, and Stefan Schmid.<br>
+       IEEE Globecom Workshop on Resilience in Next-Generation Wireless Communication Networks,
+       Taipei, Taiwan, December 2025.<br>
+              Documents: paper&nbsp;<a href="./globecom25w.pdf">pdf</a>, 
+              slides&nbsp;<a href="./globecom25w-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
                <li>
       <p><a href="./opodis25kleinberg.pdf">Demand-Aware Small-World Networks on Clustered Demands</a><br>
       Chen Avin, Robert Els&auml;sser, Aleksander Figiel, Darya Melnyk, and Stefan Schmid.<br>
@@ -1230,6 +1240,16 @@ Hong Kong, December 2025.<br>
                slides&nbsp;<a href="./gecco25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+                    <li>
+      <p><a href="./indin25.pdf">Breaking the Vision: Assessing and Mitigating the Impact of Video Artifacts on ML Models in Industrial Use Cases</a><br>
+       Marco Reisacher, Ann-Kristin Bergmann, Andreas Blenk, and Stefan Schmid.<br>
+      IEEE 23rd International Conference on Industrial Informatics (<b>INDIN</b>), KunMing, China, July 2025.<br>
+      Documents: paper&nbsp;<a href="./indin25.pdf">pdf</a>, 
+               slides&nbsp;<a href="./indin25-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
 
                       <li>
       <p><a href="./spaa25agreement.pdf">Approximate Agreement Algorithms for Byzantine Collaborative Learning</a><br>
@@ -1775,7 +1795,8 @@ aka ACM/IEEE Supercomputing,
      Barcelona, Spain, June 2023.<br>
       Documents: paper&nbsp;<a href="./ifip23.pdf">pdf</a>, 
                         slides&nbsp;<a href="./ifip23-slides.pdf">pdf</a>,    
-       </li>  
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+       </li>   
 
                                    <li>
       <p><a href="./sirocco23pcn.pdf">Weighted Packet Selection for Rechargeable Links in Cryptocurrency Networks: Complexity and Approximation</a><br>
