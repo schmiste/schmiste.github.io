@@ -1,16 +1,352 @@
 \begin{thebibliography}{100}
 
-\bibitem{nsdi24credence}
-Vamsi Addanki, Maciej Pacut, and Stefan Schmid.
-\newblock Credence: Augmenting datacenter switch buffer sharing with ml
-  predictions.
-\newblock In {\em 21st USENIX Symposium on Networked Systems Design and
-  Implementation (NSDI)}, 2024.
+\bibitem{cacm26}
+Adrian Kuenzler and Stefan Schmid.
+\newblock Communication bias in large language models: A regulatory
+  perspective.
+\newblock In {\em Communications of the ACM (CACM)}, 2026.
+
+\bibitem{sosa26}
+Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, and Stefan Schmid.
+\newblock The harmonic policy for online buffer sharing is (2 + ln
+  n)-competitive: A simple proof.
+\newblock In {\em SIAM Symposium on Simplicity in Algorithms (SOSA)}, 2026.
+
+\bibitem{alenex26}
+Aleksander Figiel, Andre Nichterlein, and Stefan Schmid.
+\newblock Efficient algorithms for temporal balanced graph partitioning of
+  datacenter workloads.
+\newblock In {\em SIAM Symposium on Algorithm Engineering and Experiments
+  (ALENEX)}, 2026.
+
+\bibitem{opodis25kleinberg}
+Chen Avin, Robert Elsaesser, Aleksander Figiel, Darya Melnyk, and Stefan
+  Schmid.
+\newblock Demand-aware small-world networks on clustered demands.
+\newblock In {\em 29th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2025.
+
+\bibitem{opodis25complexity}
+Matthias Bentert, Esra Ceylan, Valentin Huebner, Stefan Schmid, and Jiri Srba.
+\newblock Fast re-routing in networks: On the complexity of perfect resilience.
+\newblock In {\em 29th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2025.
+
+\bibitem{access25}
+Stanislava Slavova, Naveed~Ali Khan, and Stefan Schmid.
+\newblock Trade-offs between fingerprinting and self-organizing maps in
+  ris-based indoor positioning.
+\newblock In {\em IEEE Access}, 2025.
+
+\bibitem{opodis25ear}
+Wenkai Dai, Klaus-Tycho Foerster, and Stefan Schmid.
+\newblock Fast rerouting against dynamic failures: 2-resilience via
+  ear-decomposition and planarity.
+\newblock In {\em 29th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2025.
+
+\bibitem{conext25pifo}
+Habib Mostafaei, Mohammad Ezzati, Pieter J.~L. Cuijpers, Stefan Schmid, Gabor
+  Retvari, and Sem Borst.
+\newblock Exp-pifo: Scalable and efficient programmable packet scheduling.
+\newblock In {\em 21st ACM International Conference on Emerging Networking
+  Experiments and Technologies (CoNEXT)}, 2025.
+
+\bibitem{globecom25w}
+Fabian Goettsch, Max Franke, Arash Pourdamghani, Giuseppe Caire, and Stefan
+  Schmid.
+\newblock Optimizing fronthaul quantization for flexible user load in cell-free
+  massive mimo.
+\newblock In {\em IEEE Globecom Workshop on Resilience in Next-Generation
+  Wireless Communication Networks}, 2025.
+
+\bibitem{performance25}
+Simon Scherrer, Adrian Perrig, and Stefan Schmid.
+\newblock A control-theoretic perspective on bbr/cubic congestion-control
+  competition.
+\newblock In {\em IFIP Performance}, 2025.
+
+\bibitem{disc25}
+Krishnendu Chatterjee, Jan~Matyas Kristan, Stefan Schmid, Jakub Svoboda, and
+  Michelle Yeo.
+\newblock Boosting payment channel network liquidity with topology optimization
+  and transaction selection.
+\newblock In {\em International Symposium on Distributed Computing (DISC)},
+  2025.
+
+\bibitem{aies25sycophancy}
+Jan Batzner, Volker Stocker, Stefan Schmid, and Gjergji Kasneci.
+\newblock Germanpartiesqa: Benchmarking commercial large language models and ai
+  companions for political alignment and sycophancy.
+\newblock In {\em 8th AAAI/ACM Conference on AI, Ethics, and Society (AIES)},
+  2025.
+
+\bibitem{aies25personae}
+Jan Batzner, Volker Stocker, Bingjun Tang, Anusha Natarajan, Qinhao Chen,
+  Stefan Schmid, and Gjergji Kasneci.
+\newblock Whose personae? synthetic persona experiments in llm research and
+  pathways to transparency.
+\newblock In {\em 8th AAAI/ACM Conference on AI, Ethics, and Society (AIES)},
+  2025.
+
+\bibitem{atva25}
+Bruno Maria~Rene Gonzalez, Peter~Gjol Jensen, Jiri Srba, Stefan Schmid, and
+  Martin Zimmermann.
+\newblock Tapaal hyperltl: A tool for checking hyperproperties of petri nets.
+\newblock In {\em 23rd International Symposium on Automated Technology for
+  Verification and Analysis (ATVA)}, 2025.
+
+\bibitem{sss25}
+Qingyun Ji, Darya Melnyk, Arash Pourdamghani, and Stefan Schmid.
+\newblock Towards demand-aware peer selection with xor-based routing (invited
+  paper).
+\newblock In {\em 27th International Symposium on Stabilization, Safety, and
+  Security of Distributed Systems (SSS))}, 2025.
+
+\bibitem{icpp25}
+Baosen Zhao, Jianan Sun, Xu~Zhou, Wanghong Yang, Wenji Du, Fukang Chen, Yongmao
+  Ren, and Stefan Schmid.
+\newblock Efficient cross-datacenter congestion control with fast control
+  loops.
+\newblock In {\em 54th International Conference on Parallel Processing (ICPP)},
+  2025.
+
+\bibitem{ton25rifo}
+Habib Mostafaei, Maciej Pacut, and Stefan Schmid.
+\newblock Rifo: Pushing the efficiency of programmable packet schedulers.
+\newblock In {\em IEEE/ACM Transactions on Networking (TON)}, 2025.
+
+\bibitem{tnsm25}
+Alexandros Papadopoulos, Dimitrios Tyrovolas, Antonios Lalas, Konstantinos
+  Votis, Stefan Schmid, Sotiris Ioannidis, George~K. Karagiannidis, and
+  Christos~K. Liaskos.
+\newblock On modeling the ris as a resource: Multi-user allocation and
+  efficiency-proportional pricing.
+\newblock In {\em IEEE Transactions on Network and Service Management (TNSM)},
+  2025.
+
+\bibitem{gecco25}
+Maxim Buzdalov, Pavel Martynov, Sergey Pankratov, Vitaly Aksenov, and Stefan
+  Schmid.
+\newblock In the search of optimal tree networks: Hardness and heuristics.
+\newblock In {\em The Genetic and Evolutionary Computation Conference (GECCO)},
+  2025.
+
+\bibitem{indin25}
+Marco Reisacher, Ann-Kristin Bergmann, Andreas Blenk, and Stefan Schmid.
+\newblock Breaking the vision: Assessing and mitigating the impact of video
+  artifacts on ml models in industrial use cases.
+\newblock In {\em IEEE 23rd International Conference on Industrial Informatics
+  (INDIN)}, 2025.
+
+\bibitem{spaa25agreement}
+Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.
+\newblock Approximate agreement algorithms for byzantine collaborative
+  learning.
+\newblock In {\em 37th ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2025.
+
+\bibitem{spaa25partition}
+Harald Raecke, Stefan Schmid, and Ruslan Zabrodin.
+\newblock Tight bounds for online balanced partitioning in the generalized
+  learning model.
+\newblock In {\em 37th ACM Symposium on Parallelism in Algorithms and
+  Architectures (SPAA)}, 2025.
+
+\bibitem{lanman25}
+Jonas Koeppeler, Toke Hoiland-Jorgensen, and Stefan Schmid.
+\newblock Have your cake and eat it too: Scaling software rate limiting across
+  cpu cores.
+\newblock In {\em IEEE International Symposium on Local and Metropolitan Area
+  Networks (LANMAN)}, 2025.
+
+\bibitem{podc25pp}
+Antoine El-Hayek, Robert Elsaesser, and Stefan Schmid.
+\newblock An almost tight lower bound for plurality consensus with undecided
+  state dynamics in the population protocol model.
+\newblock In {\em ACM Symposium on Principles of Distributed Computing (PODC)},
+  2025.
+
+\bibitem{podc25gov}
+Krishnendu Chatterjee, Seth Gilbert, Stefan Schmid, Jakub Svoboda, and Michelle
+  Yeo.
+\newblock When is liquid democracy possible? on the manipulation of variance.
+\newblock In {\em ACM Symposium on Principles of Distributed Computing (PODC)},
+  2025.
+
+\bibitem{podc25ba}
+Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.
+\newblock Brief announcement: Minimizing energy solves relative majority with a
+  cubic number of states in population protocols.
+\newblock In {\em ACM Symposium on Principles of Distributed Computing (PODC)},
+  2025.
+
+\bibitem{cacm25}
+Chen Avin and Stefan Schmid.
+\newblock Revolutionizing datacenter networks via reconfigurable topologies.
+\newblock In {\em Communications of the ACM (CACM)}, 2025.
+
+\bibitem{asiaccs25}
+Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.
+\newblock Coordinate-wise median in byzantine federated learning.
+\newblock In {\em ACM AsiaCCS Workshop on Secure and Efficient Federated
+  Learning (FL-AsiaCCS)}, 2025.
+
+\bibitem{ipdps25}
+Aleksander Figiel, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.
+\newblock Distributed construction of demand-aware datacenter networks.
+\newblock In {\em 39th IEEE International Parallel and Distributed Processing
+  Symposium (IPDPS)}, 2025.
+
+\bibitem{icbc25dao}
+Burak~Arda Okutan, Yvonne-Anne Pignolet, and Stefan Schmid.
+\newblock Democracy for daos: An empirical study of decentralized governance
+  and dynamics.
+\newblock In {\em IEEE International Conference on Blockchain and
+  Cryptocurrency (ICBC)}, 2025.
+
+\bibitem{nsdi25pyrrha}
+Kexin Liu, Zhaochen Zhang, Chang Liu, Yizhi Wang, Qingyue Wang, Vamsi Addanki,
+  Stefan Schmid, Wei Chen, Xiaoliang Wang, Jiaqi Zheng, Wenhao Sun, Tao Wu,
+  Ke~Meng, Fei Chen, Weiguang Wang, Wanchun Dou, Guihai Chen, and Chen Tian.
+\newblock Pyrrha: Congestion-root-based flow control to eliminate head-of-line
+  blocking in datacenter.
+\newblock In {\em 22nd USENIX Symposium on Networked Systems Design and
+  Implementation (NSDI)}, 2025.
+
+\bibitem{ifip25mc}
+Matthias Bentert, Max Franke, Darya Melnyk, Arash Pourdamghani, and Stefan
+  Schmid.
+\newblock Demand-aware multi-source ip-multicast: Minimal congestion via link
+  weight optimization.
+\newblock In {\em IFIP Networking}, 2025.
+
+\bibitem{ifip25frr}
+Wenkai Dai, Klaus-Tycho Foerster, and Stefan Schmid.
+\newblock On the resilience of fast failover routing against dynamic link
+  failures.
+\newblock In {\em IFIP Networking}, 2025.
+
+\bibitem{noms25}
+Nicolas Schnepf, Remi Badonnel, Damien Saucez, Stefan Schmid, and Jiri Srba.
+\newblock Eagle: Vulnerability and congestion aware software update synthesis
+  in softwarized networks.
+\newblock In {\em IEEE/IFIP Network Operations and Management Symposium
+  (NOMS)}, 2025.
+
+\bibitem{drcn25}
+Cao~Vien Phung, Max Franke, Ehsan Tohidi, June Heinemann, Andre Drummond,
+  Stefan Schmid, Slawomir Stanczak, and Admela Jukan.
+\newblock Reliability and qos assurance in ris-assisted indoor networks.
+\newblock In {\em International Conference On The Design Of Reliable
+  Communication Networks (DRCN)}, 2025.
+
+\bibitem{fc25}
+Lukas Aumayr, Zeta Avarikioti, Iosif Salem, Stefan Schmid, and Michelle Yeo.
+\newblock X-transfer: Enabling and optimizing cross-pcn transactions.
+\newblock In {\em 29th International Conference on Financial Cryptography and
+  Data Security (FC)}, 2025.
+
+\bibitem{netdev25}
+Jonas Koeppeler, Toke Hoiland-Jorgensen, and Stefan Schmid.
+\newblock mq-cake: Scaling software rate limiting across cpu cores.
+\newblock In {\em The Technical Conference on Linux Networking (Netdev 0x19)},
+  2025.
+
+\bibitem{alenex25}
+Aleksander Figiel, Darya Melnyk, Andre Nichterlein, Arash Pourdamghani, and
+  Stefan Schmid.
+\newblock Spiderdan: Matching augmentation in demand-aware networks.
+\newblock In {\em SIAM Symposium on Algorithm Engineering and Experiments
+  (ALENEX)}, 2025.
+
+\bibitem{icbc25poster}
+Dor Cohen, Yvonne-Anne Pignolet, Ognjen Maric, and Stefan Schmid.
+\newblock Internet computer as a data availability layer (poster paper).
+\newblock In {\em IEEE International Conference on Blockchain and
+  Cryptocurrency (ICBC)}, 2025.
+
+\bibitem{opodis24dan}
+Aleksander Figiel, Janne~H. Korhonen, Neil Olver, and Stefan Schmid.
+\newblock Efficient algorithms for demand-aware networks and a connection to
+  virtual network embedding.
+\newblock In {\em 28th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2024.
+
+\bibitem{opodis24hash}
+Arash Pourdamghani, Chen Avin, Robert Sama, Maryam Shiran, and Stefan Schmid.
+\newblock Hash and adjust: Competitive demand-aware consistent hashing.
+\newblock In {\em 28th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2024.
+
+\bibitem{opodis24bc}
+Joao~Paulo Bezerra, Veronika Anikina, Petr Kuznetsov, Liron Schiff, and Stefan
+  Schmid.
+\newblock Dynamic probabilistic reliable broadcast.
+\newblock In {\em 28th International Conference on Principles of Distributed
+  Systems (OPODIS)}, 2024.
+
+\bibitem{leonet24}
+Sarah-Michelle Hammer, Vamsi Addanki, Max Franke, and Stefan Schmid.
+\newblock Starlink performance through the edge router lens.
+\newblock In {\em 2nd ACM MobiCom Workshop on LEO Networking and Communication
+  (LEO-NET)}, 2024.
+
+\bibitem{disc24}
+Antoine El-Hayek, Monika Henzinger, and Stefan Schmid.
+\newblock Broadcast and consensus in stochastic dynamic networks with byzantine
+  nodes and adversarial edges.
+\newblock In {\em International Symposium on Distributed Computing (DISC)},
+  2024.
+
+\bibitem{6gnet24}
+Alexandros~Ioannis Papadopoulos, Antonios Lalas, Konstantinos Votis, Stefan
+  Schmid, and Christos Liaskos.
+\newblock Ris as a network resource: Pricing and user multiplexing algorithms.
+\newblock In {\em International Conference on 6G Networking (6GNet)}, 2024.
+
+\bibitem{nca24mc}
+Max Franke, Jake Holland, and Stefan Schmid.
+\newblock Mcquic - a multicast extension for quic.
+\newblock In {\em 22nd International Symposium on Network Computing and
+  Applications (NCA)}, 2024.
+
+\bibitem{tcc24}
+Caio Caldeira, Otavio~Augusto de~Oliveira~Souza, Olga Goussevskaia, and Stefan
+  Schmid.
+\newblock Optical self-adjusting data center networks in the scalable matching
+  model.
+\newblock In {\em IEEE/ACM Transactions on Cloud Computing (TCC)}, 2024.
+
+\bibitem{nca24da}
+Milad Miri, Stefan Schmid, and Habib Mostafaei.
+\newblock A demand-aware networked system using telemetry and ml with reactnet.
+\newblock In {\em 22nd International Symposium on Network Computing and
+  Applications (NCA)}, 2024.
+
+\bibitem{aft24}
+Zeta Avarikioti, Stefan Schmid, and Samarth Tawari.
+\newblock Musketeer: Incentive-compatible rebalancing for payment channel
+  networks.
+\newblock In {\em Advances in Financial Technologies (AFT)}, 2024.
+
+\bibitem{esa24}
+Evgeniy Feder, Anton Paramonov, Pavel Mavrin, Iosif Salem, Vitaly Aksenov, and
+  Stefan Schmid.
+\newblock Toward self-adjusting k-ary search tree networks.
+\newblock In {\em European Symposium on Algorithms (ESA)}, 2024.
 
 \bibitem{nsdi24reverie}
 Vamsi Addanki, Wei Bai, Stefan Schmid, and Maria Apostolaki.
 \newblock Reverie: Low pass filter-based switch buffer sharing for datacenters
   with rdma and tcp traffic.
+\newblock In {\em 21st USENIX Symposium on Networked Systems Design and
+  Implementation (NSDI)}, 2024.
+
+\bibitem{nsdi24credence}
+Vamsi Addanki, Maciej Pacut, and Stefan Schmid.
+\newblock Credence: Augmenting datacenter switch buffer sharing with ml
+  predictions.
 \newblock In {\em 21st USENIX Symposium on Networked Systems Design and
   Implementation (NSDI)}, 2024.
 
@@ -20,6 +356,32 @@ Csaba Gyorgyi, Kim~G. Larsen, Stefan Schmid, and Jiri Srba.
   tables for resilient networks.
 \newblock In {\em 54th IEEE/IFIP International Conference on Dependable Systems
   and Networks (DSN)}, 2024.
+
+\bibitem{icdcs24}
+Julien Dallot, Maciej Pacut, Marcin Bienkowski, Darya Melnyk, and Stefan
+  Schmid.
+\newblock Learning minimum linear arrangement of cliques and lines.
+\newblock In {\em 44th IEEE International Conference on Distributed Computing
+  Systems (ICDCS)}, 2024.
+
+\bibitem{applied24}
+Stefan Schmid and Dmitry Shestakov.
+\newblock Invited paper: Blockchain governance and liquid democracy –
+  quantifying decentralization in gitcoin and internet computer.
+\newblock In {\em ApPLIED Workshop at ACM PODC}, 2024.
+
+\bibitem{ifip24cdn}
+Juan Vanerio, Huiran Liu, Qi~Zhang, and Stefan Schmid.
+\newblock Baiji: Domain planning for cdns under the 95th percentile billing
+  model.
+\newblock In {\em IFIP Networking}, 2024.
+
+\bibitem{ifip24pcn}
+Lukas Aumayr, Esra Ceylan, Yannik Kopyciok, Matteo Maffei, Pedro
+  Moreno-Sanchez, Iosif Salem, and Stefan Schmid.
+\newblock Optimizing virtual payment channel establishment in the face of
+  on-path adversaries.
+\newblock In {\em IFIP Networking}, 2024.
 
 \bibitem{infocom24update}
 Radu Vintan, Harald Raecke, and Stefan Schmid.
@@ -81,6 +443,13 @@ Philipp Zabka, Klaus-Tycho Foerster, Christian Decker, and Stefan Schmid.
 \newblock A centrality analysis of the lightning network.
 \newblock In {\em Telecommunications Policy (JTPO), Elsevier, Special issue:
   Economic, social and political impact of blockchain}, 2024.
+
+\bibitem{icbc24}
+Johannes Gruendler, Darya Melnyk, Arash Pourdamghani, and Stefan Schmid.
+\newblock Decentpeer: A self-incentivised and inclusive decentralized peer
+  review system (poster paper).
+\newblock In {\em IEEE International Conference on Blockchain and
+  Cryptocurrency (ICBC)}, 2024.
 
 \bibitem{tcs24pcn}
 Stefan Schmid, Jakub Svoboda, and Michelle Yeo.

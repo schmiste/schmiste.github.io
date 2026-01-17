@@ -35,7 +35,7 @@
       <p><a href="./cacm26.pdf">Communication Bias in Large Language Models: A Regulatory Perspective</a><br>
       Adrian Kuenzler and Stefan Schmid.<br>
      Communications of the ACM (<b>CACM</b>), 2026.<br>
-      Documents: paper&nbsp;<a href="./cacm26.pdf">pdf</a>, The Coversation <a href="https://theconversation.com/people-are-getting-their-news-from-ai-and-its-altering-their-views-269354">blog</a>, 
+      Documents: paper&nbsp;<a href="./cacm26.pdf">pdf</a>, The Conversation (<a href="https://theconversation.com/people-are-getting-their-news-from-ai-and-its-altering-their-views-269354">en</a>, <a href="https://theconversation.com/quand-les-ia-cadrent-linformation-et-faconnent-notre-vision-du-monde-272768">fr</a>), 
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
      
@@ -1088,6 +1088,17 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+                            <li>
+      <p><a href="./ofc26.pdf">Single Microcomb Source for Ultra-Scalable Datacenters for Dense Deep Neural Network Workloads</a><br>
+      Arjun Kurur, Silas Hedeboe, Christian Schou, Oliver Larsen, Sarah Hammer, Yang Liu, Haoyang Tan, Deming Kong, 
+Flora Karpat, Yi Zheng, Yangjing Zhao, Max Franke, Minhao Pu, Kresten Yvind, Metodi Yankov, Soren Forchhammer, Michael Galili,
+David Moss, Stefan Schmid, and Leif Oxenlowe.<br>
+     Optical Fiber Communication Conference (<b>OFC</b>), Los Angeles Convention Center, Los Angeles, California, USA,  March 2026.<br>
+      Documents: paper&nbsp;<a href="./ofc26.pdf">pdf</a>, slides&nbsp;<a href="./ofc26-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
                     <li>
       <p><a href="./sosa26.pdf">The Harmonic Policy for Online Buffer Sharing is (2 + ln n)-Competitive: A Simple Proof</a><br>
       Vamsi Addanki, Julien Dallot, Leon Kellerhals, Maciej Pacut, and Stefan Schmid.<br>
