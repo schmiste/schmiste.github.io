@@ -46,6 +46,16 @@
               Documents: paper&nbsp;<a href="./srep26.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
   </li>
+
+       <li>
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S016653162500063X">A Control-Theoretic Perspective on BBR/CUBIC Congestion-Control Competition</a> (Best Paper Award)<br>
+         Simon Scherrer, Adrian Perrig, and Stefan Schmid.<br> 
+       Performance Evaluation (<b>PEVA</b>), Elsevier, 2026.<br>
+              Documents: paper&nbsp;<a href="performance25.pdf">pdf</a>,
+             slides&nbsp;<a href="performance25-slides.pdf">pdf</a>,
+                    bibtex&nbsp;<a href="stefan_schmid-all.bib">bib</a>
+   </p>
+      </li>
      
                     <li>
       <p><a href="./cacm25.pdf">Revolutionizing Datacenter Networks via Reconfigurable Topologies</a><br>
@@ -1096,6 +1106,14 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+       <li>
+      <p><a href="./icc26.pdf">Rethinking Fronthaul Topologies for Cell-Free 6G Networks</a><br>
+      Max Franke, Arash Pourdamghani, Fabian G&ouml;ttsch, Stefan Schmid, and Giuseppe Caire.<br>
+     IEEE International Conference on Communications (<b>ICC</b>), Glasgow, Scotland, United Kingdom, May 2026.<br>
+      Documents: paper&nbsp;<a href="./icc26.pdf">pdf</a>, slides&nbsp;<a href="./icc26-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+     
                             <li>
       <p><a href="./ofc26.pdf">Single Microcomb Source for Ultra-Scalable Datacenters for Dense Deep Neural Network Workloads</a><br>
       Arjun Kurur, Silas Hedeboe, Christian Schou, Oliver Larsen, Sarah Hammer, Yang Liu, Haoyang Tan, Deming Kong, 
@@ -1180,7 +1198,7 @@ Hong Kong, December 2025.<br>
     </li>
 
 <li>
-     <p><a href="performance25.pdf">A Control-Theoretic Perspective on BBR/CUBIC Congestion-Control Competition</a><br>
+    <p><a href="performance25.pdf">A Control-Theoretic Perspective on BBR/CUBIC Congestion-Control Competition</a> (Best Paper Award)<br>
          Simon Scherrer, Adrian Perrig, and Stefan Schmid.<br> 
          IFIP  <b>Performance</b>, Amsterdam, The Netherlands, November 2025.<br>
               Documents: paper&nbsp;<a href="performance25.pdf">pdf</a>,
@@ -4006,6 +4024,7 @@ Service Migration in Virtual Networks</a><br>
       <p><a href="./iclr25.pdf">Sycophancy Claims about Language Models: The Missing Human-in-the-Loop</a><br>
      Jan Batzner, Volker Stocker, Stefan Schmid, and Gjergji Kasneci.<br>
      <b>ICLR</b> Workshop on Bidirectional Human-AI Alignment (Bi-Align), Singapore, April 2025.<br>
+     (Also a poster at NeurIPS 2025 LLM Evaluation Workshop.) <br>
       Documents: paper&nbsp;<a href="./iclr25.pdf">pdf</a>, 
                slides&nbsp;<a href="./iclr25-slides.pdf">pdf</a>,    
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
