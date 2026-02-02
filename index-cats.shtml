@@ -1106,6 +1106,22 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+     <li>
+      <p><a href="./stoc26frr.pdf">Perfect Network Resilience in Polynomial Time</a><br>
+      Matthias Bentert and Stefan Schmid.<br>
+     58th ACM Symposium on Theory of Computing (<b>STOC</b>), Salt Lake City, Utah, USA, June 2026.<br>
+      Documents: paper&nbsp;<a href="./stoc26frr.pdf">pdf</a>, slides&nbsp;<a href="./stoc26frr-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+       <li>
+      <p><a href="./stoc26partitioning.pdf">Nonuniform Graph Partitioning With Just A Little Flex</a><br>
+      Neil Olver, Harald R&auml;cke, and Stefan Schmid.<br>
+     58th ACM Symposium on Theory of Computing (<b>STOC</b>), Salt Lake City, Utah, USA, June 2026.<br>
+      Documents: paper&nbsp;<a href="./stoc26partitioning.pdf">pdf</a>, slides&nbsp;<a href="./stoc26partitioning-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
        <li>
       <p><a href="./icc26.pdf">Rethinking Fronthaul Topologies for Cell-Free 6G Networks</a><br>
       Max Franke, Arash Pourdamghani, Fabian G&ouml;ttsch, Stefan Schmid, and Giuseppe Caire.<br>
