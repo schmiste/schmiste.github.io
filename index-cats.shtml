@@ -1106,6 +1106,23 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>   
+         <li>
+      <p><a href="./pets26.pdf">Breaking Pseudonymity: Linkage Attacks on Blockchain Users with Off-Chain Cues</a><br>
+      Alexander Smirnov, Stefan Schmid, and Friedhelm Victor.<br>
+     26th Privacy Enhancing Technologies Symposium (<b>PETS</b>), Calgary, Canada, July 2026.<br>
+      Documents: paper&nbsp;<a href="./pets26.pdf">pdf</a>, slides&nbsp;<a href="./pets26-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+          <li>
+      <p><a href="./ics26.pdf">Distributed Disjoint Weighted Matchings in Demand-Aware Reconfigurable Optical Datacenters</a><br>
+      Sophia Heck, Kathrin Hanauer, and Stefan Schmid.<br>
+     ACM International Conference on Supercomputing (<b>ICS</b>), Belfast, Northern Ireland, United Kingdom, July 2026.<br>
+      Documents: paper&nbsp;<a href="./ics26.pdf">pdf</a>, slides&nbsp;<a href="./ics26-slides.pdf">pdf</a>, 
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
      <li>
       <p><a href="./stoc26frr.pdf">Perfect Network Resilience in Polynomial Time</a><br>
       Matthias Bentert and Stefan Schmid.<br>
