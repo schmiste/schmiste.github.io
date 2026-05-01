@@ -1213,16 +1213,6 @@ Despite Adaptive Jamming</a><br>
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
     </li>
 
-
-   <li>
-      <p><a href="./ifip26leo.pdf">Multi-Modal Measurements of Weather Effects and Link Quality Dynamics in LEO Satellite Networks</a><br>
-     Simon Damm, Clemens Lottermoser, and Stefan Schmid.<br>
-      <b>IFIP Networking</b>, 
-     Limassol, Cyprus, May 2025.<br>
-      Documents: paper&nbsp;<a href="./ifip26leo.pdf">pdf</a>, 
-                        slides&nbsp;<a href="./ifip26leo-slides.pdf">pdf</a>, 
-              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
-    </li>  
     
        <li>
       <p><a href="./icc26.pdf">Rethinking Fronthaul Topologies for Cell-Free 6G Networks</a><br>
@@ -1231,7 +1221,17 @@ Despite Adaptive Jamming</a><br>
       Documents: paper&nbsp;<a href="./icc26.pdf">pdf</a>, slides&nbsp;<a href="./icc26-slides.pdf">pdf</a>, 
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
-     
+
+    <li>
+      <p><a href="./ifip26leo.pdf">Multi-Modal Measurements of Weather Effects and Link Quality Dynamics in LEO Satellite Networks</a><br>
+     Simon Damm, Clemens Lottermoser, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+     Lugano, Switzerland, May 2026.<br>
+      Documents: paper&nbsp;<a href="./ifip26leo.pdf">pdf</a>, 
+                        slides&nbsp;<a href="./ifip26leo-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
+    </li>  
+         
                             <li>
       <p><a href="./ofc26.pdf">Single Microcomb Source for Ultra-Scalable Datacenters for Dense Deep Neural Network Workloads</a><br>
       Arjun Kurur, Silas Hedeboe, Christian Schou, Oliver Larsen, Sarah Hammer, Yang Liu, Haoyang Tan, Deming Kong, 
