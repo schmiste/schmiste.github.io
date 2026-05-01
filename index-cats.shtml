@@ -1129,7 +1129,36 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+     <li>
+      <p><a href="./icml26.pdf">FuseFSS: Efficient Secure LLM Inference with Function Secret Sharing
+</a><br>
+       Yuhan Ma, Long Li, and Stefan Schmid.<br>
+      43rd International Conference on Machine Learning (<b>ICML</b>), Seoul, South Korea, July 2026.<br>
+      Documents: paper&nbsp;<a href="./icml26.pdf">pdf</a>, 
+               slides&nbsp;<a href="./icml26-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+     <li>
+      <p><a href="./podc26throughput.pdf">A Separation Between Optimal Demand-Oblivious and Demand-Aware Network Throughput</a><br>
+       Matthias Bentert, Chen Avin, and Stefan Schmid.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Egham, England, July 2026.<br>
+      Documents: paper&nbsp;<a href="./podc26throughput.pdf">pdf</a>, 
+               slides&nbsp;<a href="./podc26throughput-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
           <li>
+      <p><a href="./podc26ranking.pdf">Ranking Opinions with Few States in Population Protocols</a><br>
+       Tom-Lukas Breitkopf, Julien Dallot, Antoine El-Hayek, and Stefan Schmid.<br>
+      ACM Symposium on Principles of Distributed Computing (<b>PODC</b>), Egham, England, July 2026.<br>
+      Documents: paper&nbsp;<a href="./podc26ranking.pdf">pdf</a>, 
+               slides&nbsp;<a href="./podc26ranking-slides.pdf">pdf</a>,    
+                 bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+     </li>
+
+
+     <li>
       <p><a href="./ics26.pdf">DistroMatch: Distributed Disjoint Weighted Matchings in Demand-Aware Reconfigurable Optical Datacenters</a><br>
       Sophia Heck, Kathrin Hanauer, and Stefan Schmid.<br>
      ACM International Conference on Supercomputing (<b>ICS</b>), Belfast, Northern Ireland, United Kingdom, July 2026.<br>
@@ -1138,7 +1167,7 @@ Despite Adaptive Jamming</a><br>
      </li>
 
 
-     <li>
+       <li>
       <p><a href="./stoc26frr.pdf">Perfect Network Resilience in Polynomial Time</a><br>
       Matthias Bentert and Stefan Schmid.<br>
      58th ACM Symposium on Theory of Computing (<b>STOC</b>), Salt Lake City, Utah, USA, June 2026.<br>
@@ -1154,6 +1183,47 @@ Despite Adaptive Jamming</a><br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
+    <li>
+      <p><a href="./icdcs26marriage.pdf">Privacy Attacks on Stable Marriage</a><br>
+      Stephan Fahrenkrog, Aleksander Figiel, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+        46th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Seoul, South Korea, June 2026.<br>
+              Documents: paper&nbsp;<a href="./icdcs26marriage.pdf">pdf</a>, 
+                            slides&nbsp;<a href="./icdcs26marriage-slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="./icdcs26knapsack.pdf">Competitive Transaction Admission in PCNs: Online Knapsack with Positive and Negative Items</a><br>
+      Marcin Bienkowski, Julien Dallot, Dominik Danelski, Maciej Pacut, and Stefan Schmid.<br>
+        46th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Seoul, South Korea, June 2026.<br>
+              Documents: paper&nbsp;<a href="./icdcs26knapsack.pdf">pdf</a>, 
+                            slides&nbsp;<a href="./icdcs26knapsack-slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+      <p><a href="./icdcs26stars.pdf">Online Graph Embedding in Star Graphs</a><br>
+      Julien Dallot, Darya Melnyk, Maciej Pacut, and Stefan Schmid.<br>
+        46th IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>), 
+        Seoul, South Korea, June 2026.<br>
+              Documents: paper&nbsp;<a href="./icdcs26stars.pdf">pdf</a>, 
+                            slides&nbsp;<a href="./icdcs26stars-slides.pdf">pdf</a>,
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+
+   <li>
+      <p><a href="./ifip26leo.pdf">Multi-Modal Measurements of Weather Effects and Link Quality Dynamics in LEO Satellite Networks</a><br>
+     Simon Damm, Clemens Lottermoser, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+     Limassol, Cyprus, May 2025.<br>
+      Documents: paper&nbsp;<a href="./ifip26leo.pdf">pdf</a>, 
+                        slides&nbsp;<a href="./ifip26leo-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
+    </li>  
+    
        <li>
       <p><a href="./icc26.pdf">Rethinking Fronthaul Topologies for Cell-Free 6G Networks</a><br>
       Max Franke, Arash Pourdamghani, Fabian G&ouml;ttsch, Stefan Schmid, and Giuseppe Caire.<br>
