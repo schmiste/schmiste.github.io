@@ -1231,6 +1231,17 @@ Despite Adaptive Jamming</a><br>
                         slides&nbsp;<a href="./ifip26leo-slides.pdf">pdf</a>, 
               bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
     </li>  
+
+            <li>
+      <p><a href="./ifip26oran.pdf">Covert Communication Channels in the
+O-RAN SC Near-Real Time RIC</a> (Short Paper)<br>
+     Daniel Balint, Kashyap Thimmaraju, and Stefan Schmid.<br>
+      <b>IFIP Networking</b>, 
+     Lugano, Switzerland, May 2026.<br>
+      Documents: paper&nbsp;<a href="./ifip26oran.pdf">pdf</a>, 
+                        slides&nbsp;<a href="./ifip26oran-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>    
+    </li> 
          
                             <li>
       <p><a href="./ofc26.pdf">Single Microcomb Source for Ultra-Scalable Datacenters for Dense Deep Neural Network Workloads</a><br>
