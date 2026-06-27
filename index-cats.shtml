@@ -1120,8 +1120,8 @@ Despite Adaptive Jamming</a><br>
 
   <h2>Conferences</h2>
   
-  <ul>   
-         <li>
+  <ul>
+             <li>
       <p><a href="./pets26.pdf">Breaking Pseudonymity: Linkage Attacks on Blockchain Users with Off-Chain Cues</a><br>
       Alexander Smirnov, Stefan Schmid, and Friedhelm Victor.<br>
      26th Privacy Enhancing Technologies Symposium (<b>PETS</b>), Calgary, Canada, July 2026.<br>
@@ -1165,6 +1165,14 @@ Despite Adaptive Jamming</a><br>
       Documents: paper&nbsp;<a href="./ics26.pdf">pdf</a>, slides&nbsp;<a href="./ics26-slides.pdf">pdf</a>, 
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
+
+     <li>
+  <p><a href="./sand26.pdf">More Bang for the Buck: Superlinear Scaling with Distributed Self-Adjusting Systems</a><br>
+  Jonas Köppeler, Maciej Pacut, Tamas Levai, Vamsi Addanki, Stefan Schmid, and Gabor Retvari.<br>
+  Symposium on Algorithmic Foundations of Dynamic Networks (<b>SAND</b>), Le Havre, France, July 2026.<br>
+  Documents: paper&nbsp;<a href="./sand26.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
 
 
        <li>
@@ -1274,17 +1282,8 @@ David Moss, Stefan Schmid, and Leif Oxenlowe.<br>
                  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
      </li>
 
-                    <li>
-      <p><a href="./globecom25w.pdf">Optimizing Fronthaul Quantization for Flexible User Load in Cell-Free Massive MIMO</a><br>
-      Fabian G&ouml;ttsch, Max Franke, Arash Pourdamghani, Giuseppe Caire, and Stefan Schmid.<br>
-       IEEE Globecom Workshop on Resilience in Next-Generation Wireless Communication Networks,
-       Taipei, Taiwan, December 2025.<br>
-              Documents: paper&nbsp;<a href="./globecom25w.pdf">pdf</a>, 
-              slides&nbsp;<a href="./globecom25w-slides.pdf">pdf</a>, 
-              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
-    </li>
 
-               <li>
+              <li>
       <p><a href="./opodis25kleinberg.pdf">Demand-Aware Small-World Networks on Clustered Demands</a><br>
       Chen Avin, Robert Els&auml;sser, Aleksander Figiel, Darya Melnyk, and Stefan Schmid.<br>
        29th International Conference on Principles of Distributed Systems (<b>OPODIS</b>),
@@ -4139,6 +4138,24 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>   
+     <li> <p><a href="./naic26gencc.pdf">GenCC: Heterogeneous Network Congestion Control using LLMs</a><br> 
+      Liron Schiff, Neta Rozen Schiff, and Stefan Schmid.<br> 
+      ACM SIGCOMM Workshop on Networks for AI Computing (<b>NAIC</b>), Denver, Colorado, USA, August 2026. <br> 
+      Documents: paper&nbsp;<a href="./naic26gencc.pdf">pdf</a>, 
+      slides&nbsp;<a href="./naic26gencc-slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p> 
+    </li>
+               <li>
+      <p><a href="./globecom25w.pdf">Optimizing Fronthaul Quantization for Flexible User Load in Cell-Free Massive MIMO</a><br>
+      Fabian G&ouml;ttsch, Max Franke, Arash Pourdamghani, Giuseppe Caire, and Stefan Schmid.<br>
+       IEEE Globecom Workshop on Resilience in Next-Generation Wireless Communication Networks,
+       Taipei, Taiwan, December 2025.<br>
+              Documents: paper&nbsp;<a href="./globecom25w.pdf">pdf</a>, 
+              slides&nbsp;<a href="./globecom25w-slides.pdf">pdf</a>, 
+              bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+     
                            <li>
       <p><a href="./asiaccs25.pdf">Coordinate-wise Median in Byzantine Federated Learning</a><br>
       Melanie Cambus, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
@@ -4713,6 +4730,14 @@ Concurrent and Consistent Policy Composition</a><br>
 
 
   <ul> 
+    <li>
+  <p><a href="./sand26-ba.pdf">Brief Announcement: Demand-Aware Consistent Hashing with Bounded Loads &amp; Greedy Routing</a><br>
+  Arash Pourdamghani, Chen Avin, and Stefan Schmid.<br>
+  Symposium on Algorithmic Foundations of Dynamic Networks (<b>SAND</b>), Le Havre, France, July 2026. <em>Brief Announcement.</em><br>
+  Documents: paper&nbsp;<a href="./sand26-ba.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
                                  <li>
       <p><a href="./icbc25poster.pdf">
      Internet Computer as a Data Availability Layer</a> (Poster Paper)<br>
