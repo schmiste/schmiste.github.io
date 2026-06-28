@@ -31,6 +31,14 @@
   <h2>Journals</h2>
 
   <ul>
+    <li>
+  <p><a href="./ccr26pigeon.pdf">The Carrier Pigeon Internet Protocol: An Algorithmic (and Lighthearted) Perspective</a><br>
+  Matthias Bentert, Shay Kutten, Darya Melnyk, Tijana Milentijevic, and Stefan Schmid.<br>
+  ACM SIGCOMM Computer Communication Review (<b>CCR</b>), July 2026.<br>
+  Documents: paper&nbsp;<a href="./ccr26pigeon.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
                         <li>
       <p><a href="https://cacm.acm.org/research/communication-bias-in-large-language-models-a-regulatory-perspective/">Communication Bias in Large Language Models: A Regulatory Perspective</a><br>
       Adrian Kuenzler and Stefan Schmid.<br>
@@ -4733,7 +4741,7 @@ Concurrent and Consistent Policy Composition</a><br>
     <li>
   <p><a href="./sand26-ba.pdf">Brief Announcement: Demand-Aware Consistent Hashing with Bounded Loads &amp; Greedy Routing</a><br>
   Arash Pourdamghani, Chen Avin, and Stefan Schmid.<br>
-  Symposium on Algorithmic Foundations of Dynamic Networks (<b>SAND</b>), Le Havre, France, July 2026. <em>Brief Announcement.</em><br>
+  Symposium on Algorithmic Foundations of Dynamic Networks (<b>SAND</b>), Le Havre, France, July 2026.<br>
   Documents: paper&nbsp;<a href="./sand26-ba.pdf">pdf</a>,
   bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
 </li>
