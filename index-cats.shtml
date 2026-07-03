@@ -1129,6 +1129,15 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>
+           <li>
+      <p><a href="./sigcomm26.pdf">Trivance: Latency-Optimal AllReduce by Shortcutting Multiport Networks</a><br>
+      Anton J&uuml;r&szlig;, Vamsi Addanki, and Stefan Schmid.<br>
+       ACM <b>SIGCOMM</b>, 
+        Denver, Colorado, USA, August 2026.<br>
+      Documents: paper&nbsp;<a href="./sigcomm26.pdf">pdf</a>, slides&nbsp;<a href="./sigcomm26slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+    
              <li>
       <p><a href="./pets26.pdf">Breaking Pseudonymity: Linkage Attacks on Blockchain Users with Off-Chain Cues</a><br>
       Alexander Smirnov, Stefan Schmid, and Friedhelm Victor.<br>
@@ -1182,6 +1191,14 @@ Despite Adaptive Jamming</a><br>
   bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
 </li>
 
+<li>
+  <p><a href="./oecc26.pdf">Exabit/s Scale Communications with a Single Microcomb for Ultra-Scalable Data Centers</a><br>
+  Christian Koefoed Schou, Silas Lasak Hedeboe, Arjun Kurur, Oliver Malte L&oslash;lloff Larsen, Sameer Ahmad Mir, Sarah Michelle Hammer, Yang Liu, Haoyang Tan, Deming Kong, Fl&oacute;ra Vikt&oacute;ria K&aacute;rp&aacute;t, Yi Zheng, Yanjing Zhao, Max Franke, Minhao Pu, Kresten Yvind, Metodi Yankov, S&oslash;ren Forchhammer, Michael Galili, David J. Moss, Stefan Schmid, and Leif Katsuo Oxenl&oslash;we.<br>
+  31st OptoElectronics and Communications Conference (<b>OECC</b>), Post-Deadline Paper, 
+  Busan, South Korea, June 2026.<br>
+  Documents: paper&nbsp;<a href="./oecc26.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
 
        <li>
       <p><a href="./stoc26frr.pdf">Perfect Network Resilience in Polynomial Time</a><br>
