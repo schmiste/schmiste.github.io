@@ -4163,6 +4163,15 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>   
+        <li>
+  <p><a href="./hotoptics26bruck.pdf">Revisiting Bruck: Phase-Efficient All-to-All Communication in Reconfigurable Networks</a><br>
+  Anton J&uuml;r&szlig; and Stefan Schmid.<br>
+  ACM SIGCOMM Workshop on Hot Topics in Optical Technologies and Applications in Networking (<b>HotOptics</b>), Denver, Colorado, USA, August 2026. <br>
+  Documents: paper&nbsp;<a href="./hotoptics26bruck.pdf">pdf</a>,
+  slides&nbsp;<a href="./hotoptics26bruck-slides.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
      <li> <p><a href="./naic26gencc.pdf">GenCC: Heterogeneous Network Congestion Control using LLMs</a><br> 
       Liron Schiff, Neta Rozen Schiff, and Stefan Schmid.<br> 
       ACM SIGCOMM Workshop on Networks for AI Computing (<b>NAIC</b>), Denver, Colorado, USA, August 2026. <br> 
