@@ -1129,6 +1129,49 @@ Despite Adaptive Jamming</a><br>
   <h2>Conferences</h2>
   
   <ul>
+               <li>
+      <p><a href="./nsdi27.pdf">Vermilion: A Traffic-Aware Reconfigurable Optical Interconnect
+  with Formal Throughput Guarantees</a><br>
+      Vamsi Addanki, Deeksha Panduranga Rao, Goran Dario Knabe, Chen Avin, and Stefan Schmid.<br>
+        24th USENIX Symposium on Networked Systems Design and Implementation (<b>NSDI</b>), 
+        Providence, Rhode Island, USA, May 2027.<br>
+      Documents: paper&nbsp;<a href="./nsdi27.pdf">pdf</a>, 
+      slides&nbsp;<a href="./nsdi27slides.pdf">pdf</a>, 
+      bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
+    <li>
+  <p><a href="./globecom26.pdf">Cost-Efficient Traffic Allocation for CDNs under Mixed Billing Models</a><br>
+  Huiran Liu, Juan Vanerio, and Stefan Schmid.<br>
+  IEEE Global Communications Conference (<b>GLOBECOM</b>), Macau, China, December 2026.<br>
+  Documents: paper&nbsp;<a href="./globecom26.pdf">pdf</a>, slides&nbsp;<a href="./globecom26-slides.pdf">pdf</a>,
+             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
+<li>
+  <p><a href="./atva26.pdf">SyOpt: Constrained Genetic Algorithm for Near-Optimal Resilient Routing Synthesis</a><br>
+  Csaba Györgyi, Kim Larsen, Stefan Schmid, and Jiri Srba.<br>
+  24th International Symposium on Automated Technology for Verification and Analysis (<b>ATVA</b>), Hong Kong SAR, China, December 2026.<br>
+  Documents: paper&nbsp;<a href="./atva26.pdf">pdf</a>, slides&nbsp;<a href="./atva26-slides.pdf">pdf</a>,
+             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
+<li>
+  <p><a href="./waoa26.pdf">Designing Caterpillars for Graphs: Approximation and Hardness</a><br>
+  Leon Kullmann, Phuoc Lucky Trinh, Leon Kellerhals, Mitja Krebs, André Nichterlein, and Stefan Schmid.<br>
+  Workshop on Approximation and Online Algorithms (<b>WAOA</b>), L'Aquila, Italy, September 2026.<br>
+  Documents: paper&nbsp;<a href="./waoa26.pdf">pdf</a>, slides&nbsp;<a href="./waoa26-slides.pdf">pdf</a>,
+             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
+    <li>
+  <p><a href="./aft26.pdf">Friend or Foe? Anomalous Peers in Monero's P2P Network</a><br>
+  Yannik Kopyciok, Stefan Schmid, and Friedhelm Victor.<br>
+  8th International Conference on Advances in Financial Technologies (<b>AFT</b>), London, UK, October 2026.<br>
+  Documents: paper&nbsp;<a href="./aft26.pdf">pdf</a>, slides&nbsp;<a href="./aft26-slides.pdf">pdf</a>,
+             bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
            <li>
       <p><a href="./sigcomm26.pdf">Trivance: Latency-Optimal AllReduce by Shortcutting Multiport Networks</a><br>
       Anton J&uuml;r&szlig;, Vamsi Addanki, and Stefan Schmid.<br>
