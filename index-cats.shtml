@@ -80,6 +80,15 @@
    </p>
       </li>
      
+                                        <li>
+      <p><a href="./dist26.pdf">Demand-Aware Plane Spanners of Bounded Degree</a><br>
+Esra Ceylan, Klaus-Tycho Foerster, Stefan Schmid, and Katsiaryna Zaitsava.<br>
+     Distributed Computing (<b>DIST</b>), Springer, 2026.<br>
+      Documents: paper&nbsp;<a href="./dist26.pdf">pdf</a>, 
+                  video&nbsp;<a href="./IFIP-Video.mp4">mp4</a>,
+            bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+    </li>
+
                     <li>
       <p><a href="./cacm25.pdf">Revolutionizing Datacenter Networks via Reconfigurable Topologies</a><br>
       Chen Avin and Stefan Schmid.<br>
@@ -1182,6 +1191,14 @@ Despite Adaptive Jamming</a><br>
   Tokyo, Japan, November 2026.<br>
   Documents: paper&nbsp;<a href="./mobihoc26bridge.pdf">pdf</a>,
   slides&nbsp;<a href="./mobihoc26bridge-slides.pdf">pdf</a>,
+  bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
+</li>
+
+<li>
+  <p><a href="./disc26ba.pdf">Brief Announcement: Liquid Democracy under Vote Correlation: On the Fallacies of Averaging and the Excluded Middle</a><br>
+  Seth Gilbert, Stefan Schmid, Santiago Schnell, Jakub Svoboda, and Michelle X. Yeo.<br>
+  International Symposium on Distributed Computing (<b>DISC</b>), LIPIcs, Volume 397, November 2026.<br>
+  Documents: paper&nbsp;<a href="./disc26ba.pdf">pdf</a>,
   bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
 </li>
 
