@@ -4324,13 +4324,14 @@ Service Migration in Virtual Networks</a><br>
 
 
   <ul>   
-    <li>
+<li>
   <p><a href="./hotnets26dnssec.pdf">Infer, Don't Negotiate: Unilateral ML-Based Cipher Selection for DNSSEC</a><br>
   Stefan Schmid, Haya Schulmann, Juan Martin Vanerio, and Michael Waidner.<br>
   25th ACM Workshop on Hot Topics in Networks (<b>HotNets</b>),
   Salt Lake City, Utah, USA, November 2026.<br>
   Documents: paper&nbsp;<a href="./hotnets26dnssec.pdf">pdf</a>,
   slides&nbsp;<a href="./hotnets26dnssec-slides.pdf">pdf</a>,
+  poster&nbsp;<a href="./hotnets26dnssec-poster.pdf">pdf</a>,
   bibtex&nbsp;<a href="./stefan_schmid-all.bib">bib</a></p>
 </li>
 
